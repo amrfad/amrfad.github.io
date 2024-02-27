@@ -1,56 +1,170 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Proyek1 STr HTML 27 02 2024</title>
-    <link rel="stylesheet" href="css/style.css">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto&family=Srisakdi&display=swap" rel="stylesheet">
-
+    <title>Amr Fadhilah's Profile</title>
+    <link rel="stylesheet" href = "css/style.css">
 </head>
-
 <body>
     <header>
-
-        <nav>
-            <div class="logo">
-                <h4>Rizqi Proyek 1</h4>
-            </div>
-            <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="#">Subjects</a></li>
-                <li><a href="#">Files</a></li>
-                <li><a href="#">Assignment</a></li>
-                <li><a href="#">About</a></li>
-            </ul>
-            <div class="menu-toggle">
-                <input type="checkbox">
-                <span></span>
-                <span></span>
-                <span></span>   
-            </div>
+        <img src="img/fotoplangjtk.jpg" class="polban-image"/>
+        <nav id="navbar">
+            <section style="justify-content: center; margin: 0 auto;">
+                <ul>
+                    <li><a href="#biodata">Biodata</a></li>
+                    <li><a href="#kemampuan-teknis">Kemampuan Teknis</a></li>
+                    <li><a href="#lesson">Lesson Learned</a></li>
+                    <li><a href="#harapan">Harapan</a></li>
+                    <li><a href="#galeri">Galeri</a></li>
+                    <li><a href="#map">Alamat Kampus</a></li>
+                    <li><a href="#video">Perkenalan</a></li>
+                    <li><a href="#contacts">Contacts</a></li>
+                </ul>
+            </section>
         </nav>
     </header>
-    <div class="container">
     <main>
-        <div class="box flextwo">
-            <article>
-                <h2>Tentang Web</h2>
-                <p>Web Ini dibuat untuk memenuhi tugas Proyek 1. Beberapa sumber yang dipakai dalam pengerjaan tugas ini selain dari lms  adalah dari ... Terima Kasih</p>
-            </article>
-        </div>
-        <aside class="box flexone">
-            <img src="img/RIZQI.png" class="image"/>
-            <h5>Muhammad Rizqi Sholahuddin</h5>
-        </aside>
-    </main>
-    <footer class="box">
-        Rizqi, Di depan Laptop 27 Februari 2024
-    </footer>
-    </div>
-</div>
-    <script src="js/main.js"></script>
-</body>
+        <section class="container" id="biodata">
+            <h2>Biodata</h2>
+            <section style="display: flex; justify-content: center;">
+                <img src="img/fotosaya.jpg" alt="Foto Amr" class="gambar-saya"/>
+                <ul style="list-style: none; font-size: larger;">
+                    <li><strong>Nama:</strong> Amr Fadhilah Abiyyu Alif Basysyar</li>
+                    <li><strong>Umur:</strong> 18 Tahun</li>
+                    <li><strong>Tempat dan Tanggal Lahir:</strong> Bandung, 16 Juni 2005</li>
+                    <li><strong>Jenis Kelamin:</strong> Laki-laki</li>
+                    <li><strong>Alamat Tinggal:</strong> Jalan Kampus Polban No. 19A, Desa Ciwaruga, Kec. Parongpong</li>
+                    </br>
+                    <li><strong>Hobi:</strong></li>
+                    <ul>
+                        <li>Membaca Buku</li>
+                        <li>Mendengarkan Musik</li>
+                        <li>Menonton Film</li>
+                        <li>Bermain Game</li>
+                    </ul>
+                </ul>
+            </section>
+        </section>
 
+        <section class="container" style="text-align: center;">
+            <p id="motto" style="font-size: 25px;"><strong>"If you don't sacrifice for what you want, what you want becomes the sacrifice."</strong></p>
+        </section>
+
+        <section class="container">
+            <h2 id="kemampuan-teknis">Kemampuan Teknis</h2>
+            <!-- Berisi tabel yang terdiri dari keterampilan, penjelasan, dan sertifikat -->
+            <table>
+                <thead>
+                    <tr>
+                        <th>Kemampuan</th>
+                        <th>Deskripsi</th>
+                        <th>Sertifikat</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Python</td>
+                        <td>Terbiasa dalam menggunakan Python untuk analisis data, machine learning, dan web scraping.</td>
+                        <td><a href="https://drive.google.com/file/d/1WCz_CJjX_shpDRY3lUL7tD96haztC3Ev/view?usp=drive_link">[ Here ]</a></td>
+                    </tr>
+                    <tr>
+                        <td>Scikit-Learn</td>
+                        <td>Berpengalaman dalam menggunakan Scikit-Learn untuk klasifikasi, regresi, clustering, 
+                            dimesionality reduction, model selection, dan preprocessing.</td>
+                        <td><a href="https://drive.google.com/file/d/13_qMM-0UbEkCS51Yog3vGPRQdVZCQvDD/view?usp=drive_link">[ Here ]</a></td>
+                    </tr>
+                    <tr>
+                        <td>TensorFlow</td>
+                        <td>Berpengalaman dalam pengembangan model deep learning menggunakan TensorFlow.</td>
+                        <td><a href="https://drive.google.com/file/d/13_qMM-0UbEkCS51Yog3vGPRQdVZCQvDD/view?usp=drive_link">[ Here ]</a></td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+
+
+        <section class="container" style="text-align: center;">
+            <h2 id="lesson">Lesson Learned</h2>
+            <!-- Berisi lesson learn, dibungkus dalam suatu kotak -->
+            <div class="content-container">
+                <div class="box">
+                    <p><strong>Membuat Website Statis dengan Design Sederhana</strong></p>
+                </div>
+                <div class="box">
+                    <p><strong>Penggunaan GitHub untuk Publish Website</strong></p>
+                </div>
+                <div class="box">
+                    <p><strong>Pemahaman Dasar dari HTML serta CSS untuk Website Development</strong></p>
+                </div>
+            </div>
+        </section>
+
+        <section class="container">
+            <h2 id="harapan">Harapan Setelah Lulus Dari JTK</h2>
+            <p style="margin: 20px; font-size: 20px;">Sudah cukup lama saya memiliki ketertarikan di bidang Machine Learning, entah akan berubah seiring berjalannya
+                waktu atau tidak. Jika sampai lulus nanti saya masih konsisten memiliki dengan minat itu, saya berharap saya bisa
+                bekerja sebagai Machine Learning Engineer atau semacamnya. Saya berharap penghasilan yang saya dapatkan nanti
+                cukup untuk saya bertahan dan hidup dengan penuh kebahagiaan.
+            </p>
+        </section>
+
+        <section class="container">
+            <h2 id="galeri">Galeri</h2>
+            <!-- Berisi 3 foto saya -->
+            <div class="image-container">
+                <img src="img/img1.jpg" alt="gambar 1">
+                <img src="img/img2.jpg" alt="gambar 2">
+                <img src="img/img3.jpg" alt="gambar 3">
+            </div>
+        </section>
+
+        <section class="container">
+            <h2 id="map">Alamat Kampus</h2>
+            <!-- Berisi alamat polban -->
+            <iframe 
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1980.5794331434245!2d107.57224213858555!3d-6.871559898281799!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e420abc30acf%3A0x10569255865460a5!2sPoliteknik%20Negeri%20Bandung!5e0!3m2!1sen!2sid!4v1709006846273!5m2!1sen!2sid"
+                width="600"
+                height="450"
+                frameborder="0"
+                style="border:0; margin: 0 auto; display: block;"
+                allowfullscreen>
+            </iframe>
+        </section>
+
+        <section class="container video-section">
+            <h2 id="video">Video Perkenalan</h2>
+            <div class="video-wrapper">
+                <!-- Berisi video yang di-link dari channel youtube saya -->
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/RdGlLKpn05c?si=zFHax15i9hQWQIO7" frameborder="0" allowfullscreen></iframe>
+            </div>
+        </section>
+
+        <section class="container">
+            <h2 id="contacts">Informasi Lainnya</h2>
+            <div class="contact">
+                <a href="https://github.com/amrfad">
+                  <img src="img/github-mark.png" alt="GitHub">
+                </a>
+            
+                <a href="https://www.linkedin.com/in/amr-fadhilah-abiyyu">
+                 <img src="img/linkedin.png" alt="LinkedIn">
+                </a>
+            
+                <a href="mailto:amr.fadhilah.tif423@polban.ac.id">
+                  <img src="img/email-logo.png" alt="Email">
+                </a>
+            
+                <a href="https://www.kaggle.com/amrfadhilah">
+                  <img src="img/kaggle-logo.png" alt="Kaggle">
+                </a>
+            
+            </div>
+        </section>
+
+    </main>
+    <footer>
+        <p>&copy; 2024 Amr Fadhilah Abiyyu Alif Basysyar.</p>
+    </footer>
+</body>
 </html>

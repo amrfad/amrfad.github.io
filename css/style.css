@@ -1,182 +1,191 @@
-* {
-  margin: 0;
-  padding: 0;
-}
+
 body {
-  font-family: "Roboto", sans-serif;
-  overflow-x: hidden;
-}
-/*navbar*/
-nav {
-  display: flex;
-  background-color: coral;
-  justify-content: space-around;
-  /* padding: 20px 0; atas bawah 20  kiri kanan 0 */
-  /* atur padding dengan flex */
-  height: 45px;
-  align-items: center;
-  color: whitesmoke;
-}
-nav ul {
-  display: flex;
-  list-style: none;
-  width: 40%;
-  justify-content: space-between;
-  transition: all 0.4s;
-}
-nav .logo {
-  font-family: "Srisakdi", cursive;
-  letter-spacing: 3px; /*space antar char*/
-}
-
-nav ul li a {
-  text-decoration: none;
-  color: white;
-  font-size: 0.9rem;
-}
-
-nav ul li a:hover {
-  color: teal;
-}
-  /* hamburger menu */
-  .menu-toggle{
-    display: none; 
-    flex-direction: column;
-    height: 17px;
-    justify-content: space-between;
-    position: relative;
- }
- .menu-toggle input{
-     position: absolute;
-     top:-5px;
-     left:-3px;
-     width:21px;
-     height: 21px;
-     opacity: 0;
-     cursor: pointer;
-     z-index: 2;
- }
- .menu-toggle span{
-     display: block;
-     width: 21px;
-     height: 2px;
-     background-color: whitesmoke;
-     border-radius: 3px;
-     transition: all 0.7s;
- }
-
-   /*x on hamburger menu*/
-   .menu-toggle span:nth-child(2){
-    transform-origin: left center;
-  }
-  
-  .menu-toggle span:nth-child(4){
-    transform-origin: left center;
-  }
-  
-  .menu-toggle input:checked ~ span:nth-child(2){
-    transform: rotate(45deg) ;
-  }
-  
-  .menu-toggle input:checked ~ span:nth-child(4){
-    transform: rotate(-45deg) ;
-  }
-  /* invis span ke 2 / child ke 3 */
-  .menu-toggle input:checked ~ span:nth-child(3){
-    width: 0%;
-    opacity: 0;
-    transition: .1s
-  }
-
-  .image {
-   
     width: 100%;
-    height: auto;  
-    max-width: 140px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0; 
+    background: #f2f2f2; 
+}
+  
+main {
+    width: 100%;
+    max-width: 100%;
+}
+
+h2 {
+    color: #ffffff;
+    background-color: #4d4d4d; 
+    margin-top: 0px;
+    margin-bottom: 15px;
+    padding: 10px; 
+    border-radius: 15px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    text-align: center;
+}
+
+
+.polban-image {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    object-fit: cover;
+    object-position: center;
+}
+
+#navbar {
+    position: sticky;
+    top: 0;
+    left: 0;
+    right: 0; /* Menetapkan right: 0 untuk melebar elemen secara penuh */
+    display: flex;
+    align-items: center;
+    height: 60px; 
+    background: #ddd;
+    margin-left: auto; /* Menetapkan margin-left: auto */
+    margin-right: auto; /* Menetapkan margin-right: auto */
+}
+
+#navbar ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+#navbar li {
+    margin: 0 10px;
+}
+
+#navbar a {
+    color: #333;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+
+.gambar-saya {
+    border-radius: 50%;
+    width: 250px;
+    height: auto;
+    margin: 40px;
+}
+
+.contact {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+  
+.contact a {
+    padding: 10px;
+}
+  
+.contact img {
+    width: 50px;
+    height: auto;
+}
+  
+.contact img:hover {
+    opacity: 0.8;
+    transform: scale(1.1);
 }
 
 .container {
-    display: flex;
-    flex-direction: column;
-
-    border: 2px solid blue;
-    padding: 8px;
-    border-radius: 5px;
-    margin: 0 auto;
-
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    padding: 20px;
+    background-color: #fff;
+    margin: 20px 190px;
 }
-main {
+
+#motto {
+    font-size: 18px;
+    line-height: 1.5;
+    color: #333;
+    font-style: italic;
+    margin: 0;
+}
+
+.video-section {
+    text-align: center;
+    padding: 20px;
+}
+
+.video-wrapper {
+    position: relative;
+    padding-bottom: 56.25%; /* Perbandingan aspek video 16:9 */
+    overflow: hidden;
+    margin: 0 auto; /* Tambahkan margin: 0 auto; untuk membuatnya di tengah */
+}
+
+.video-wrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    background: #fff;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+th, td {
+    padding: 12px 15px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+tr:hover {
+    background-color: #f5f5f5;
+}
+
+table a {
+    color: #666;
+    text-decoration: none;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: #fff;
+}
+
+.image-container {
     display: flex;
-    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.image-container img {
+    width: 30%;
+    height: auto;
+}
+
+.content-container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
 }
 
 .box {
-    margin: 5px;
-    padding: 10px;
-    border-radius: 5px;
+    width: 30%;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 10px;
+    font-style: bold;
 }
-/* supaya ada jarak antar box  */
-.flexone{
-flex-grow: 1;
-}
-.flextwo{
-    flex-grow: 2;
-    }
-footer {
-    text-align: center;
-}
-h2 {
-  
-    text-align: center;
-    color: brown;
-    text-justify: inter-word;
-    word-wrap: break-word;
-
-}
-h5 {
-  text-align: center;
-  color: red;
-  word-wrap: break-word;
- 
-}
-p {
-    text-align: justify;
-    text-justify: inter-word;
-}
-@media screen and (max-width: 768px) {
-    nav ul{
-      width: 50%;
-    }
-  }
-
-  @media screen and (max-width: 576px) {
-   .menu-toggle{
-       display: flex;
-   }
-   main{
-       flex-direction: column-reverse;
-   }
-    nav ul{
-      position: absolute;
-      right:0;
-      top: 0;
-      width: 50%;
-      flex-direction: column;
-      height: 100vh;
-      justify-content:space-evenly;
-      align-items: center;
-      background-color: coral;
-      /* transform: translateX(100%);  */
-      transition: all 0.72s;
-      opacity: 0;
-      z-index: 2;
-    }
-    nav ul.menushow{
-        opacity: 0.5;
-        /* transform: translateX(0); */
-    }
-  }
-
