@@ -43,7 +43,7 @@
 </head>
 <body>
   <h1 style="text-align: center;">Berita Terkini dari Republika</h1>
-  <button class='btn-update' onclick="triggerWebhook()">Refresh Data</button>
+  <button id="run-workflow-button">Refresh Data</button>
   <div id="table-container"></div>
 </body>
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
@@ -83,31 +83,38 @@
   });
 </script>
 <script>
-  function triggerWebhook() {
-    const username = 'amrfad';
-    const repository = 'amrfad.github.io';
-    const token = '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';
+// Ambil token GitHub Anda
+const githubToken = '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';
 
-    fetch(`https://api.github.com/repos/${username}/${repository}/dispatches`, {
+// Tentukan detail repository dan workflow
+const repoOwner = 'amrfad';
+const repoName = 'amrfad.github.io';
+const workflowFileName = 'update_data.yml';
+
+// Tambahkan event listener pada button
+const button = document.getElementById('run-workflow-button');
+button.addEventListener('click', runWorkflow);
+
+async function runWorkflow() {
+  try {
+    // Buat request untuk menjalankan workflow
+    const response = await fetch(`https://api.github.com/repos/${repoOwner}/${repoName}/actions/workflows/${workflowFileName}/dispatches`, {
       method: 'POST',
       headers: {
-        'Accept': 'application/vnd.github.everest-preview+json',
-        'Authorization': `token ${token}`,
-        'Content-Type': 'application/json'
+        'Content-Type': 'application/json',
+        'Authorization': `Bearer ${githubToken}`
       },
-      body: JSON.stringify({ event_type: 'trigger' })
-    })
-    .then(response => {
-      if (response.ok) {
-        alert('Webhook berhasil dipicu!');
-      } else {
-        alert('Gagal memicu webhook. Status: ' + response.status);
-      }
-    })
-    .catch(error => {
-      console.error('Error:', error);
-      alert('Terjadi kesalahan. Lihat konsol untuk detail.');
+      body: JSON.stringify({})
     });
+
+    if (response.ok) {
+      console.log('Workflow triggered successfully!');
+    } else {
+      console.error('Failed to trigger workflow:', response.status);
+    }
+  } catch (error) {
+    console.error('Error triggering workflow:', error);
   }
+}
 </script>
 </html>
