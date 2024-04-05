@@ -2,17 +2,15 @@ import requests
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
 import json
-
+import pytz
 
 # Making a GET request
 URL = 'https://www.republika.co.id/'
 r = requests.get(URL)
 
-
 # Parsing the HTML
 soup = BeautifulSoup(r.content, 'html.parser')
 contents = soup.find_all('li', class_='list-group-item list-border conten1')
-
 
 # Mendapatkan nama bulan berdasarkan angkanya
 def get_bulan(bulan):
@@ -22,18 +20,18 @@ def get_bulan(bulan):
 # Fungsi untuk mendapatkan waktu terbit dari berita
 def get_publish_time(jeda_publish):
     jeda_publish = jeda_publish.text.split('-')[-1].strip().split()[0:2]
+    waktu_jakarta = pytz.timezone('Asia/Jakarta')
     if jeda_publish[1] in ['detik', 'seconds']:
-        publish_time = datetime.now() - timedelta(seconds=int(jeda_publish[0]))
-        scrap_time = datetime.now()
+        publish_time = datetime.now(waktu_jakarta) - timedelta(seconds=int(jeda_publish[0]))
+        scrap_time = datetime.now(waktu_jakarta)
     elif jeda_publish[1] in ['menit', 'minutes']:
-        publish_time = datetime.now() - timedelta(minutes=int(jeda_publish[0]))
-        scrap_time = datetime.now()
+        publish_time = datetime.now(waktu_jakarta) - timedelta(minutes=int(jeda_publish[0]))
+        scrap_time = datetime.now(waktu_jakarta)
     elif jeda_publish[1] in ['jam', 'hours']:
-        publish_time = datetime.now() - timedelta(hours=int(jeda_publish[0]))
-        scrap_time = datetime.now()
+        publish_time = datetime.now(waktu_jakarta) - timedelta(hours=int(jeda_publish[0]))
+        scrap_time = datetime.now(waktu_jakarta)
     return (f"{publish_time.day} {get_bulan(publish_time.month)} {publish_time.year} {publish_time.strftime('%H:%M:%S')}", 
             f"{scrap_time.day} {get_bulan(scrap_time.month)} {scrap_time.year} {scrap_time.strftime('%H:%M:%S')}")
-
 
 # Fungsi untuk mendapatkan nama penulis dari suatu berita
 def get_writer(link_berita, kategori):
@@ -47,7 +45,6 @@ def get_writer(link_berita, kategori):
     # Melakukan parsing HTML
     soup_berita = BeautifulSoup(berita.content, 'html.parser')
     # Mencari nama penulis (dengan informasi tertentu)
-    print(berita.status_code, ':', link_berita)
     if subdomain == 'ramadhan':
         try: return soup_berita.find('div', class_='read-title').find('h2').find('span').find('span').find('span').text.strip()
         except AttributeError: return soup_berita.find('div', class_='read-title').find('h2').find('span').text.strip()
@@ -72,7 +69,6 @@ def get_writer(link_berita, kategori):
             pass
     return '-'
 
-
 # Menambahkan elemen berita baru ke list_berita
 list_berita = []
 for content in contents:
@@ -93,7 +89,6 @@ for content in contents:
                         'Waktu Terbit': publish_time,
                         'Waktu Scrapping': scrap_time,
                         'Penulis': penulis})
-
 
 # Mengkonversi dictionary menjadi file .json
 with open("daftar_berita.json", "w") as outfile:
