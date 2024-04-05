@@ -35,46 +35,79 @@
     a:hover {
       color: rgb(0, 66, 116);
     }
-  </style>
-  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-  <script>
-    function createTable(data) {
-      let table = '<table>';
-      table += '<thead><tr><th>No</th><th>Judul</th><th>Kategori</th><th>Penulis</th><th>Waktu Terbit</th><th>Waktu Scrapping</th></tr></thead>';
-      table += '<tbody>';
-      
-      let i = 0;
-      data.forEach(item => {
-        table += '<tr>';
-        table += '<td>' + ++i + '</td>';
-        table += '<td>' + '<a href=' + item.Link + '>' + item.Judul + '</a>' + '</td>';
-        table += '<td>' + item.Kategori + '</td>';
-        table += '<td>' + item.Penulis + '</td>';
-        table += '<td>' + item['Waktu Terbit'] + '</td>';
-        table += '<td>' + item['Waktu Scrapping'] + '</td>';
-        table += '</tr>';
-      });
-      
-      table += '</tbody></table>';
-      return table;
+
+    .btn-update {
+      margin: 0 0 20px 10px;
     }
-  
-    $(document).ready(function() {
-      $.getJSON('daftar_berita.json', function(data) {
-        // Menangani data JSON
-        console.log(data);
-        // Panggil fungsi untuk membuat tabel
-        const table = createTable(data);
-        $('#table-container').append(table);
-      })
-      .fail(function(jqXHR, textStatus, errorThrown) {
-        console.log('Error: ' + textStatus + ' - ' + errorThrown);
-      });
-    });
-  </script>  
+  </style>  
 </head>
 <body>
   <h1 style="text-align: center;">Berita Terkini dari Republika</h1>
+  <button class='btn-update' onclick="triggerWebhook()">Refresh Data</button>
   <div id="table-container"></div>
 </body>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+  function createTable(data) {
+    let table = '<table>';
+    table += '<thead><tr><th>No</th><th>Judul</th><th>Kategori</th><th>Penulis</th><th>Waktu Terbit</th><th>Waktu Scrapping</th></tr></thead>';
+    table += '<tbody>';
+      
+    let i = 0;
+    data.forEach(item => {
+      table += '<tr>';
+      table += '<td>' + ++i + '</td>';
+      table += '<td>' + '<a href=' + item.Link + '>' + item.Judul + '</a>' + '</td>';
+      table += '<td>' + item.Kategori + '</td>';
+      table += '<td>' + item.Penulis + '</td>';
+      table += '<td>' + item['Waktu Terbit'] + '</td>';
+      table += '<td>' + item['Waktu Scrapping'] + '</td>';
+      table += '</tr>';
+    });
+      
+    table += '</tbody></table>';
+    return table;
+  }
+  
+  $(document).ready(function() {
+    $.getJSON('daftar_berita.json', function(data) {
+      // Menangani data JSON
+      console.log(data);
+      // Panggil fungsi untuk membuat tabel
+      const table = createTable(data);
+      $('#table-container').append(table);
+    })
+    .fail(function(jqXHR, textStatus, errorThrown) {
+      console.log('Error: ' + textStatus + ' - ' + errorThrown);
+    });
+  });
+</script>
+<script>
+  function triggerWebhook() {
+    const username = 'amrfad';
+    const repository = 'amrfad.github.io';
+    const token = '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';
+
+    fetch(`https://api.github.com/repos/${username}/${repository}/dispatches`, {
+      method: 'POST',
+      headers: {
+        'Accept': 'application/vnd.github.everest-preview+json',
+        'Authorization': `token ${token}`,
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({ event_type: 'trigger' })
+    })
+    .then(response => {
+      if (response.ok) {
+        alert('Webhook berhasil dipicu!');
+      } else {
+        alert('Gagal memicu webhook. Status: ' + response.status);
+      }
+    })
+    .catch(error => {
+      console.error('Error:', error);
+      alert('Terjadi kesalahan. Lihat konsol untuk detail.');
+    });
+  }
+</script>
 </html>
