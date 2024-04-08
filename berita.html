@@ -88,6 +88,9 @@ const repoOwner = 'amrfad';
 const repoName = 'amrfad.github.io';
 const workflowFileName = 'update_data.yml';
 
+// Dapatkan token dari GitHub secret
+const githubToken = '${{ secrets.REPO_TOKEN }}';
+
 // Tambahkan event listener pada button
 const button = document.getElementById('run-workflow-button');
 button.addEventListener('click', runWorkflow);
