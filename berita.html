@@ -43,7 +43,7 @@
 </head>
 <body>
   <h1 style="text-align: center;">Berita Terkini dari Republika</h1>
-  <button id="run-workflow-button">Refresh Data</button>
+<!--   <button id="run-workflow-button">Refresh Data</button> -->
   <div id="table-container"></div>
 </body>
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
@@ -71,8 +71,6 @@
   
   $(document).ready(function() {
     $.getJSON('daftar_berita.json', function(data) {
-      // Menangani data JSON
-      console.log(data);
       // Panggil fungsi untuk membuat tabel
       const table = createTable(data);
       $('#table-container').append(table);
@@ -82,7 +80,7 @@
     });
   });
 </script>
-<script>
+<!-- <script>
 // Tentukan detail repository dan workflow
 const repoOwner = 'amrfad';
 const repoName = 'amrfad.github.io';
@@ -116,5 +114,5 @@ async function runWorkflow() {
     console.error('Error triggering workflow:', error);
   }
 }
-</script>
+</script> -->
 </html>
