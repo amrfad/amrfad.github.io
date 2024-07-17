@@ -3,152 +3,240 @@
         "Judul": "Pengumuman Tender Umum  Angkasa Pura 2",
         "Link": "https://www.republika.co.id/berita/sgpxqv325/pengumuman-tender-umum-angkasa-pura-2",
         "Kategori": "Native",
-        "Waktu Terbit": "17 Juli 2024 05:13:55",
-        "Waktu Scrapping": "17 Juli 2024 10:13:55",
+        "Waktu Terbit": "17 Juli 2024 05:13:40",
+        "Waktu Scrapping": "17 Juli 2024 11:13:40",
         "Penulis": "-"
+    },
+    {
+        "Judul": "LRI-UMS Peroleh Hibah Dana Riset DRTPM Senilai Rp 12 Miliar Lebih",
+        "Link": "https://rejogja.republika.co.id/berita/sgr16n291/lriums-peroleh-hibah-dana-riset-drtpm-senilai-rp-12-miliar-lebih",
+        "Kategori": "Rejogja",
+        "Waktu Terbit": "17 Juli 2024 10:47:40",
+        "Waktu Scrapping": "17 Juli 2024 11:13:40",
+        "Penulis": "Fernan Rahadi"
+    },
+    {
+        "Judul": "Lepas Gibran, Ratusan Relawan Penuhi Gedung DPRD Kota Surakarta",
+        "Link": "https://news.republika.co.id/berita/sgr14v484/lepas-gibran-ratusan-relawan-penuhi-gedung-dprd-kota-surakarta",
+        "Kategori": "News",
+        "Waktu Terbit": "17 Juli 2024 10:45:41",
+        "Waktu Scrapping": "17 Juli 2024 11:13:41",
+        "Penulis": "Erik Purnama Putra"
+    },
+    {
+        "Judul": "ADB Naikkan Proyeksi Pertumbuhan pada 2024 di Asia dan Pasifik",
+        "Link": "https://ekonomi.republika.co.id/berita/sgr0x8370/adb-naikkan-proyeksi-pertumbuhan-pada-2024-di-asia-dan-pasifik",
+        "Kategori": "Ekonomi",
+        "Waktu Terbit": "17 Juli 2024 10:41:42",
+        "Waktu Scrapping": "17 Juli 2024 11:13:42",
+        "Penulis": "Friska Yolandha"
+    },
+    {
+        "Judul": "Farhan dan Atalia Praratya Gelar Pertemuan, Berpasangan di Pilwalkot Bandung?",
+        "Link": "https://rejabar.republika.co.id/berita/sgr0v2512/farhan-dan-atalia-praratya-gelar-pertemuan-berpasangan-di-pilwalkot-bandung",
+        "Kategori": "Rejabar",
+        "Waktu Terbit": "17 Juli 2024 10:40:42",
+        "Waktu Scrapping": "17 Juli 2024 11:13:42",
+        "Penulis": "Arie Lukihardianti"
+    },
+    {
+        "Judul": "Pelajaran dari Lima Pemuda",
+        "Link": "https://rejogja.republika.co.id/berita/sgr0os291/pelajaran-dari-lima-pemuda",
+        "Kategori": "Rejogja",
+        "Waktu Terbit": "17 Juli 2024 10:36:43",
+        "Waktu Scrapping": "17 Juli 2024 11:13:43",
+        "Penulis": "Fernan Rahadi"
+    },
+    {
+        "Judul": "IHSG Diprediksi Menguat di Tengah Rilis Suku Bunga Bank Indonesia",
+        "Link": "https://ekonomi.republika.co.id/berita/sgr048370/ihsg-diprediksi-menguat-di-tengah-rilis-suku-bunga-bank-indonesia",
+        "Kategori": "Ekonomi",
+        "Waktu Terbit": "17 Juli 2024 10:23:44",
+        "Waktu Scrapping": "17 Juli 2024 11:13:44",
+        "Penulis": "Friska Yolandha"
+    },
+    {
+        "Judul": "Hoarding Disorder Viral usai Kamar Kos Bertumpuk Sampah",
+        "Link": "https://senandika.republika.co.id/saujana/1734872011/hoarding-disorder-viral-usai-kamar-kos-bertumpuk-sampah",
+        "Kategori": "Network",
+        "Waktu Terbit": "17 Juli 2024 10:22:45",
+        "Waktu Scrapping": "17 Juli 2024 11:13:45",
+        "Penulis": "-"
+    },
+    {
+        "Judul": "DKI Mau Bangun Pulau Sampah, Ini Tanggapan KLHK",
+        "Link": "https://esgnow.republika.co.id/berita/sgqzso416/dki-mau-bangun-pulau-sampah-ini-tanggapan-klhk",
+        "Kategori": "Esgnow",
+        "Waktu Terbit": "17 Juli 2024 10:17:45",
+        "Waktu Scrapping": "17 Juli 2024 11:13:45",
+        "Penulis": "Satria K Yudha"
+    },
+    {
+        "Judul": "Cuaca Kota Bandung Sangat Dingin di Malam Hari, Ini Penjelasan BMKG",
+        "Link": "https://rejabar.republika.co.id/berita/sgqzsi512/cuaca-kota-bandung-sangat-dingin-di-malam-hari-ini-penjelasan-bmkg",
+        "Kategori": "Rejabar",
+        "Waktu Terbit": "17 Juli 2024 10:16:46",
+        "Waktu Scrapping": "17 Juli 2024 11:13:46",
+        "Penulis": "Arie Lukihardianti"
+    },
+    {
+        "Judul": "Agar Surplus Neraca Perdagangan tak Lanjut Menyusut, Ini yang Perlu Dilakukan Pemerintah",
+        "Link": "https://ekonomi.republika.co.id/berita/sgqzq5370/agar-surplus-neraca-perdagangan-tak-lanjut-menyusut-ini-yang-perlu-dilakukan-pemerintah",
+        "Kategori": "Ekonomi",
+        "Waktu Terbit": "17 Juli 2024 10:15:46",
+        "Waktu Scrapping": "17 Juli 2024 11:13:46",
+        "Penulis": "Friska Yolandha"
+    },
+    {
+        "Judul": "UU Perubahan UU KSDAHE Dinilai tak Berkualitas",
+        "Link": "https://esgnow.republika.co.id/berita/sgqzp6328/uu-perubahan-uu-ksdahe-dinilai-tak-berkualitas",
+        "Kategori": "Esgnow",
+        "Waktu Terbit": "17 Juli 2024 10:14:50",
+        "Waktu Scrapping": "17 Juli 2024 11:13:50",
+        "Penulis": "Indira Rezkisari"
     },
     {
         "Judul": "Gareth Southgate Mundur dari Pelatih Timnas Inggris",
         "Link": "https://tv.republika.co.id/berita/sgqzih313/gareth-southgate-mundur-dari-pelatih-timnas-inggris",
         "Kategori": "Video",
-        "Waktu Terbit": "17 Juli 2024 10:10:56",
-        "Waktu Scrapping": "17 Juli 2024 10:13:56",
+        "Waktu Terbit": "17 Juli 2024 10:13:51",
+        "Waktu Scrapping": "17 Juli 2024 11:13:51",
         "Penulis": "Agung Sasongko"
     },
     {
         "Judul": "SOKSI Dukung Airlangga Hartarto Jadi Ketum Golkar Dua Periode",
         "Link": "https://news.republika.co.id/berita/sgqza5484/soksi-dukung-airlangga-hartarto-jadi-ketum-golkar-dua-periode",
         "Kategori": "News",
-        "Waktu Terbit": "17 Juli 2024 10:05:58",
-        "Waktu Scrapping": "17 Juli 2024 10:13:58",
+        "Waktu Terbit": "17 Juli 2024 10:13:53",
+        "Waktu Scrapping": "17 Juli 2024 11:13:53",
         "Penulis": "Erik Purnama Putra"
     },
     {
         "Judul": "Seminar Jadi Ajang Mahasiswa Prodi Sistem Informasi Pamerkan Inovasi dan Karya",
         "Link": "https://news.republika.co.id/berita/sgqz14370/seminar-jadi-ajang-mahasiswa-prodi-sistem-informasi-pamerkan-inovasi-dan-karya",
         "Kategori": "News",
-        "Waktu Terbit": "17 Juli 2024 10:00:58",
-        "Waktu Scrapping": "17 Juli 2024 10:13:58",
+        "Waktu Terbit": "17 Juli 2024 10:13:54",
+        "Waktu Scrapping": "17 Juli 2024 11:13:54",
         "Penulis": "Friska Yolandha"
     },
     {
         "Judul": "Cina Pangkas Emisi Karbon Pembangkit Batu Bara",
         "Link": "https://esgnow.republika.co.id/berita/sgqsqi416/cina-pangkas-emisi-karbon-pembangkit-batu-bara",
         "Kategori": "Esgnow",
-        "Waktu Terbit": "17 Juli 2024 09:59:59",
-        "Waktu Scrapping": "17 Juli 2024 10:13:59",
+        "Waktu Terbit": "17 Juli 2024 10:13:55",
+        "Waktu Scrapping": "17 Juli 2024 11:13:55",
         "Penulis": "Satria K Yudha"
     },
     {
         "Judul": "Ilmuwan Temukan Biang Kerok Baru Nyeri Migrain",
         "Link": "https://impresiupdate.id/posts/319702/ilmuwan-temukan-biang-kerok-baru-nyeri-migrain",
         "Kategori": "Network",
-        "Waktu Terbit": "17 Juli 2024 09:55:59",
-        "Waktu Scrapping": "17 Juli 2024 10:13:59",
+        "Waktu Terbit": "17 Juli 2024 10:13:55",
+        "Waktu Scrapping": "17 Juli 2024 11:13:55",
         "Penulis": "-"
     },
     {
         "Judul": "Cahaya Bisa Jadi Cara Baru Mengobati Kanker yang Sudah Menyebar Jauh",
         "Link": "https://impresiupdate.id/posts/319707/cahaya-bisa-jadi-cara-baru-mengobati-kanker-yang-sudah-menyebar-jauh",
         "Kategori": "Network",
-        "Waktu Terbit": "17 Juli 2024 09:56:01",
-        "Waktu Scrapping": "17 Juli 2024 10:14:01",
+        "Waktu Terbit": "17 Juli 2024 10:14:00",
+        "Waktu Scrapping": "17 Juli 2024 11:14:00",
         "Penulis": "-"
     },
     {
         "Judul": "Jelang COP29 Azerbaijan Bentuk Dana Iklim",
         "Link": "https://esgnow.republika.co.id/berita/sgqyi1328/jelang-cop29-azerbaijan-bentuk-dana-iklim",
         "Kategori": "Esgnow",
-        "Waktu Terbit": "17 Juli 2024 09:49:03",
-        "Waktu Scrapping": "17 Juli 2024 10:14:03",
+        "Waktu Terbit": "17 Juli 2024 10:14:06",
+        "Waktu Scrapping": "17 Juli 2024 11:14:06",
         "Penulis": "Indira Rezkisari"
     },
     {
         "Judul": "Louis Tomlinson Bereaksi Atas Pengunduran Diri Manajer Inggris Gareth Southgate",
         "Link": "https://impresi.republika.co.id/sosok/1694871901/louis-tomlinson-bereaksi-atas-pengunduran-diri-manajer-inggris-gareth-southgate",
         "Kategori": "Network",
-        "Waktu Terbit": "17 Juli 2024 09:49:03",
-        "Waktu Scrapping": "17 Juli 2024 10:14:03",
+        "Waktu Terbit": "17 Juli 2024 10:14:07",
+        "Waktu Scrapping": "17 Juli 2024 11:14:07",
         "Penulis": "-"
     },
     {
         "Judul": "Kuasa Hukum Terpidana Seumur Hidup Ungkap, Temukan Keanehan Pembunuhan Vina",
         "Link": "https://rejabar.republika.co.id/berita/sgqygb512/kuasa-hukum-terpidana-seumur-hidup-ungkap-temukan-keanehan-pembunuhan-vina",
         "Kategori": "Rejabar",
-        "Waktu Terbit": "17 Juli 2024 09:48:04",
-        "Waktu Scrapping": "17 Juli 2024 10:14:04",
+        "Waktu Terbit": "17 Juli 2024 10:14:07",
+        "Waktu Scrapping": "17 Juli 2024 11:14:07",
         "Penulis": "Arie Lukihardianti"
     },
     {
         "Judul": "Bagaimana Menolong Korban Sihir Sesuai Syariat?",
         "Link": "https://khazanah.republika.co.id/berita/sgqydr483/bagaimana-menolong-korban-sihir-sesuai-syariat",
         "Kategori": "Khazanah",
-        "Waktu Terbit": "17 Juli 2024 09:47:04",
-        "Waktu Scrapping": "17 Juli 2024 10:14:04",
+        "Waktu Terbit": "17 Juli 2024 10:14:08",
+        "Waktu Scrapping": "17 Juli 2024 11:14:08",
         "Penulis": "A.Syalaby Ichsan"
     },
     {
         "Judul": "Pelajar Indonesia Raih Tiga Medali Perak di Olimpiade Biologi Internasional",
         "Link": "https://kampus.republika.co.id/sekolah/1624871906/pelajar-indonesia-raih-tiga-medali-perak-di-olimpiade-biologi-internasional",
         "Kategori": "Network",
-        "Waktu Terbit": "17 Juli 2024 09:45:06",
-        "Waktu Scrapping": "17 Juli 2024 10:14:06",
+        "Waktu Terbit": "17 Juli 2024 10:14:08",
+        "Waktu Scrapping": "17 Juli 2024 11:14:08",
         "Penulis": "-"
     },
     {
         "Judul": "Harga Emas Antam Kembali Meroket, Naik Rp 17 Ribu",
         "Link": "https://ekonomi.republika.co.id/berita/sgqxpc370/harga-emas-antam-kembali-meroket-naik-rp-17-ribu",
         "Kategori": "Ekonomi",
-        "Waktu Terbit": "17 Juli 2024 09:32:06",
-        "Waktu Scrapping": "17 Juli 2024 10:14:06",
+        "Waktu Terbit": "17 Juli 2024 09:14:08",
+        "Waktu Scrapping": "17 Juli 2024 11:14:08",
         "Penulis": "Friska Yolandha"
     },
     {
         "Judul": "Ulasan Film Hijack 1971: Narasi \u2018Dalam\u2019, Ajak Penonton Berpikir Kritis",
         "Link": "https://ameera.republika.co.id/berita/sgqxo0425/ulasan-film-hijack-1971-narasi-dalam-ajak-penonton-berpikir-kritis",
         "Kategori": "Ameera",
-        "Waktu Terbit": "17 Juli 2024 09:31:07",
-        "Waktu Scrapping": "17 Juli 2024 10:14:07",
+        "Waktu Terbit": "17 Juli 2024 09:14:09",
+        "Waktu Scrapping": "17 Juli 2024 11:14:09",
         "Penulis": "Qommarria Rostanti"
     },
     {
         "Judul": "Presiden MBZ Sambut Langsung Jokowi untuk Kunjungan Kenegaraan di Abu Dhabi",
         "Link": "https://news.republika.co.id/berita/sgqxng502/presiden-mbz-sambut-langsung-jokowi-untuk-kunjungan-kenegaraan-di-abu-dhabi",
         "Kategori": "News",
-        "Waktu Terbit": "17 Juli 2024 09:31:07",
-        "Waktu Scrapping": "17 Juli 2024 10:14:07",
+        "Waktu Terbit": "17 Juli 2024 09:14:09",
+        "Waktu Scrapping": "17 Juli 2024 11:14:09",
         "Penulis": "Lida Puspaningtyas"
     },
     {
         "Judul": "Usai Badai Berly, 200 Buaya Masuk ke Kota-Kota Meksiko",
         "Link": "https://esgnow.republika.co.id/berita/sgqxkh328/usai-badai-berly-200-buaya-masuk-ke-kotakota-meksiko",
         "Kategori": "Esgnow",
-        "Waktu Terbit": "17 Juli 2024 09:29:08",
-        "Waktu Scrapping": "17 Juli 2024 10:14:08",
+        "Waktu Terbit": "17 Juli 2024 09:14:10",
+        "Waktu Scrapping": "17 Juli 2024 11:14:10",
         "Penulis": "Indira Rezkisari"
     },
     {
         "Judul": "Angka Kemiskinan Turun 0,54 Persen, Bapanas: Berkat Bantuan Pangan",
         "Link": "https://ekonomi.republika.co.id/berita/sgqxbl502/angka-kemiskinan-turun-054-persen-bapanas-berkat-bantuan-pangan",
         "Kategori": "Ekonomi",
-        "Waktu Terbit": "17 Juli 2024 09:24:09",
-        "Waktu Scrapping": "17 Juli 2024 10:14:09",
+        "Waktu Terbit": "17 Juli 2024 09:14:10",
+        "Waktu Scrapping": "17 Juli 2024 11:14:10",
         "Penulis": "Lida Puspaningtyas"
     },
     {
         "Judul": "Sambangi Terpidana di Rutan, Tim Peradi Konfirmasi Kronologi dan Keanehan Kasus Vina",
         "Link": "https://news.republika.co.id/berita/sgqxb4409/sambangi-terpidana-di-rutan-tim-peradi-konfirmasi-kronologi-dan-keanehan-kasus-vina",
         "Kategori": "News",
-        "Waktu Terbit": "17 Juli 2024 09:24:10",
-        "Waktu Scrapping": "17 Juli 2024 10:14:10",
+        "Waktu Terbit": "17 Juli 2024 09:14:11",
+        "Waktu Scrapping": "17 Juli 2024 11:14:11",
         "Penulis": "Andri Saubani"
     },
     {
         "Judul": "Benarkah Nabi Adam Diusir dari Surga ke Bumi karena Salah Hawa?",
         "Link": "https://khazanah.republika.co.id/berita/sgqx26483/benarkah-nabi-adam-diusir-dari-surga-ke-bumi-karena-salah-hawa",
         "Kategori": "Khazanah",
-        "Waktu Terbit": "17 Juli 2024 09:18:10",
-        "Waktu Scrapping": "17 Juli 2024 10:14:10",
+        "Waktu Terbit": "17 Juli 2024 09:14:11",
+        "Waktu Scrapping": "17 Juli 2024 11:14:11",
         "Penulis": "A.Syalaby Ichsan"
     },
     {
@@ -156,255 +244,167 @@
         "Link": "https://news.republika.co.id/berita/sgqwud370/percaya-dengan-universitas-nusa-mandiri-orang-tua-camaba-antusias-hadiri-nkbo",
         "Kategori": "News",
         "Waktu Terbit": "17 Juli 2024 09:14:12",
-        "Waktu Scrapping": "17 Juli 2024 10:14:12",
+        "Waktu Scrapping": "17 Juli 2024 11:14:12",
         "Penulis": "Friska Yolandha"
     },
     {
         "Judul": "PSI Sodorkan Tiga Nama Ini untuk Pilkada Bandung",
         "Link": "https://rejabar.republika.co.id/berita/sgqwp8512/psi-sodorkan-tiga-nama-ini-untuk-pilkada-bandung",
         "Kategori": "Rejabar",
-        "Waktu Terbit": "17 Juli 2024 09:14:13",
-        "Waktu Scrapping": "17 Juli 2024 10:14:13",
+        "Waktu Terbit": "17 Juli 2024 09:14:12",
+        "Waktu Scrapping": "17 Juli 2024 11:14:12",
         "Penulis": "Arie Lukihardianti"
     },
     {
         "Judul": "Panglima TNI Mutasi Letjen Budi Prijono dan Letjen Jonni Mahroza",
         "Link": "https://seputarmiliter.id/posts/319692/panglima-tni-mutasi-letjen-budi-prijono-dan-letjen-jonni-mahroza",
         "Kategori": "Network",
-        "Waktu Terbit": "17 Juli 2024 09:14:13",
-        "Waktu Scrapping": "17 Juli 2024 10:14:13",
+        "Waktu Terbit": "17 Juli 2024 09:14:14",
+        "Waktu Scrapping": "17 Juli 2024 11:14:14",
         "Penulis": "-"
     },
     {
         "Judul": "Masih Buang Sampah Sembarangan? Yuk Kelola Sampah dengan Cara Ini",
         "Link": "https://fifarm.id/posts/318774/masih-buang-sampah-sembarangan-yuk-kelola-sampah-dengan-cara-ini",
         "Kategori": "Network",
-        "Waktu Terbit": "17 Juli 2024 09:14:15",
-        "Waktu Scrapping": "17 Juli 2024 10:14:15",
+        "Waktu Terbit": "17 Juli 2024 09:14:20",
+        "Waktu Scrapping": "17 Juli 2024 11:14:20",
         "Penulis": "-"
     },
     {
         "Judul": "Mengapa Penting Memikirkan Risiko Serangan Jantung Lebih dari 10 Tahun ke Depan",
         "Link": "https://impresiupdate.id/posts/319696/mengapa-penting-memikirkan-risiko-serangan-jantung-lebih-dari-10-tahun-ke-depan",
         "Kategori": "Network",
-        "Waktu Terbit": "17 Juli 2024 09:14:17",
-        "Waktu Scrapping": "17 Juli 2024 10:14:17",
+        "Waktu Terbit": "17 Juli 2024 09:14:21",
+        "Waktu Scrapping": "17 Juli 2024 11:14:21",
         "Penulis": "-"
     },
     {
         "Judul": "Hasil Penelitian Ungkap Perubahan Iklim Memperpanjang Lama Hari",
         "Link": "https://esgnow.republika.co.id/berita/sgqs3x416/hasil-penelitian-ungkap-perubahan-iklim-memperpanjang-lama-hari",
         "Kategori": "Esgnow",
-        "Waktu Terbit": "17 Juli 2024 09:14:18",
-        "Waktu Scrapping": "17 Juli 2024 10:14:18",
+        "Waktu Terbit": "17 Juli 2024 09:14:27",
+        "Waktu Scrapping": "17 Juli 2024 11:14:27",
         "Penulis": "Satria K Yudha"
     },
     {
         "Judul": "Dedi Mulyadi dan Tim Peradi Sambangi Rutan Bandung, Gali Keterangan Terpidana Kasus Vina",
         "Link": "https://news.republika.co.id/berita/sgqw4p409/dedi-mulyadi-dan-tim-peradi-sambangi-rutan-bandung-gali-keterangan-terpidana-kasus-vina",
         "Kategori": "News",
-        "Waktu Terbit": "17 Juli 2024 09:14:19",
-        "Waktu Scrapping": "17 Juli 2024 10:14:19",
+        "Waktu Terbit": "17 Juli 2024 09:14:28",
+        "Waktu Scrapping": "17 Juli 2024 11:14:28",
         "Penulis": "Andri Saubani"
     },
     {
         "Judul": "Coldplay Rilis 'Good Feelings' Saat Konser di Stadio Olimpico Roma",
         "Link": "https://impresi.republika.co.id/musik/1694871631/coldplay-rilis-good-feelings-saat-konser-di-stadio-olimpico-roma",
         "Kategori": "Network",
-        "Waktu Terbit": "17 Juli 2024 09:14:19",
-        "Waktu Scrapping": "17 Juli 2024 10:14:19",
+        "Waktu Terbit": "17 Juli 2024 09:14:29",
+        "Waktu Scrapping": "17 Juli 2024 11:14:29",
         "Penulis": "-"
     },
     {
         "Judul": "Konsumsi Antibiotik Sejak Dini Dikaitkan dengan Risiko Asma pada Anak",
         "Link": "https://ameera.republika.co.id/berita/sgqvm5425/konsumsi-antibiotik-sejak-dini-dikaitkan-dengan-risiko-asma-pada-anak",
         "Kategori": "Ameera",
-        "Waktu Terbit": "17 Juli 2024 09:14:19",
-        "Waktu Scrapping": "17 Juli 2024 10:14:19",
+        "Waktu Terbit": "17 Juli 2024 09:14:29",
+        "Waktu Scrapping": "17 Juli 2024 11:14:29",
         "Penulis": "Qommarria Rostanti"
     },
     {
         "Judul": "Heboh \u2018Intelektual Nahdliyin\u2019 Sambangi Israel, Berapa Dana Propaganda Israel?",
         "Link": "https://news.republika.co.id/berita/sgqvik393/heboh-intelektual-nahdliyin-sambangi-israel-berapa-dana-propaganda-israel",
         "Kategori": "News",
-        "Waktu Terbit": "17 Juli 2024 09:14:20",
-        "Waktu Scrapping": "17 Juli 2024 10:14:20",
+        "Waktu Terbit": "17 Juli 2024 09:14:29",
+        "Waktu Scrapping": "17 Juli 2024 11:14:29",
         "Penulis": "Fitriyan Zamzami"
     },
     {
         "Judul": "Abu Hamza: Peledak Al-Quds Rusak Tank-Tank Israel",
         "Link": "https://khazanah.republika.co.id/berita/sgqvc9483/abu-hamza-peledak-alquds-rusak-tanktank-israel",
         "Kategori": "Khazanah",
-        "Waktu Terbit": "17 Juli 2024 08:14:20",
-        "Waktu Scrapping": "17 Juli 2024 10:14:20",
+        "Waktu Terbit": "17 Juli 2024 08:14:30",
+        "Waktu Scrapping": "17 Juli 2024 11:14:30",
         "Penulis": "A.Syalaby Ichsan"
     },
     {
         "Judul": "Pemain Muslim Prancis Ini Kritik Aksi Rasisme Perayaan Juara Copa America Argentina",
         "Link": "https://news.republika.co.id/berita/sgqva1348/pemain-muslim-prancis-ini-kritik-aksi-rasisme-perayaan-juara-copa-america-argentina",
         "Kategori": "News",
-        "Waktu Terbit": "17 Juli 2024 08:14:21",
-        "Waktu Scrapping": "17 Juli 2024 10:14:21",
+        "Waktu Terbit": "17 Juli 2024 08:14:30",
+        "Waktu Scrapping": "17 Juli 2024 11:14:30",
         "Penulis": "Israr Itah"
     },
     {
         "Judul": "Pachinko Musim 2 Bersiap Untuk Tayang Perdana, Intip Keseruannya",
         "Link": "https://impresi.republika.co.id/leisure/1694871597/pachinko-musim-2-bersiap-untuk-tayang-perdana-intip-keseruannya",
         "Kategori": "Network",
-        "Waktu Terbit": "17 Juli 2024 08:14:22",
-        "Waktu Scrapping": "17 Juli 2024 10:14:22",
+        "Waktu Terbit": "17 Juli 2024 08:14:31",
+        "Waktu Scrapping": "17 Juli 2024 11:14:31",
         "Penulis": "-"
     },
     {
         "Judul": "Adele Tak Berencana Merilis Musik Baru, Ia Ingin Memiliki Bayi Lagi",
         "Link": "https://impresi.republika.co.id/sosok/1694871570/adele-tak-berencana-merilis-musik-baru-ia-ingin-memiliki-bayi-lagi",
         "Kategori": "Network",
-        "Waktu Terbit": "17 Juli 2024 08:14:22",
-        "Waktu Scrapping": "17 Juli 2024 10:14:22",
+        "Waktu Terbit": "17 Juli 2024 08:14:31",
+        "Waktu Scrapping": "17 Juli 2024 11:14:31",
         "Penulis": "-"
     },
     {
         "Judul": "Unesa Buka Lowongan  Calon Dosen Tetap, Cek Syarat, Tata Cara Pendaftaran, dan Jadwalnya",
         "Link": "https://kampus.republika.co.id/lowongan-kerja/1624871548/unesa-buka-lowongan-calon-dosen-tetap-cek-syarat-tata-cara-pendaftaran-dan-jadwalnya",
         "Kategori": "Network",
-        "Waktu Terbit": "17 Juli 2024 08:14:22",
-        "Waktu Scrapping": "17 Juli 2024 10:14:22",
+        "Waktu Terbit": "17 Juli 2024 08:14:31",
+        "Waktu Scrapping": "17 Juli 2024 11:14:31",
         "Penulis": "-"
     },
     {
         "Judul": "Pamer Karya Inovasi, Mahasiswa Universitas Nusa Mandiri Makin Eksis",
         "Link": "https://news.republika.co.id/berita/sgqumo370/pamer-karya-inovasi-mahasiswa-universitas-nusa-mandiri-makin-eksis",
         "Kategori": "News",
-        "Waktu Terbit": "17 Juli 2024 08:14:24",
-        "Waktu Scrapping": "17 Juli 2024 10:14:24",
+        "Waktu Terbit": "17 Juli 2024 08:14:31",
+        "Waktu Scrapping": "17 Juli 2024 11:14:31",
         "Penulis": "Friska Yolandha"
     },
     {
         "Judul": "JD Vance, Kritikus yang Kini Jadi Cawapres Donald Trump",
         "Link": "https://tv.republika.co.id/berita/sgquk4467/jd-vance-kritikus-yang-kini-jadi-cawapres-donald-trump",
         "Kategori": "Video",
-        "Waktu Terbit": "17 Juli 2024 08:14:26",
-        "Waktu Scrapping": "17 Juli 2024 10:14:26",
+        "Waktu Terbit": "17 Juli 2024 08:14:31",
+        "Waktu Scrapping": "17 Juli 2024 11:14:31",
         "Penulis": "Wisnu Aji Prasetiyo"
     },
     {
         "Judul": "Jawaban Ustadz Yazid Jawas soal Apakah Suami Poligami Harus Izin Istri",
         "Link": "https://khazanah.republika.co.id/berita/sgqui8430/jawaban-ustadz-yazid-jawas-soal-apakah-suami-poligami-harus-izin-istri",
         "Kategori": "Khazanah",
-        "Waktu Terbit": "17 Juli 2024 08:14:28",
-        "Waktu Scrapping": "17 Juli 2024 10:14:28",
+        "Waktu Terbit": "17 Juli 2024 08:14:33",
+        "Waktu Scrapping": "17 Juli 2024 11:14:33",
         "Penulis": "Muhammad Hafil"
     },
     {
         "Judul": "Baru Juara Euro 2024, Presiden Federasi Sepak Bola Spanyol Terancam Diskors Dua Tahun",
         "Link": "https://news.republika.co.id/berita/sgquhf348/baru-juara-euro-2024-presiden-federasi-sepak-bola-spanyol-terancam-diskors-dua-tahun",
         "Kategori": "News",
-        "Waktu Terbit": "17 Juli 2024 08:14:29",
-        "Waktu Scrapping": "17 Juli 2024 10:14:29",
+        "Waktu Terbit": "17 Juli 2024 08:14:34",
+        "Waktu Scrapping": "17 Juli 2024 11:14:34",
         "Penulis": "Israr Itah"
     },
     {
         "Judul": "Bagaimana Muhammadiyah Memandang Syiah?",
         "Link": "https://khazanah.republika.co.id/berita/sgqugj458/bagaimana-muhammadiyah-memandang-syiah",
         "Kategori": "Khazanah",
-        "Waktu Terbit": "17 Juli 2024 08:14:30",
-        "Waktu Scrapping": "17 Juli 2024 10:14:30",
+        "Waktu Terbit": "17 Juli 2024 08:14:36",
+        "Waktu Scrapping": "17 Juli 2024 11:14:36",
         "Penulis": "Hasanul Rizqa"
     },
     {
         "Judul": "Baterai iPhone Cepat Habis? Begini Caranya Supaya Lebih Awet",
         "Link": "https://impresi.republika.co.id/didaktika/1694871506/baterai-iphone-cepat-habis-begini-caranya-supaya-lebih-awet",
         "Kategori": "Network",
-        "Waktu Terbit": "17 Juli 2024 08:14:32",
-        "Waktu Scrapping": "17 Juli 2024 10:14:32",
-        "Penulis": "-"
-    },
-    {
-        "Judul": "Dewan Kehormatan dan Ketum PWI Terlibat Konflik, Ini Masalahnya",
-        "Link": "https://news.republika.co.id/berita/sgqu4j484/dewan-kehormatan-dan-ketum-pwi-terlibat-konflik-ini-masalahnya",
-        "Kategori": "News",
-        "Waktu Terbit": "17 Juli 2024 08:14:32",
-        "Waktu Scrapping": "17 Juli 2024 10:14:32",
-        "Penulis": "Erik Purnama Putra"
-    },
-    {
-        "Judul": "KKP Pamer Program Ekonomi Biru di Italia",
-        "Link": "https://esgnow.republika.co.id/berita/sgqr51416/kkp-pamer-program-ekonomi-biru-di-italia",
-        "Kategori": "Esgnow",
-        "Waktu Terbit": "17 Juli 2024 08:14:33",
-        "Waktu Scrapping": "17 Juli 2024 10:14:33",
-        "Penulis": "Satria K Yudha"
-    },
-    {
-        "Judul": "Abu Janda Puji Tulisan Zainul Maarif yang Kunjungi Israel, Singgung Hamas Teroris",
-        "Link": "https://news.republika.co.id/berita/sgqtd2377/abu-janda-puji-tulisan-zainul-maarif-yang-kunjungi-israel-singgung-hamas-teroris",
-        "Kategori": "News",
-        "Waktu Terbit": "17 Juli 2024 08:14:34",
-        "Waktu Scrapping": "17 Juli 2024 10:14:34",
-        "Penulis": "Teguh Firmansyah"
-    },
-    {
-        "Judul": "Drone Israel Bunuh Tiga Bocah Lebanon, Hizbullah Balas dengan Serangan Roket",
-        "Link": "https://khazanah.republika.co.id/berita/sgqrwn483/drone-israel-bunuh-tiga-bocah-lebanon-hizbullah-balas-dengan-serangan-roket",
-        "Kategori": "Khazanah",
-        "Waktu Terbit": "17 Juli 2024 08:14:35",
-        "Waktu Scrapping": "17 Juli 2024 10:14:35",
-        "Penulis": "A.Syalaby Ichsan"
-    },
-    {
-        "Judul": "Polisi Masih Dalami Tiko Suami BCL Atas Kasus Penggelapan Rp 6,9 Miliar",
-        "Link": "https://news.republika.co.id/berita/sgqswb484/polisi-masih-dalami-tiko-suami-bcl-atas-kasus-penggelapan-rp-69-miliar",
-        "Kategori": "News",
-        "Waktu Terbit": "17 Juli 2024 08:14:36",
-        "Waktu Scrapping": "17 Juli 2024 10:14:36",
-        "Penulis": "Erik Purnama Putra"
-    },
-    {
-        "Judul": "Konflik Antar-Sahabat Nabi di Mata Sunni dan Syiah",
-        "Link": "https://khazanah.republika.co.id/berita/sgqsu3458/konflik-antarsahabat-nabi-di-mata-sunni-dan-syiah",
-        "Kategori": "Khazanah",
         "Waktu Terbit": "17 Juli 2024 08:14:38",
-        "Waktu Scrapping": "17 Juli 2024 10:14:38",
-        "Penulis": "Hasanul Rizqa"
-    },
-    {
-        "Judul": "Dunia Diperkirakan akan Gagal Capai Target Energi Terbarukan",
-        "Link": "https://esgnow.republika.co.id/berita/sgqr1m328/dunia-diperkirakan-akan-gagal-capai-target-energi-terbarukan",
-        "Kategori": "Esgnow",
-        "Waktu Terbit": "17 Juli 2024 07:14:38",
-        "Waktu Scrapping": "17 Juli 2024 10:14:38",
-        "Penulis": "Indira Rezkisari"
-    },
-    {
-        "Judul": "Apa Itu Taqiyah?",
-        "Link": "https://khazanah.republika.co.id/berita/sgqrwb458/apa-itu-taqiyah",
-        "Kategori": "Khazanah",
-        "Waktu Terbit": "17 Juli 2024 07:14:40",
-        "Waktu Scrapping": "17 Juli 2024 10:14:40",
-        "Penulis": "Hasanul Rizqa"
-    },
-    {
-        "Judul": "Ditjen Imigrasi Jelaskan Penarikan Paspor Milik Firli Bahuri",
-        "Link": "https://news.republika.co.id/berita/sgqrv2409/ditjen-imigrasi-jelaskan-penarikan-paspor-milik-firli-bahuri",
-        "Kategori": "News",
-        "Waktu Terbit": "17 Juli 2024 07:14:41",
-        "Waktu Scrapping": "17 Juli 2024 10:14:41",
-        "Penulis": "Andri Saubani"
-    },
-    {
-        "Judul": "Mazda Siapkan Edisi Terbaru Dari CX-60 di GIIAS 2024",
-        "Link": "https://motoresto.id/posts/319640/mazda-siapkan-edisi-terbaru-dari-cx-60-di-giias-2024",
-        "Kategori": "Network",
-        "Waktu Terbit": "17 Juli 2024 07:14:41",
-        "Waktu Scrapping": "17 Juli 2024 10:14:41",
+        "Waktu Scrapping": "17 Juli 2024 11:14:38",
         "Penulis": "-"
-    },
-    {
-        "Judul": "KKI Apresiasi BPOM Keluarkan Aturan Label BPA",
-        "Link": "https://news.republika.co.id/berita/sgqrl2484/kki-apresiasi-bpom-keluarkan-aturan-label-bpa",
-        "Kategori": "News",
-        "Waktu Terbit": "17 Juli 2024 07:14:43",
-        "Waktu Scrapping": "17 Juli 2024 10:14:43",
-        "Penulis": "Erik Purnama Putra"
     }
 ]
