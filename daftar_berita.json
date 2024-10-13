@@ -1,410 +1,402 @@
 [
     {
-        "Judul": "Tinjau Polresta Samarinda, BPJS Kesehatan Evaluasi Syarat JKN bagi Pemohon SIM",
-        "Link": "https://news.republika.co.id/berita/sl56q9490/tinjau-polresta-samarinda-bpjs-kesehatan-evaluasi-syarat-jkn-bagi-pemohon-sim?",
-        "Kategori": "News",
-        "Waktu Terbit": "10 Oktober 2024 20:24:48",
-        "Waktu Scrapping": "11 Oktober 2024 19:24:48",
-        "Penulis": "Ahmad Fikri Noor"
-    },
-    {
-        "Judul": "Transformasi Komunitas Dorong Keberlanjutan: PT Vale Indonesia Raih Subroto Award 2024",
-        "Link": "https://esgnow.republika.co.id/berita/sl6y57349/transformasi-komunitas-dorong-keberlanjutan-pt-vale-indonesia-raih-subroto-award-2024",
-        "Kategori": "Esgnow",
-        "Waktu Terbit": "11 Oktober 2024 19:17:50",
-        "Waktu Scrapping": "11 Oktober 2024 19:24:50",
-        "Penulis": "Ichsan Emrald Alamsyah"
-    },
-    {
-        "Judul": "Gempa Bumi Magnitudo 2,8 Dirasakan di Garut Akibat Sesar Garsela",
-        "Link": "https://rejabar.republika.co.id/berita/sl6y38512/gempa-bumi-magnitudo-28-dirasakan-di-garut-akibat-sesar-garsela",
-        "Kategori": "Rejabar",
-        "Waktu Terbit": "11 Oktober 2024 19:16:50",
-        "Waktu Scrapping": "11 Oktober 2024 19:24:50",
-        "Penulis": "Arie Lukihardianti"
-    },
-    {
-        "Judul": "Demplot Jagung Ubah Tihuana Jadi Desa Berkembang dan Masyarakatnya Kini Berdaya",
-        "Link": "https://news.republika.co.id/berita/sl6y2l487/demplot-jagung-ubah-tihuana-jadi-desa-berkembang-dan-masyarakatnya-kini-berdaya",
-        "Kategori": "News",
-        "Waktu Terbit": "11 Oktober 2024 19:15:51",
-        "Waktu Scrapping": "11 Oktober 2024 19:24:51",
-        "Penulis": "Mas Alamil Huda"
-    },
-    {
-        "Judul": "Hilang di Hutan Batu Baok, Seorang Lansia Ditemukan Meninggal",
-        "Link": "https://rejabar.republika.co.id/berita/sl6xsk512/hilang-di-hutan-batu-baok-seorang-lansia-ditemukan-meninggal",
-        "Kategori": "Rejabar",
-        "Waktu Terbit": "11 Oktober 2024 19:09:51",
-        "Waktu Scrapping": "11 Oktober 2024 19:24:51",
-        "Penulis": "Arie Lukihardianti"
-    },
-    {
-        "Judul": "Siap-Siap! BMKG Deteksi Badai Kuat Matahari Bakal Melanda Indonesia Pekan Ini",
-        "Link": "https://esgnow.republika.co.id/berita/sl6xmq416/siapsiap-bmkg-deteksi-badai-kuat-matahari-bakal-melanda-indonesia-pekan-ini",
-        "Kategori": "Esgnow",
-        "Waktu Terbit": "11 Oktober 2024 19:06:52",
-        "Waktu Scrapping": "11 Oktober 2024 19:24:52",
-        "Penulis": "Satria K Yudha"
-    },
-    {
-        "Judul": "Badai Matahari Diprediksi Landa Bumi Weekend Ini, Bakal Ganggu Jaringan Listrik di Amerika",
-        "Link": "https://esgnow.republika.co.id/berita/sl6xhh425/badai-matahari-diprediksi-landa-bumi-weekend-ini-bakal-ganggu-jaringan-listrik-di-amerika",
-        "Kategori": "Esgnow",
-        "Waktu Terbit": "11 Oktober 2024 19:02:52",
-        "Waktu Scrapping": "11 Oktober 2024 19:24:52",
-        "Penulis": "Qommarria Rostanti"
-    },
-    {
-        "Judul": "Banyak Anggota Legislatif dari PKS, Ahmad Syaikhu Optimistis Kota Bogor Jadi Lumbung Suara",
-        "Link": "https://rejabar.republika.co.id/berita/sl6xco512/banyak-anggota-legislatif-dari-pks-ahmad-syaikhu-optimistis-kota-bogor-jadi-lumbung-suara",
-        "Kategori": "Rejabar",
-        "Waktu Terbit": "11 Oktober 2024 19:00:53",
-        "Waktu Scrapping": "11 Oktober 2024 19:24:53",
-        "Penulis": "Arie Lukihardianti"
-    },
-    {
-        "Judul": "BYD Jadi Grup Otomotif Terbesar di China Geser SAIC",
-        "Link": "https://ekonomi.republika.co.id/berita/sl6xce468/byd-jadi-grup-otomotif-terbesar-di-china-geser-saic",
-        "Kategori": "Ekonomi",
-        "Waktu Terbit": "11 Oktober 2024 18:59:53",
-        "Waktu Scrapping": "11 Oktober 2024 19:24:53",
-        "Penulis": "Firkah Fansuri"
-    },
-    {
-        "Judul": "Wapres Maruf Amin Tegas Soal Palestina, Begini Pernyataannya",
-        "Link": "https://khazanah.republika.co.id/berita/sl6wvr451/wapres-maruf-amin-tegas-soal-palestina-begini-pernyataannya",
-        "Kategori": "Khazanah",
-        "Waktu Terbit": "11 Oktober 2024 18:59:53",
-        "Waktu Scrapping": "11 Oktober 2024 19:24:53",
-        "Penulis": "Erdy Nasrul"
-    },
-    {
-        "Judul": "Prabowo dan Salim Segaf Berbalas Pantun Usai Pertemuan Tertutup di Kartanegara",
-        "Link": "https://news.republika.co.id/berita/sl6xaw409/prabowo-dan-salim-segaf-berbalas-pantun-usai-pertemuan-tertutup-di-kartanegara",
-        "Kategori": "News",
-        "Waktu Terbit": "11 Oktober 2024 18:59:54",
-        "Waktu Scrapping": "11 Oktober 2024 19:24:54",
-        "Penulis": "Andri Saubani"
-    },
-    {
-        "Judul": "Pentingnya Sitasi: Jaga Integritas Karya Ilmiah dan Hindari Plagiarisme",
-        "Link": "https://news.republika.co.id/berita/sl6xa8490/pentingnya-sitasi-jaga-integritas-karya-ilmiah-dan-hindari-plagiarisme",
-        "Kategori": "News",
-        "Waktu Terbit": "11 Oktober 2024 18:58:55",
-        "Waktu Scrapping": "11 Oktober 2024 19:24:55",
-        "Penulis": "Ahmad Fikri Noor"
-    },
-    {
-        "Judul": "BPBD Kalsel Respons Cepat Solusi Kebakaran Lahan di SMK Maarif",
-        "Link": "https://news.republika.co.id/berita/sl6x63490/bpbd-kalsel-respons-cepat-solusi-kebakaran-lahan-di-smk-maarif",
-        "Kategori": "News",
-        "Waktu Terbit": "11 Oktober 2024 18:57:00",
-        "Waktu Scrapping": "11 Oktober 2024 19:25:00",
-        "Penulis": "Ahmad Fikri Noor"
-    },
-    {
-        "Judul": "Mengintip Peluang Dua Unit Usaha Syariah Melakukan Spin Off",
-        "Link": "https://sharia.republika.co.id/berita/sl6wx5490/mengintip-peluang-dua-unit-usaha-syariah-melakukan-spin-off",
-        "Kategori": "Sharia",
-        "Waktu Terbit": "11 Oktober 2024 18:51:02",
-        "Waktu Scrapping": "11 Oktober 2024 19:25:02",
-        "Penulis": "Ahmad Fikri Noor"
-    },
-    {
-        "Judul": "Bantul Kirim Bahan Bakar Alternatif Hasil Pengolahan Sampah",
-        "Link": "https://esgnow.republika.co.id/berita/sl6wti416/bantul-kirim-bahan-bakar-alternatif-hasil-pengolahan-sampah",
-        "Kategori": "Esgnow",
-        "Waktu Terbit": "11 Oktober 2024 18:49:02",
-        "Waktu Scrapping": "11 Oktober 2024 19:25:02",
-        "Penulis": "Satria K Yudha"
-    },
-    {
-        "Judul": "Dirujak Ustadz Nuruddin, Guru Gembul Akui Kalah Telak Saat Debat Soal Akidah di UI",
-        "Link": "https://khazanah.republika.co.id/berita/sl6wrq483/dirujak-ustadz-nuruddin-guru-gembul-akui-kalah-telak-saat-debat-soal-akidah-di-ui",
-        "Kategori": "Khazanah",
-        "Waktu Terbit": "11 Oktober 2024 18:48:03",
-        "Waktu Scrapping": "11 Oktober 2024 19:25:03",
-        "Penulis": "A.Syalaby Ichsan"
-    },
-    {
-        "Judul": "Wapres di KTT Laos Desak Negara Asia Timur Akui Keberadaan Palestina",
-        "Link": "https://khazanah.republika.co.id/berita/sl6wro451/wapres-di-ktt-laos-desak-negara-asia-timur-akui-keberadaan-palestina",
-        "Kategori": "Khazanah",
-        "Waktu Terbit": "11 Oktober 2024 18:48:04",
-        "Waktu Scrapping": "11 Oktober 2024 19:25:04",
-        "Penulis": "Erdy Nasrul"
-    },
-    {
-        "Judul": "Malik Risaldi Ungkap Kondisi Kepalanya Baik-Baik Saja",
-        "Link": "https://news.republika.co.id/berita/sl6wot348/malik-risaldi-ungkap-kondisi-kepalanya-baikbaik-saja",
-        "Kategori": "News",
-        "Waktu Terbit": "11 Oktober 2024 18:46:05",
-        "Waktu Scrapping": "11 Oktober 2024 19:25:05",
-        "Penulis": "Israr Itah"
-    },
-    {
-        "Judul": "Pasukan Penjaga Perdamaian RI Bisa Serang Balik Israel, Ini Syaratnya",
-        "Link": "https://news.republika.co.id/berita/sl6wk1475/pasukan-penjaga-perdamaian-ri-bisa-serang-balik-israel-ini-syaratnya",
-        "Kategori": "News",
-        "Waktu Terbit": "11 Oktober 2024 18:43:06",
-        "Waktu Scrapping": "11 Oktober 2024 19:25:06",
-        "Penulis": "Stevy Maradona"
-    },
-    {
-        "Judul": "Laki-Laki Juga Berisiko Kena Kanker Payudara, Kok Bisa? Dokter Jelaskan Penyebabnya",
-        "Link": "https://ameera.republika.co.id/berita/sl6wdv425/lakilaki-juga-berisiko-kena-kanker-payudara-kok-bisa-dokter-jelaskan-penyebabnya",
-        "Kategori": "Ameera",
-        "Waktu Terbit": "11 Oktober 2024 18:40:07",
-        "Waktu Scrapping": "11 Oktober 2024 19:25:07",
-        "Penulis": "Qommarria Rostanti"
-    },
-    {
-        "Judul": "Ini Catatan Bappenas Mengenai Satu Dekade Kepemimpinan Jokowi",
-        "Link": "https://ekonomi.republika.co.id/berita/sl6w9l490/ini-catatan-bappenas-mengenai-satu-dekade-kepemimpinan-jokowi",
-        "Kategori": "Ekonomi",
-        "Waktu Terbit": "11 Oktober 2024 18:37:08",
-        "Waktu Scrapping": "11 Oktober 2024 19:25:08",
-        "Penulis": "Ahmad Fikri Noor"
-    },
-    {
-        "Judul": "Muhammadiyah Jadi Gabung dengan BTN Syariah? Ini Komentar Anwar Abbas",
-        "Link": "https://sharia.republika.co.id/berita/sl6w66490/muhammadiyah-jadi-gabung-dengan-btn-syariah-ini-komentar-anwar-abbas",
-        "Kategori": "Sharia",
-        "Waktu Terbit": "11 Oktober 2024 18:35:09",
-        "Waktu Scrapping": "11 Oktober 2024 19:25:09",
-        "Penulis": "Ahmad Fikri Noor"
-    },
-    {
-        "Judul": "Selesai Direvitalisasi, Museum Nasional Indonesia Kembali Dibuka untuk Umum",
-        "Link": "https://visual.republika.co.id/berita/sl6q77375/selesai-direvitalisasi-museum-nasional-indonesia-kembali-dibuka-untuk-umum",
+        "Judul": "Peparnas XVII Solo Resmi Ditutup, Jateng Jadi Juara Umum dengan 406 Medali",
+        "Link": "https://visual.republika.co.id/berita/slaygc375/peparnas-xvii-solo-resmi-ditutup-jateng-jadi-juara-umum-dengan-406-medali",
         "Kategori": "Visual",
-        "Waktu Terbit": "11 Oktober 2024 18:30:10",
-        "Waktu Scrapping": "11 Oktober 2024 19:25:10",
+        "Waktu Terbit": "13 Oktober 2024 23:59:27",
+        "Waktu Scrapping": "14 Oktober 2024 00:10:27",
         "Penulis": "Edwin Dwi Putranto"
     },
     {
-        "Judul": "Kejagung Serahkan Penilaian Status 88 Tas Mewah Sandra Dewi kepada Hakim",
-        "Link": "https://news.republika.co.id/berita/sl6vu2409/kejagung-serahkan-penilaian-status-88-tas-mewah-sandra-dewi-kepada-hakim",
-        "Kategori": "News",
-        "Waktu Terbit": "11 Oktober 2024 18:28:11",
-        "Waktu Scrapping": "11 Oktober 2024 19:25:11",
-        "Penulis": "Andri Saubani"
-    },
-    {
-        "Judul": "Ini Kata Prabowo Sebelum Melakukan Pertemuan Tertutup dengan para Elite PKS",
-        "Link": "https://news.republika.co.id/berita/sl6vpa487/ini-kata-prabowo-sebelum-melakukan-pertemuan-tertutup-dengan-para-elite-pks",
-        "Kategori": "News",
-        "Waktu Terbit": "11 Oktober 2024 18:25:12",
-        "Waktu Scrapping": "11 Oktober 2024 19:25:12",
-        "Penulis": "Mas Alamil Huda"
-    },
-    {
-        "Judul": "Polisi Tangkap Kakek 72 Tahun Setubuhi Anak SD yang Pulang dari Mengaji",
-        "Link": "https://news.republika.co.id/berita/sl6vj3425/polisi-tangkap-kakek-72-tahun-setubuhi-anak-sd-yang-pulang-dari-mengaji",
-        "Kategori": "News",
-        "Waktu Terbit": "11 Oktober 2024 18:25:13",
-        "Waktu Scrapping": "11 Oktober 2024 19:25:13",
-        "Penulis": "Qommarria Rostanti"
-    },
-    {
-        "Judul": "Bidik Potensi 15 BBTUD di Sulawesi, PGN Teken 2 MoU Pemanfaatan Gas Bumi Industri",
-        "Link": "https://ekonomi.republika.co.id/berita/sl6vaf349/bidik-potensi-15-bbtud-di-sulawesi-pgn-teken-2-mou-pemanfaatan-gas-bumi-industri",
-        "Kategori": "Ekonomi",
-        "Waktu Terbit": "11 Oktober 2024 18:25:14",
-        "Waktu Scrapping": "11 Oktober 2024 19:25:14",
-        "Penulis": "Ichsan Emrald Alamsyah"
-    },
-    {
-        "Judul": "Solar Tumpah di Ringroad Selatan Yogya, Polisi Taburi Serbuk Kayu dan Tanah Agar tak Licin",
-        "Link": "https://rejogja.republika.co.id/berita/sl6v0q282/solar-tumpah-di-ringroad-selatan-yogya-polisi-taburi-serbuk-kayu-dan-tanah-agar-tak-licin",
-        "Kategori": "Rejogja",
-        "Waktu Terbit": "11 Oktober 2024 18:25:15",
-        "Waktu Scrapping": "11 Oktober 2024 19:25:15",
-        "Penulis": "Karta Raharja Ucu"
-    },
-    {
-        "Judul": "Mengenal Lebah, Serangga Multimanfaat bagi Manusia dan Tumbuhan",
-        "Link": "https://sumatralink.id/posts/482116/mengenal-lebah-serangga-multimanfaat-bagi-manusia-dan-tumbuhan",
+        "Judul": "Itenas Bandung Adakan Job Fair, Ratusan Loker Dibuka",
+        "Link": "https://sekitarbandung.id/posts/482371/itenas-bandung-adakan-job-fair-ratusan-loker-dibuka",
         "Kategori": "Network",
-        "Waktu Terbit": "11 Oktober 2024 18:25:16",
-        "Waktu Scrapping": "11 Oktober 2024 19:25:16",
+        "Waktu Terbit": "13 Oktober 2024 23:49:27",
+        "Waktu Scrapping": "14 Oktober 2024 00:10:27",
         "Penulis": "-"
     },
     {
-        "Judul": "Ini Dia Kabar Terbaru Kesehatan Paula Abdul Setelah Batalkan Tur",
-        "Link": "https://impresiupdate.id/posts/482121/ini-dia-kabar-terbaru-kesehatan-paula-abdul-setelah-batalkan-tur",
+        "Judul": "TNI-Polri dan Pemkot Depok Bersama Masyarakat Bersihkan Sungai Ciliwung",
+        "Link": "https://ruzkaindonesia.id/posts/482377/tni-polri-dan-pemkot-depok-bersama-masyarakat-bersihkan-sungai-ciliwung",
         "Kategori": "Network",
-        "Waktu Terbit": "11 Oktober 2024 18:25:18",
-        "Waktu Scrapping": "11 Oktober 2024 19:25:18",
+        "Waktu Terbit": "13 Oktober 2024 23:49:29",
+        "Waktu Scrapping": "14 Oktober 2024 00:10:29",
         "Penulis": "-"
     },
     {
-        "Judul": "Kemenangan Timnas Indonesia Atas Bahrain 'Dirampok' Wasit, Ini Pengertian Injury Time",
-        "Link": "https://magentatoday.id/posts/482122/kemenangan-timnas-indonesia-atas-bahrain-dirampok-wasit-ini-pengertian-injury-time",
+        "Judul": "Presiden Jokowi ke Mako Brimob Kelapa Dua Depok, Hindari Jalan Akses UI, Ini Rekayasa Lalulintasnya",
+        "Link": "https://ruzkaindonesia.id/posts/482379/presiden-jokowi-ke-mako-brimob-kelapa-dua-depok-hindari-jalan-akses-ui-ini-rekayasa-lalulintasnya",
         "Kategori": "Network",
-        "Waktu Terbit": "11 Oktober 2024 18:25:19",
-        "Waktu Scrapping": "11 Oktober 2024 19:25:19",
+        "Waktu Terbit": "13 Oktober 2024 23:48:31",
+        "Waktu Scrapping": "14 Oktober 2024 00:10:31",
         "Penulis": "-"
     },
     {
-        "Judul": "Kejagung Enggan Berpolemik Soal Cincin Kawin Sandra Dewi",
-        "Link": "https://news.republika.co.id/berita/sl6up3409/kejagung-enggan-berpolemik-soal-cincin-kawin-sandra-dewi",
-        "Kategori": "News",
-        "Waktu Terbit": "11 Oktober 2024 18:25:21",
-        "Waktu Scrapping": "11 Oktober 2024 19:25:21",
-        "Penulis": "Andri Saubani"
-    },
-    {
-        "Judul": "Bak Adegan Film, Polisi Kejar-kejaran dengan Komplotan Maling Ban Serep di Tol Cipali",
-        "Link": "https://rejabar.republika.co.id/berita/sl6ukt512/bak-adegan-film-polisi-kejarkejaran-dengan-komplotan-maling-ban-serep-di-tol-cipali",
-        "Kategori": "Rejabar",
-        "Waktu Terbit": "11 Oktober 2024 18:25:21",
-        "Waktu Scrapping": "11 Oktober 2024 19:25:21",
-        "Penulis": "Arie Lukihardianti"
-    },
-    {
-        "Judul": "DPR Tuntaskan Jumlah AKD di Parlemen dalam Waktu Dekat",
-        "Link": "https://news.republika.co.id/berita/sl6qvn451/dpr-tuntaskan-jumlah-akd-di-parlemen-dalam-waktu-dekat",
-        "Kategori": "News",
-        "Waktu Terbit": "11 Oktober 2024 18:25:22",
-        "Waktu Scrapping": "11 Oktober 2024 19:25:22",
-        "Penulis": "Erdy Nasrul"
-    },
-    {
-        "Judul": "Kunjungi Istiqlal, Imam Masjid Nabawi Isi Khutbah Sholat Jumat",
-        "Link": "https://visual.republika.co.id/berita/sl6qgb375/kunjungi-istiqlal-imam-masjid-nabawi-isi-khutbah-sholat-jumat",
+        "Judul": "Adu Cepat Motor Listrik Konversi di Lintasan Balap",
+        "Link": "https://visual.republika.co.id/berita/slaydn375/adu-cepat-motor-listrik-konversi-di-lintasan-balap",
         "Kategori": "Visual",
-        "Waktu Terbit": "11 Oktober 2024 18:25:22",
-        "Waktu Scrapping": "11 Oktober 2024 19:25:22",
+        "Waktu Terbit": "13 Oktober 2024 23:45:33",
+        "Waktu Scrapping": "14 Oktober 2024 00:10:33",
         "Penulis": "Edwin Dwi Putranto"
     },
     {
-        "Judul": "Cina Wajibkan Kapal Asing Laporkan Emisi Karbon",
-        "Link": "https://esgnow.republika.co.id/berita/sl6s5q416/cina-wajibkan-kapal-asing-laporkan-emisi-karbon",
-        "Kategori": "Esgnow",
-        "Waktu Terbit": "11 Oktober 2024 18:25:22",
-        "Waktu Scrapping": "11 Oktober 2024 19:25:22",
-        "Penulis": "Satria K Yudha"
-    },
-    {
-        "Judul": "Terapkan Pelayaran Berkelanjutan, PIS Adopsi Teknologi Dual Fuel untuk Tekan Emisi",
-        "Link": "https://esgnow.republika.co.id/berita/sl6ugb416/terapkan-pelayaran-berkelanjutan-pis-adopsi-teknologi-dual-fuel-untuk-tekan-emisi",
-        "Kategori": "Esgnow",
-        "Waktu Terbit": "11 Oktober 2024 18:25:23",
-        "Waktu Scrapping": "11 Oktober 2024 19:25:23",
-        "Penulis": "Satria K Yudha"
-    },
-    {
-        "Judul": "Soal Kabinet, Gibran: Presiden Jokowi Beri Masukan, Keputusan Ada di Pak Prabowo",
-        "Link": "https://news.republika.co.id/berita/sl6sq5377/soal-kabinet-gibran-presiden-jokowi-beri-masukan-keputusan-ada-di-pak-prabowo",
+        "Judul": "Dukung Anwar-Reny, Ratusan Abnaul Khairaat Sulteng Gabung Relawan Berani Gaspoll",
+        "Link": "https://news.republika.co.id/berita/sla7hx451/dukung-anwarreny-ratusan-abnaul-khairaat-sulteng-gabung-relawan-berani-gaspoll",
         "Kategori": "News",
-        "Waktu Terbit": "11 Oktober 2024 17:25:23",
-        "Waktu Scrapping": "11 Oktober 2024 19:25:23",
-        "Penulis": "Teguh Firmansyah"
+        "Waktu Terbit": "13 Oktober 2024 23:30:33",
+        "Waktu Scrapping": "14 Oktober 2024 00:10:33",
+        "Penulis": "Erdy Nasrul"
     },
     {
-        "Judul": "Terungkap Laporan Jenderal Israel Ingin Bersihkan Etnis Palestina di Gaza Utara",
-        "Link": "https://news.republika.co.id/berita/sl6u26377/terungkap-laporan-jenderal-israel-ingin-bersihkan-etnis-palestina-di-gaza-utara",
-        "Kategori": "News",
-        "Waktu Terbit": "11 Oktober 2024 17:25:24",
-        "Waktu Scrapping": "11 Oktober 2024 19:25:24",
-        "Penulis": "Teguh Firmansyah"
+        "Judul": "Peringati HUT ke-79 TNI, Prajurit TNI AD Bersihkan Sampah di Sungai Ciliwung",
+        "Link": "https://visual.republika.co.id/berita/slaybl375/peringati-hut-ke79-tni-prajurit-tni-ad-bersihkan-sampah-di-sungai-ciliwung",
+        "Kategori": "Visual",
+        "Waktu Terbit": "13 Oktober 2024 23:30:34",
+        "Waktu Scrapping": "14 Oktober 2024 00:10:34",
+        "Penulis": "Edwin Dwi Putranto"
     },
     {
-        "Judul": "Para Petinggi PKS Tiba di Kediaman Prabowo Subianto, Ada Apa?",
-        "Link": "https://news.republika.co.id/berita/sl6tus487/para-petinggi-pks-tiba-di-kediaman-prabowo-subianto-ada-apa",
-        "Kategori": "News",
-        "Waktu Terbit": "11 Oktober 2024 17:25:26",
-        "Waktu Scrapping": "11 Oktober 2024 19:25:26",
-        "Penulis": "Mas Alamil Huda"
+        "Judul": "Dosen UBSI Gelar Pengabdian Masyarakat untuk UMKM",
+        "Link": "https://kampus.republika.co.id/posts/482378/dosen-ubsi-gelar-pengabdian-masyarakat-untuk-umkm",
+        "Kategori": "Network",
+        "Waktu Terbit": "13 Oktober 2024 23:22:34",
+        "Waktu Scrapping": "14 Oktober 2024 00:10:34",
+        "Penulis": "Kampus Republika"
     },
     {
-        "Judul": "Kongres di Jakarta Desember, OIC Youth Indonesia Undang Pemuda Pariwisata Dunia",
-        "Link": "https://khazanah.republika.co.id/berita/sl6tsu483/kongres-di-jakarta-desember-oic-youth-indonesia-undang-pemuda-pariwisata-dunia",
-        "Kategori": "Khazanah",
-        "Waktu Terbit": "11 Oktober 2024 17:25:27",
-        "Waktu Scrapping": "11 Oktober 2024 19:25:27",
-        "Penulis": "A.Syalaby Ichsan"
+        "Judul": "Jemput Bola Perekaman Data KTP Elektronik Pemilih Pemula",
+        "Link": "https://visual.republika.co.id/berita/slaxgn375/jemput-bola-perekaman-data-ktp-elektronik-pemilih-pemula",
+        "Kategori": "Visual",
+        "Waktu Terbit": "13 Oktober 2024 23:15:35",
+        "Waktu Scrapping": "14 Oktober 2024 00:10:35",
+        "Penulis": "Edwin Dwi Putranto"
     },
     {
-        "Judul": "Kemenag Ingin Lebih Banyak Bumbu Khas Nusantara Dikirim ke Saudi",
-        "Link": "https://khazanah.republika.co.id/berita/sl6tot458/kemenag-ingin-lebih-banyak-bumbu-khas-nusantara-dikirim-ke-saudi",
-        "Kategori": "Khazanah",
-        "Waktu Terbit": "11 Oktober 2024 17:25:29",
-        "Waktu Scrapping": "11 Oktober 2024 19:25:29",
-        "Penulis": "Hasanul Rizqa"
+        "Judul": "Tak Tersentuh Pembangunan, Begini Penampakan Jalan Rusak di Tanjung Jabung Timur",
+        "Link": "https://visual.republika.co.id/berita/slaxcs375/tak-tersentuh-pembangunan-begini-penampakan-jalan-rusak-di-tanjung-jabung-timur",
+        "Kategori": "Visual",
+        "Waktu Terbit": "13 Oktober 2024 23:10:35",
+        "Waktu Scrapping": "14 Oktober 2024 00:10:35",
+        "Penulis": "Edwin Dwi Putranto"
     },
     {
-        "Judul": "PLN Raih Penghargaan Terbanyak Subroto Award 2024 dari Kementerian ESDM",
-        "Link": "https://ekonomi.republika.co.id/berita/sl6tfg423/pln-raih-penghargaan-terbanyak-subroto-award-2024-dari-kementerian-esdm",
+        "Judul": "Melihat Lebih Dekat Pameran Foto Legasi Jokowi 2014-2024",
+        "Link": "https://visual.republika.co.id/berita/slax1j375/melihat-lebih-dekat-pameran-foto-legasi-jokowi-20142024",
+        "Kategori": "Visual",
+        "Waktu Terbit": "13 Oktober 2024 23:10:36",
+        "Waktu Scrapping": "14 Oktober 2024 00:10:36",
+        "Penulis": "Edwin Dwi Putranto"
+    },
+    {
+        "Judul": "Pantai Muaro Lasak Padang Dipenuhi Sampah Plastik",
+        "Link": "https://visual.republika.co.id/berita/slauad375/pantai-muaro-lasak-padang-dipenuhi-sampah-plastik",
+        "Kategori": "Visual",
+        "Waktu Terbit": "13 Oktober 2024 22:10:36",
+        "Waktu Scrapping": "14 Oktober 2024 00:10:36",
+        "Penulis": "Edwin Dwi Putranto"
+    },
+    {
+        "Judul": "Menhub Apresiasi Kolaborasi BUMN dan Swasta Kembangkan Prasarana Transportasi Massal",
+        "Link": "https://ekonomi.republika.co.id/berita/slap8b490/menhub-apresiasi-kolaborasi-bumn-dan-swasta-kembangkan-prasarana-transportasi-massal",
         "Kategori": "Ekonomi",
-        "Waktu Terbit": "11 Oktober 2024 17:25:30",
-        "Waktu Scrapping": "11 Oktober 2024 19:25:30",
-        "Penulis": "Gita Amanda"
-    },
-    {
-        "Judul": "KBRI Beirut Kembali Evakuasi 14 WNI dari Lebanon",
-        "Link": "https://news.republika.co.id/berita/sl6t2j487/kbri-beirut-kembali-evakuasi-14-wni-dari-lebanon",
-        "Kategori": "News",
-        "Waktu Terbit": "11 Oktober 2024 17:25:31",
-        "Waktu Scrapping": "11 Oktober 2024 19:25:31",
-        "Penulis": "Mas Alamil Huda"
-    },
-    {
-        "Judul": "IHSG Perkasa, Data dari Amerika Serikat Picu Sentimen Positif",
-        "Link": "https://ekonomi.republika.co.id/berita/sl6svg490/ihsg-perkasa-data-dari-amerika-serikat-picu-sentimen-positif",
-        "Kategori": "Ekonomi",
-        "Waktu Terbit": "11 Oktober 2024 17:25:32",
-        "Waktu Scrapping": "11 Oktober 2024 19:25:32",
+        "Waktu Terbit": "13 Oktober 2024 22:10:37",
+        "Waktu Scrapping": "14 Oktober 2024 00:10:37",
         "Penulis": "Ahmad Fikri Noor"
     },
     {
-        "Judul": "Iron Dome Gagal Cegah Roket Hizbullah, Israel Lakukan Evaluasi Besar-besaran",
-        "Link": "https://news.republika.co.id/berita/sl6sru320/iron-dome-gagal-cegah-roket-hizbullah-israel-lakukan-evaluasi-besarbesaran",
+        "Judul": "Isak Tangis Keluarga saat Sambut Jenazah Benny Laos di Rumah Duka",
+        "Link": "https://visual.republika.co.id/berita/slau66375/isak-tangis-keluarga-saat-sambut-jenazah-benny-laos-di-rumah-duka",
+        "Kategori": "Visual",
+        "Waktu Terbit": "13 Oktober 2024 22:10:37",
+        "Waktu Scrapping": "14 Oktober 2024 00:10:37",
+        "Penulis": "Edwin Dwi Putranto"
+    },
+    {
+        "Judul": "Suarakan Dukungan untuk Palestina, Massa Gelar Aksi di Tugu Nol Kilometer Yogyakarta",
+        "Link": "https://visual.republika.co.id/berita/slatz0375/suarakan-dukungan-untuk-palestina-massa-gelar-aksi-di-tugu-nol-kilometer-yogyakarta",
+        "Kategori": "Visual",
+        "Waktu Terbit": "13 Oktober 2024 22:10:38",
+        "Waktu Scrapping": "14 Oktober 2024 00:10:38",
+        "Penulis": "Edwin Dwi Putranto"
+    },
+    {
+        "Judul": "Warga Dukung Program Tri Soal Wisata Sungai Cikeas: Ekonomi Maju, Lingkungan Terjaga",
+        "Link": "https://news.republika.co.id/berita/slau67451/warga-dukung-program-tri-soal-wisata-sungai-cikeas-ekonomi-maju-lingkungan-terjaga",
         "Kategori": "News",
-        "Waktu Terbit": "11 Oktober 2024 17:25:33",
-        "Waktu Scrapping": "11 Oktober 2024 19:25:33",
+        "Waktu Terbit": "13 Oktober 2024 22:10:40",
+        "Waktu Scrapping": "14 Oktober 2024 00:10:40",
+        "Penulis": "Erdy Nasrul"
+    },
+    {
+        "Judul": "Investasi Properti di Batam: AURA Mitra Property Luncurkan Pergudangan Modern",
+        "Link": "https://republika.co.id/berita/sla2fz349/investasi-properti-di-batam-aura-mitra-property-luncurkan-pergudangan-modern",
+        "Kategori": "Resumatra",
+        "Waktu Terbit": "13 Oktober 2024 21:10:41",
+        "Waktu Scrapping": "14 Oktober 2024 00:10:41",
+        "Penulis": "Ichsan Emrald Alamsyah"
+    },
+    {
+        "Judul": "Pengurus LBH GP Anshor Periode 2024-2029 Resmi Dilantik",
+        "Link": "https://visual.republika.co.id/berita/slatio375/pengurus-lbh-gp-anshor-periode-20242029-resmi-dilantik",
+        "Kategori": "Visual",
+        "Waktu Terbit": "13 Oktober 2024 21:10:43",
+        "Waktu Scrapping": "14 Oktober 2024 00:10:43",
+        "Penulis": "Edwin Dwi Putranto"
+    },
+    {
+        "Judul": "Dampak Fatal Serangan Rudal Iran ke Israel Terbongkar, Total Kerugiannya Fantastis",
+        "Link": "https://news.republika.co.id/berita/slat4t320/dampak-fatal-serangan-rudal-iran-ke-israel-terbongkar-total-kerugiannya-fantastis",
+        "Kategori": "News",
+        "Waktu Terbit": "13 Oktober 2024 21:10:44",
+        "Waktu Scrapping": "14 Oktober 2024 00:10:44",
         "Penulis": "Nashih Nashrullah"
     },
     {
-        "Judul": "Soal Kabinet, Gibran: Presiden Jokowi Beri Masukan, Keputusan Ada di Pak Prabowo",
-        "Link": "https://news.republika.co.id/berita/sl6sq5377/soal-kabinet-gibran-presiden-jokowi-beri-masukan-keputusan-ada-di-pak-prabowo",
+        "Judul": "5 Asosiasi Minta Prabowo Kaji Mendalam Gagasan Kementerian Haji dan Umroh",
+        "Link": "https://khazanah.republika.co.id/berita/sl9pu8320/5-asosiasi-minta-prabowo-kaji-mendalam-gagasan-kementerian-haji-dan-umroh",
+        "Kategori": "Khazanah",
+        "Waktu Terbit": "13 Oktober 2024 21:10:44",
+        "Waktu Scrapping": "14 Oktober 2024 00:10:44",
+        "Penulis": "Nashih Nashrullah"
+    },
+    {
+        "Judul": "Mensesneg Ungkap Tiga Agenda Utama Pertemuan Dadakan Jokowi-Prabowo di Solo",
+        "Link": "https://news.republika.co.id/berita/slasdz502/mensesneg-ungkap-tiga-agenda-utama-pertemuan-dadakan-jokowiprabowo-di-solo",
         "Kategori": "News",
-        "Waktu Terbit": "11 Oktober 2024 17:25:34",
-        "Waktu Scrapping": "11 Oktober 2024 19:25:34",
-        "Penulis": "Teguh Firmansyah"
+        "Waktu Terbit": "13 Oktober 2024 21:10:45",
+        "Waktu Scrapping": "14 Oktober 2024 00:10:45",
+        "Penulis": "Lida Puspaningtyas"
     },
     {
-        "Judul": "Tank Merkava Israel Kembali Tembakkan Meriam ke Markas UNIFIL di Lebanon",
-        "Link": "https://news.republika.co.id/berita/sl6sml409/tank-merkava-israel-kembali-tembakkan-meriam-ke-markas-unifil-di-lebanon",
-        "Kategori": "News",
-        "Waktu Terbit": "11 Oktober 2024 17:25:35",
-        "Waktu Scrapping": "11 Oktober 2024 19:25:35",
-        "Penulis": "Andri Saubani"
+        "Judul": "Apa Ajaran Bektashi di Balik 'Negara Islam' yang Halalkan Alkohol dan Cinta Israel",
+        "Link": "https://khazanah.republika.co.id/berita/slarwm320/apa-ajaran-bektashi-di-balik-negara-islam-yang-halalkan-alkohol-dan-cinta-israel",
+        "Kategori": "Khazanah",
+        "Waktu Terbit": "13 Oktober 2024 21:10:47",
+        "Waktu Scrapping": "14 Oktober 2024 00:10:47",
+        "Penulis": "Nashih Nashrullah"
     },
     {
-        "Judul": "Cerita Diaspora Indonesia Saat Diterjang Badai di Florida",
-        "Link": "https://tv.republika.co.id/berita/sl6sj4418/cerita-diaspora-indonesia-saat-diterjang-badai-di-florida",
-        "Kategori": "Video",
-        "Waktu Terbit": "11 Oktober 2024 17:25:36",
-        "Waktu Scrapping": "11 Oktober 2024 19:25:36",
-        "Penulis": "Fian Firatmaja"
-    },
-    {
-        "Judul": "Progres 96 Persen, Bendungan Rukoh akan Dukung Kedaulatan Pangan di Aceh",
-        "Link": "https://ekonomi.republika.co.id/berita/sl6sib490/progres-96-persen-bendungan-rukoh-akan-dukung-kedaulatan-pangan-di-aceh",
+        "Judul": "Butuh Info ATM BRI Terdekat? Tanya Asisten Virtual BRI Sabrina",
+        "Link": "https://ekonomi.republika.co.id/berita/slarcw502/butuh-info-atm-bri-terdekat-tanya-asisten-virtual-bri-sabrina",
         "Kategori": "Ekonomi",
-        "Waktu Terbit": "11 Oktober 2024 17:25:38",
-        "Waktu Scrapping": "11 Oktober 2024 19:25:38",
+        "Waktu Terbit": "13 Oktober 2024 21:10:48",
+        "Waktu Scrapping": "14 Oktober 2024 00:10:48",
+        "Penulis": "Lida Puspaningtyas"
+    },
+    {
+        "Judul": "Sambil Menangis, Peraih Nobel Perdamaian: Seharusnya Diberikan untuk Pejuang Damai di Gaza",
+        "Link": "https://news.republika.co.id/berita/slar4h502/sambil-menangis-peraih-nobel-perdamaian-seharusnya-diberikan-untuk-pejuang-damai-di-gaza",
+        "Kategori": "News",
+        "Waktu Terbit": "13 Oktober 2024 20:10:48",
+        "Waktu Scrapping": "14 Oktober 2024 00:10:48",
+        "Penulis": "Lida Puspaningtyas"
+    },
+    {
+        "Judul": "Belgia Termotivasi Akhiri Penantian Panjang Kemenangan Atas Prancis",
+        "Link": "https://news.republika.co.id/berita/slaqsp348/belgia-termotivasi-akhiri-penantian-panjang-kemenangan-atas-prancis",
+        "Kategori": "News",
+        "Waktu Terbit": "13 Oktober 2024 20:10:49",
+        "Waktu Scrapping": "14 Oktober 2024 00:10:49",
+        "Penulis": "Israr Itah"
+    },
+    {
+        "Judul": "Presiden Jokowi akan ke Depok, Cek Gladi Bersih Apel Gelar Pasukan Pengamanan Pelantikan Presiden dan Wapres",
+        "Link": "https://ruzkaindonesia.id/posts/482356/presiden-jokowi-akan-ke-depok-cek-gladi-bersih-apel-gelar-pasukan-pengamanan-pelantikan-presiden-dan-wapres",
+        "Kategori": "Network",
+        "Waktu Terbit": "13 Oktober 2024 20:10:50",
+        "Waktu Scrapping": "14 Oktober 2024 00:10:50",
+        "Penulis": "-"
+    },
+    {
+        "Judul": "Bawaslu Kota Sukabumi Pantau Pencetakan Surat Suara Pilkada 2024",
+        "Link": "https://sukabumikini.com/posts/482368/bawaslu-kota-sukabumi-pantau-pencetakan-surat-suara-pilkada-2024",
+        "Kategori": "Network",
+        "Waktu Terbit": "13 Oktober 2024 20:10:52",
+        "Waktu Scrapping": "14 Oktober 2024 00:10:52",
+        "Penulis": "-"
+    },
+    {
+        "Judul": "Opini Publik dan Persepsi Pemilih dalam Pilkada",
+        "Link": "https://kingdomsriwijaya.id/posts/482370/opini-publik-dan-persepsi-pemilih-dalam-pilkada",
+        "Kategori": "Network",
+        "Waktu Terbit": "13 Oktober 2024 20:10:53",
+        "Waktu Scrapping": "14 Oktober 2024 00:10:53",
+        "Penulis": "-"
+    },
+    {
+        "Judul": "Viral Aksi Pemerasan ke Penjual Martabak di Bandung, Pelaku Sudah Dikasih Malah Menganiaya",
+        "Link": "https://news.republika.co.id/berita/slapfl487/viral-aksi-pemerasan-ke-penjual-martabak-di-bandung-pelaku-sudah-dikasih-malah-menganiaya",
+        "Kategori": "News",
+        "Waktu Terbit": "13 Oktober 2024 20:10:55",
+        "Waktu Scrapping": "14 Oktober 2024 00:10:55",
+        "Penulis": "Mas Alamil Huda"
+    },
+    {
+        "Judul": "Bisakah Investasi Menahan Serangan Badai PHK?",
+        "Link": "https://retizen.republika.co.id/posts/482012/bisakah-investasi-menahan-serangan-badai-phk",
+        "Kategori": "Retizen",
+        "Waktu Terbit": "13 Oktober 2024 20:10:55",
+        "Waktu Scrapping": "14 Oktober 2024 00:10:55",
+        "Penulis": "-"
+    },
+    {
+        "Judul": "Pendidikan dan Pemertahanan Budaya: Tantangan di Era Modern",
+        "Link": "https://retizen.republika.co.id/posts/482097/pendidikan-dan-pemertahanan-budaya-tantangan-di-era-modern",
+        "Kategori": "Retizen",
+        "Waktu Terbit": "13 Oktober 2024 20:10:56",
+        "Waktu Scrapping": "14 Oktober 2024 00:10:56",
+        "Penulis": "-"
+    },
+    {
+        "Judul": "Tanaman Akar Wangi: Komoditas Ekspor dengan Beragam Manfaat",
+        "Link": "https://retizen.republika.co.id/posts/482110/tanaman-akar-wangi-komoditas-ekspor-dengan-beragam-manfaat",
+        "Kategori": "Retizen",
+        "Waktu Terbit": "13 Oktober 2024 20:10:56",
+        "Waktu Scrapping": "14 Oktober 2024 00:10:56",
+        "Penulis": "-"
+    },
+    {
+        "Judul": "Pemerintahan Baru, Tantangan Lama: Membangun di atas Pusaka Masalah",
+        "Link": "https://retizen.republika.co.id/posts/482123/pemerintahan-baru-tantangan-lama-membangun-di-atas-pusaka-masalah",
+        "Kategori": "Retizen",
+        "Waktu Terbit": "13 Oktober 2024 20:10:56",
+        "Waktu Scrapping": "14 Oktober 2024 00:10:56",
+        "Penulis": "-"
+    },
+    {
+        "Judul": "Suka Berdalil Tetapi Terbalik",
+        "Link": "https://retizen.republika.co.id/posts/482138/suka-berdalil-tetapi-terbalik",
+        "Kategori": "Retizen",
+        "Waktu Terbit": "13 Oktober 2024 20:10:57",
+        "Waktu Scrapping": "14 Oktober 2024 00:10:57",
+        "Penulis": "-"
+    },
+    {
+        "Judul": "Learning Loss : Krisis Pendidikan Indonesia",
+        "Link": "https://retizen.republika.co.id/posts/482169/learning-loss-krisis-pendidikan-indonesia",
+        "Kategori": "Retizen",
+        "Waktu Terbit": "13 Oktober 2024 20:10:57",
+        "Waktu Scrapping": "14 Oktober 2024 00:10:57",
+        "Penulis": "-"
+    },
+    {
+        "Judul": "Keajaiban Nabi Jirjis dan Pembangkangan Raja Dzadiyanah - Nabi Jirjis Part 4",
+        "Link": "https://retizen.republika.co.id/posts/482261/keajaiban-nabi-jirjis-dan-pembangkangan-raja-dzadiyanah-nabi-jirjis-part-4",
+        "Kategori": "Retizen",
+        "Waktu Terbit": "13 Oktober 2024 20:10:57",
+        "Waktu Scrapping": "14 Oktober 2024 00:10:57",
+        "Penulis": "-"
+    },
+    {
+        "Judul": "Mengapa Seseorang Bisa Mengalamai Overthingking dan Bagaimana Cara Mengatasinya?",
+        "Link": "https://retizen.republika.co.id/posts/482341/mengapa-seseorang-bisa-mengalamai-overthingking-dan-bagaimana-cara-mengatasinya",
+        "Kategori": "Retizen",
+        "Waktu Terbit": "13 Oktober 2024 20:10:59",
+        "Waktu Scrapping": "14 Oktober 2024 00:10:59",
+        "Penulis": "-"
+    },
+    {
+        "Judul": "Steward Korban Pengeroyokan di Stadion Si Jalak Harupat Bakal Cabut Laporan Polisi",
+        "Link": "https://rejabar.republika.co.id/berita/slapgd282/steward-korban-pengeroyokan-di-stadion-si-jalak-harupat-bakal-cabut-laporan-polisi",
+        "Kategori": "Rejabar",
+        "Waktu Terbit": "13 Oktober 2024 20:10:59",
+        "Waktu Scrapping": "14 Oktober 2024 00:10:59",
+        "Penulis": "Karta Raharja Ucu"
+    },
+    {
+        "Judul": "Pelatihan Manajemen Limbah Rajungan FishLog Tutup Rangkaian Catalytic Fund 2024",
+        "Link": "https://rejogja.republika.co.id/berita/sl9p9c320/pelatihan-manajemen-limbah-rajungan-fishlog-tutup-rangkaian-catalytic-fund-2024",
+        "Kategori": "Rejogja",
+        "Waktu Terbit": "13 Oktober 2024 20:11:00",
+        "Waktu Scrapping": "14 Oktober 2024 00:11:00",
+        "Penulis": "Nashih Nashrullah"
+    },
+    {
+        "Judul": "Ajaran Rasulullah untuk Mengasihi Hewan",
+        "Link": "https://khazanah.republika.co.id/berita/slapdl430/ajaran-rasulullah-untuk-mengasihi-hewan",
+        "Kategori": "Khazanah",
+        "Waktu Terbit": "13 Oktober 2024 20:11:01",
+        "Waktu Scrapping": "14 Oktober 2024 00:11:01",
+        "Penulis": "Muhammad Hafil"
+    },
+    {
+        "Judul": "Rasulullah SAW Memiliki Mata Hati yang Bening",
+        "Link": "https://khazanah.republika.co.id/berita/slap52430/rasulullah-saw-memiliki-mata-hati-yang-bening",
+        "Kategori": "Khazanah",
+        "Waktu Terbit": "13 Oktober 2024 20:11:03",
+        "Waktu Scrapping": "14 Oktober 2024 00:11:03",
+        "Penulis": "Muhammad Hafil"
+    },
+    {
+        "Judul": "Penutupan Giling Tebu, Produksi Gula ID Food Naik",
+        "Link": "https://ekonomi.republika.co.id/berita/slap0x490/penutupan-giling-tebu-produksi-gula-id-food-naik",
+        "Kategori": "Ekonomi",
+        "Waktu Terbit": "13 Oktober 2024 20:11:04",
+        "Waktu Scrapping": "14 Oktober 2024 00:11:04",
         "Penulis": "Ahmad Fikri Noor"
     },
     {
-        "Judul": "Prabowo Disebut Bakal Tes Langsung Calon Menterinya",
-        "Link": "https://news.republika.co.id/berita/sl6shk487/prabowo-disebut-bakal-tes-langsung-calon-menterinya",
+        "Judul": "AS Berikan Bantuan Sistem Pertahanan Antirudal untuk Israel, Bersiap Serang Iran?",
+        "Link": "https://news.republika.co.id/berita/slaowt487/as-berikan-bantuan-sistem-pertahanan-antirudal-untuk-israel-bersiap-serang-iran",
         "Kategori": "News",
-        "Waktu Terbit": "11 Oktober 2024 17:25:38",
-        "Waktu Scrapping": "11 Oktober 2024 19:25:38",
+        "Waktu Terbit": "13 Oktober 2024 20:11:05",
+        "Waktu Scrapping": "14 Oktober 2024 00:11:05",
+        "Penulis": "Mas Alamil Huda"
+    },
+    {
+        "Judul": "Jumlah Haji dan Umroh yang Dikerjakan Rasulullah SAW",
+        "Link": "https://khazanah.republika.co.id/berita/slaowe430/jumlah-haji-dan-umroh-yang-dikerjakan-rasulullah-saw",
+        "Kategori": "Khazanah",
+        "Waktu Terbit": "13 Oktober 2024 20:11:06",
+        "Waktu Scrapping": "14 Oktober 2024 00:11:06",
+        "Penulis": "Muhammad Hafil"
+    },
+    {
+        "Judul": "MSG di Antara Mitos, Kesehatan, dan Sumber Kreativitas",
+        "Link": "https://ameera.republika.co.id/berita/slaom9456/msg-di-antara-mitos-kesehatan-dan-sumber-kreativitas",
+        "Kategori": "Ameera",
+        "Waktu Terbit": "13 Oktober 2024 20:11:06",
+        "Waktu Scrapping": "14 Oktober 2024 00:11:06",
+        "Penulis": "Gilang Akbar Prambadi"
+    },
+    {
+        "Judul": "Wapres Tegaskan Pesantren Bukan Tempat Kekerasan dan Penyimpangan",
+        "Link": "https://news.republika.co.id/berita/slaol7502/wapres-tegaskan-pesantren-bukan-tempat-kekerasan-dan-penyimpangan",
+        "Kategori": "News",
+        "Waktu Terbit": "13 Oktober 2024 20:11:07",
+        "Waktu Scrapping": "14 Oktober 2024 00:11:07",
+        "Penulis": "Lida Puspaningtyas"
+    },
+    {
+        "Judul": "Ini Daftar Kereta Api\u00a0dengan Penumpang Terbanyak Sepanjang 2024",
+        "Link": "https://ekonomi.republika.co.id/berita/slaok8490/ini-daftar-kereta-apidengan-penumpang-terbanyak-sepanjang-2024",
+        "Kategori": "Ekonomi",
+        "Waktu Terbit": "13 Oktober 2024 19:11:08",
+        "Waktu Scrapping": "14 Oktober 2024 00:11:08",
+        "Penulis": "Ahmad Fikri Noor"
+    },
+    {
+        "Judul": "Pelaku Pembunuhan Sadis Sopir Travel Terancam 15 Tahun Penjara",
+        "Link": "https://news.republika.co.id/berita/slanoq487/pelaku-pembunuhan-sadis-sopir-travel-terancam-15-tahun-penjara",
+        "Kategori": "News",
+        "Waktu Terbit": "13 Oktober 2024 19:11:09",
+        "Waktu Scrapping": "14 Oktober 2024 00:11:09",
+        "Penulis": "Mas Alamil Huda"
+    },
+    {
+        "Judul": "Operasi Zebra 2024 Dimulai Besok, Sembilan Pelanggaran Ini Tidak Ada Lagi Ampun",
+        "Link": "https://news.republika.co.id/berita/slamqe502/operasi-zebra-2024-dimulai-besok-sembilan-pelanggaran-ini-tidak-ada-lagi-ampun",
+        "Kategori": "News",
+        "Waktu Terbit": "13 Oktober 2024 19:11:10",
+        "Waktu Scrapping": "14 Oktober 2024 00:11:10",
+        "Penulis": "Lida Puspaningtyas"
+    },
+    {
+        "Judul": "Libur Nataru, Masyarakat Diimbau Pesan Tiket Penyeberangan Melalui Ferizy dari Sekarang",
+        "Link": "https://news.republika.co.id/berita/slamob487/libur-nataru-masyarakat-diimbau-pesan-tiket-penyeberangan-melalui-ferizy-dari-sekarang",
+        "Kategori": "News",
+        "Waktu Terbit": "13 Oktober 2024 19:11:11",
+        "Waktu Scrapping": "14 Oktober 2024 00:11:11",
         "Penulis": "Mas Alamil Huda"
     }
 ]
