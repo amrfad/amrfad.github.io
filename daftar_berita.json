@@ -1,42 +1,90 @@
 [
     {
+        "Judul": "Jadwal Sholat Hari ini di Surabaya, 31 Oktober 2024",
+        "Link": "https://iqra.republika.co.id/berita/sm6wb6430/jadwal-sholat-hari-ini-di-surabaya-31-oktober-2024",
+        "Kategori": "Iqra",
+        "Waktu Terbit": "31 Oktober 2024 05:11:30",
+        "Waktu Scrapping": "31 Oktober 2024 05:12:24",
+        "Penulis": "Muhammad Hafil"
+    },
+    {
+        "Judul": "Prakiraan Cuaca Hari Ini 31 Oktober 2024 Daerah Kota Malang dan Sekitarnya: Cerah Berawan",
+        "Link": "https://news.republika.co.id/berita/sm6vzd1916704683/prakiraan-cuaca-hari-ini-31-oktober-2024-daerah-kota-malang-dan-sekitarnya-cerah-berawan",
+        "Kategori": "News",
+        "Waktu Terbit": "31 Oktober 2024 05:04:25",
+        "Waktu Scrapping": "31 Oktober 2024 05:12:25",
+        "Penulis": "Rebot"
+    },
+    {
+        "Judul": "Prakiraan Cuaca Hari Ini 31 Oktober 2024 Daerah Kota Surabaya dan Sekitarnya: Hujan Ringan",
+        "Link": "https://news.republika.co.id/berita/sm6va11592986816/prakiraan-cuaca-hari-ini-31-oktober-2024-daerah-kota-surabaya-dan-sekitarnya-hujan-ringan",
+        "Kategori": "News",
+        "Waktu Terbit": "31 Oktober 2024 04:49:25",
+        "Waktu Scrapping": "31 Oktober 2024 05:12:25",
+        "Penulis": "Rebot"
+    },
+    {
+        "Judul": "Gus Baha: Palestina tak Bisa Terenyahkan",
+        "Link": "https://khazanah.republika.co.id/berita/sm6v4m430/gus-baha-palestina-tak-bisa-terenyahkan",
+        "Kategori": "Khazanah",
+        "Waktu Terbit": "31 Oktober 2024 04:46:26",
+        "Waktu Scrapping": "31 Oktober 2024 05:12:26",
+        "Penulis": "Muhammad Hafil"
+    },
+    {
+        "Judul": "Prakiraan Cuaca Hari Ini 31 Oktober 2024: Yogyakarta, Cerah Berawan",
+        "Link": "https://news.republika.co.id/berita/sm6ufz1114367588/prakiraan-cuaca-hari-ini-31-oktober-2024-yogyakarta-cerah-berawan",
+        "Kategori": "News",
+        "Waktu Terbit": "31 Oktober 2024 04:31:26",
+        "Waktu Scrapping": "31 Oktober 2024 05:12:26",
+        "Penulis": "Rebot"
+    },
+    {
+        "Judul": "Prakiraan Cuaca Hari ini 31 Oktober 2024 Daerah Kota Semarang dan Sekitarnya: Cerah",
+        "Link": "https://news.republika.co.id/berita/sm6tm1754818267/prakiraan-cuaca-hari-ini-31-oktober-2024-daerah-kota-semarang-dan-sekitarnya-cerah",
+        "Kategori": "News",
+        "Waktu Terbit": "31 Oktober 2024 04:13:27",
+        "Waktu Scrapping": "31 Oktober 2024 05:12:27",
+        "Penulis": "Rebot"
+    },
+    {
         "Judul": "Prakiraan Cuaca Hari Ini 31 Oktober 2024 untuk Daerah Tangerang dan Sekitarnya: Cuaca Kota Cilegon",
         "Link": "https://news.republika.co.id/berita/sm6t0i1172894710/prakiraan-cuaca-hari-ini-31-oktober-2024-untuk-daerah-tangerang-dan-sekitarnya-cuaca-kota-cilegon",
         "Kategori": "News",
-        "Waktu Terbit": "31 Oktober 2024 04:00:29",
-        "Waktu Scrapping": "31 Oktober 2024 04:12:29",
+        "Waktu Terbit": "31 Oktober 2024 04:12:27",
+        "Waktu Scrapping": "31 Oktober 2024 05:12:27",
         "Penulis": "Rebot"
     },
     {
         "Judul": "Prakiraan Cuaca Hari Ini: 31 Oktober 2024 - Kota Jakarta dan Sekitarnya, Jakarta Selatan Berawan",
         "Link": "https://news.republika.co.id/berita/sm6sgw257051092/prakiraan-cuaca-hari-ini-31-oktober-2024-kota-jakarta-dan-sekitarnya-jakarta-selatan-berawan",
         "Kategori": "News",
-        "Waktu Terbit": "31 Oktober 2024 03:48:29",
-        "Waktu Scrapping": "31 Oktober 2024 04:12:29",
+        "Waktu Terbit": "31 Oktober 2024 04:12:28",
+        "Waktu Scrapping": "31 Oktober 2024 05:12:28",
         "Penulis": "Rebot"
     },
     {
         "Judul": "Prakiraan Cuaca Hari Ini 31 Oktober 2024: Bekasi dan Sekitarnya",
         "Link": "https://news.republika.co.id/berita/sm6rmc84701157/prakiraan-cuaca-hari-ini-31-oktober-2024-bekasi-dan-sekitarnya",
         "Kategori": "News",
-        "Waktu Terbit": "31 Oktober 2024 03:30:30",
-        "Waktu Scrapping": "31 Oktober 2024 04:12:30",
+        "Waktu Terbit": "31 Oktober 2024 03:12:28",
+        "Waktu Scrapping": "31 Oktober 2024 05:12:28",
         "Penulis": "Rebot"
     },
     {
         "Judul": "Prakiraan Cuaca Hari Ini 31 Oktober 2024: Kota Padang dan Sekitarnya",
         "Link": "https://news.republika.co.id/berita/sm6rko619963221/prakiraan-cuaca-hari-ini-31-oktober-2024-kota-padang-dan-sekitarnya",
         "Kategori": "News",
-        "Waktu Terbit": "31 Oktober 2024 03:29:30",
-        "Waktu Scrapping": "31 Oktober 2024 04:12:30",
+        "Waktu Terbit": "31 Oktober 2024 03:12:28",
+        "Waktu Scrapping": "31 Oktober 2024 05:12:28",
         "Penulis": "Rebot"
     },
     {
         "Judul": "Prakiraan Cuaca Hari ini 31 Oktober 2024 untuk Bandung dan Sekitarnya: Hujan Ringan",
         "Link": "https://news.republika.co.id/berita/sm6r0x2124768143/prakiraan-cuaca-hari-ini-31-oktober-2024-untuk-bandung-dan-sekitarnya-hujan-ringan",
         "Kategori": "News",
-        "Waktu Terbit": "31 Oktober 2024 03:17:31",
-        "Waktu Scrapping": "31 Oktober 2024 04:12:31",
+        "Waktu Terbit": "31 Oktober 2024 03:12:30",
+        "Waktu Scrapping": "31 Oktober 2024 05:12:30",
         "Penulis": "Rebot"
     },
     {
@@ -44,7 +92,7 @@
         "Link": "https://news.republika.co.id/berita/sm6qlq1600779779/prakiraan-cuaca-hari-ini-31-oktober-2024-kota-banda-aceh-dan-sekitarnya-berawan",
         "Kategori": "News",
         "Waktu Terbit": "31 Oktober 2024 03:12:31",
-        "Waktu Scrapping": "31 Oktober 2024 04:12:31",
+        "Waktu Scrapping": "31 Oktober 2024 05:12:31",
         "Penulis": "Rebot"
     },
     {
@@ -52,199 +100,199 @@
         "Link": "https://ameera.republika.co.id/berita/sm6ab9425/rendam-anggur-15-menit-dalam-larutan-soda-kue-untuk-kurangi-kontaminasi-pestisida",
         "Kategori": "Ameera",
         "Waktu Terbit": "31 Oktober 2024 03:12:32",
-        "Waktu Scrapping": "31 Oktober 2024 04:12:32",
+        "Waktu Scrapping": "31 Oktober 2024 05:12:32",
         "Penulis": "Qommarria Rostanti"
     },
     {
         "Judul": "Prakiraan Cuaca Hari ini 31 Oktober 2024 untuk Kota Balikpapan dan Sekitarnya: Berawan",
         "Link": "https://news.republika.co.id/berita/sm6p2p494007161/prakiraan-cuaca-hari-ini-31-oktober-2024-untuk-kota-balikpapan-dan-sekitarnya-berawan",
         "Kategori": "News",
-        "Waktu Terbit": "31 Oktober 2024 02:12:32",
-        "Waktu Scrapping": "31 Oktober 2024 04:12:32",
+        "Waktu Terbit": "31 Oktober 2024 02:12:33",
+        "Waktu Scrapping": "31 Oktober 2024 05:12:33",
         "Penulis": "Rebot"
     },
     {
         "Judul": "Kemenag dan LPDP Kirim 20 Santri Belajar Moderasi Beragama dalam Program Micro Credential",
         "Link": "https://khazanah.republika.co.id/berita/sm6l5i349/kemenag-dan-lpdp-kirim-20-santri-belajar-moderasi-beragama-dalam-program-micro-credential",
         "Kategori": "Khazanah",
-        "Waktu Terbit": "31 Oktober 2024 02:12:33",
-        "Waktu Scrapping": "31 Oktober 2024 04:12:33",
+        "Waktu Terbit": "31 Oktober 2024 02:12:34",
+        "Waktu Scrapping": "31 Oktober 2024 05:12:34",
         "Penulis": "Ichsan Emrald Alamsyah"
     },
     {
         "Judul": "Prakiraan Cuaca Hari Ini 31 Oktober 2024 Daerah Bogor dan Sekitarnya: Hujan Ringan",
         "Link": "https://news.republika.co.id/berita/sm6nge49776363/prakiraan-cuaca-hari-ini-31-oktober-2024-daerah-bogor-dan-sekitarnya-hujan-ringan",
         "Kategori": "News",
-        "Waktu Terbit": "31 Oktober 2024 02:12:33",
-        "Waktu Scrapping": "31 Oktober 2024 04:12:33",
+        "Waktu Terbit": "31 Oktober 2024 02:12:35",
+        "Waktu Scrapping": "31 Oktober 2024 05:12:35",
         "Penulis": "Rebot"
     },
     {
         "Judul": "Pemerintah China Perintahkan Produsen Mobil Listriknya Hentikan Investasi di Eropa",
         "Link": "https://ekonomi.republika.co.id/berita/sm6ms0468/pemerintah-china-perintahkan-produsen-mobil-listriknya-hentikan-investasi-di-eropa",
         "Kategori": "Ekonomi",
-        "Waktu Terbit": "31 Oktober 2024 02:12:34",
-        "Waktu Scrapping": "31 Oktober 2024 04:12:34",
+        "Waktu Terbit": "31 Oktober 2024 02:12:36",
+        "Waktu Scrapping": "31 Oktober 2024 05:12:36",
         "Penulis": "Firkah Fansuri"
     },
     {
         "Judul": "Kemenperin Perkuat Hilirisasi, Tingkatkan Daya Saing Tembaga dan Timah",
         "Link": "https://ekonomi.republika.co.id/berita/sm5zrj370/kemenperin-perkuat-hilirisasi-tingkatkan-daya-saing-tembaga-dan-timah",
         "Kategori": "Ekonomi",
-        "Waktu Terbit": "31 Oktober 2024 01:12:34",
-        "Waktu Scrapping": "31 Oktober 2024 04:12:34",
+        "Waktu Terbit": "31 Oktober 2024 01:12:37",
+        "Waktu Scrapping": "31 Oktober 2024 05:12:37",
         "Penulis": "Friska Yolandha"
     },
     {
         "Judul": "Viral Baliho Dukung Persija Pakai Jersey Persib, Ridwan Kamil: Saya Sesalkan Provokasi Itu",
         "Link": "https://news.republika.co.id/berita/sm6anf409/viral-baliho-dukung-persija-pakai-jersey-persib-ridwan-kamil-saya-sesalkan-provokasi-itu",
         "Kategori": "News",
-        "Waktu Terbit": "31 Oktober 2024 01:12:37",
-        "Waktu Scrapping": "31 Oktober 2024 04:12:37",
+        "Waktu Terbit": "31 Oktober 2024 01:12:38",
+        "Waktu Scrapping": "31 Oktober 2024 05:12:38",
         "Penulis": "Andri Saubani"
     },
     {
         "Judul": "Sinergikan Ekosistem Syariah Nasional, BI dalam ISEF 2024 Resmikan 4 Program Strategis",
         "Link": "https://sharia.republika.co.id/berita/sm6km9349/sinergikan-ekosistem-syariah-nasional-bi-dalam-isef-2024-resmikan-4-program-strategis",
         "Kategori": "Sharia",
-        "Waktu Terbit": "31 Oktober 2024 01:12:41",
-        "Waktu Scrapping": "31 Oktober 2024 04:12:41",
+        "Waktu Terbit": "31 Oktober 2024 01:12:39",
+        "Waktu Scrapping": "31 Oktober 2024 05:12:39",
         "Penulis": "Ichsan Emrald Alamsyah"
     },
     {
         "Judul": "Arya Sinulingga Sebut Diks Diharapkan Dapat Bergabung pada Maret",
         "Link": "https://news.republika.co.id/berita/sm6k97348/arya-sinulingga-sebut-diks-diharapkan-dapat-bergabung-pada-maret",
         "Kategori": "News",
-        "Waktu Terbit": "31 Oktober 2024 01:12:42",
-        "Waktu Scrapping": "31 Oktober 2024 04:12:42",
+        "Waktu Terbit": "31 Oktober 2024 01:12:40",
+        "Waktu Scrapping": "31 Oktober 2024 05:12:40",
         "Penulis": "Israr Itah"
     },
     {
         "Judul": "Nistelrooy Merasa Terhormat Latih MU Meski Sementara",
         "Link": "https://news.republika.co.id/berita/sm6jz6348/nistelrooy-merasa-terhormat-latih-mu-meski-sementara",
         "Kategori": "News",
-        "Waktu Terbit": "31 Oktober 2024 01:12:42",
-        "Waktu Scrapping": "31 Oktober 2024 04:12:42",
+        "Waktu Terbit": "31 Oktober 2024 01:12:41",
+        "Waktu Scrapping": "31 Oktober 2024 05:12:41",
         "Penulis": "Israr Itah"
     },
     {
         "Judul": "Kuartal III, Pertumbuhan Kredit dan Pembiayaan UMKM Bank DKI Capai 15,54 Persen",
         "Link": "https://ekonomi.republika.co.id/berita/sm6jab415/kuartal-iii-pertumbuhan-kredit-dan-pembiayaan-umkm-bank-dki-capai-1554-persen",
         "Kategori": "Ekonomi",
-        "Waktu Terbit": "31 Oktober 2024 01:12:43",
-        "Waktu Scrapping": "31 Oktober 2024 04:12:43",
+        "Waktu Terbit": "31 Oktober 2024 01:12:42",
+        "Waktu Scrapping": "31 Oktober 2024 05:12:42",
         "Penulis": "Budi Raharjo"
     },
     {
         "Judul": "Dua BMW Edisi Terbatas Meluncur di Indonesia",
         "Link": "https://ekonomi.republika.co.id/berita/sm6jdr468/dua-bmw-edisi-terbatas-meluncur-di-indonesia",
         "Kategori": "Ekonomi",
-        "Waktu Terbit": "31 Oktober 2024 00:12:44",
-        "Waktu Scrapping": "31 Oktober 2024 04:12:44",
+        "Waktu Terbit": "31 Oktober 2024 00:12:43",
+        "Waktu Scrapping": "31 Oktober 2024 05:12:43",
         "Penulis": "Firkah Fansuri"
     },
     {
         "Judul": "Wamen Stella Christie Berpesan ini untuk Genjot Kualitas Pendidikan Tinggi",
         "Link": "https://news.republika.co.id/berita/sm6dx5451/wamen-stella-christie-berpesan-ini-untuk-genjot-kualitas-pendidikan-tinggi",
         "Kategori": "News",
-        "Waktu Terbit": "31 Oktober 2024 00:12:46",
-        "Waktu Scrapping": "31 Oktober 2024 04:12:46",
+        "Waktu Terbit": "31 Oktober 2024 00:12:44",
+        "Waktu Scrapping": "31 Oktober 2024 05:12:44",
         "Penulis": "Erdy Nasrul"
     },
     {
         "Judul": "Livin' by Mandiri Catat Nilai Transaksi Rp 2.940 Triliun pada Kuartal III 2024",
         "Link": "https://ekonomi.republika.co.id/berita/sm5zlv370/livin-by-mandiri-catat-nilai-transaksi-rp-2940-triliun-pada-kuartal-iii-2024",
         "Kategori": "Ekonomi",
-        "Waktu Terbit": "31 Oktober 2024 00:12:46",
-        "Waktu Scrapping": "31 Oktober 2024 04:12:46",
+        "Waktu Terbit": "31 Oktober 2024 00:12:45",
+        "Waktu Scrapping": "31 Oktober 2024 05:12:45",
         "Penulis": "Friska Yolandha"
     },
     {
         "Judul": "Terapi dan Pola Hidup Sehat Bantu Kendalikan Penyakit Kardioserebrovaskular",
         "Link": "https://tv.republika.co.id/berita/sm6iy7467/terapi-dan-pola-hidup-sehat-bantu-kendalikan-penyakit-kardioserebrovaskular",
         "Kategori": "Video",
-        "Waktu Terbit": "31 Oktober 2024 00:12:47",
-        "Waktu Scrapping": "31 Oktober 2024 04:12:47",
+        "Waktu Terbit": "31 Oktober 2024 00:12:46",
+        "Waktu Scrapping": "31 Oktober 2024 05:12:46",
         "Penulis": "Wisnu Aji Prasetiyo"
     },
     {
         "Judul": "ISEF 2024: Sharia Economy, Key Pillar of Indonesia's Sustainable Economic Growth",
         "Link": "https://en.republika.co.id/berita/sm5z3e415/isef-2024-sharia-economy-key-pillar-of-indonesias-sustainable-economic-growth",
         "Kategori": "En",
-        "Waktu Terbit": "31 Oktober 2024 00:12:49",
-        "Waktu Scrapping": "31 Oktober 2024 04:12:49",
+        "Waktu Terbit": "31 Oktober 2024 00:12:48",
+        "Waktu Scrapping": "31 Oktober 2024 05:12:48",
         "Penulis": "Budi Raharjo"
     },
     {
         "Judul": "Menteri UMKM: Indonesia Punya Peringkat Unggu di Industri Modest Fashion Globa",
         "Link": "https://ameera.republika.co.id/berita/sm6ayj425/menteri-umkm-indonesia-punya-peringkat-unggu-di-industri-modest-fashion-globa",
         "Kategori": "Ameera",
-        "Waktu Terbit": "31 Oktober 2024 00:12:49",
-        "Waktu Scrapping": "31 Oktober 2024 04:12:49",
+        "Waktu Terbit": "31 Oktober 2024 00:12:48",
+        "Waktu Scrapping": "31 Oktober 2024 05:12:48",
         "Penulis": "Qommarria Rostanti"
     },
     {
         "Judul": "Tiga Penyebab Elektabilitas RIDO dan Pramono-Rano Bersaing Ketat Menurut LSI Denny JA",
         "Link": "https://news.republika.co.id/berita/sm6aej409/tiga-penyebab-elektabilitas-rido-dan-pramonorano-bersaing-ketat-menurut-lsi-denny-ja",
         "Kategori": "News",
-        "Waktu Terbit": "31 Oktober 2024 00:12:50",
-        "Waktu Scrapping": "31 Oktober 2024 04:12:50",
+        "Waktu Terbit": "31 Oktober 2024 00:12:49",
+        "Waktu Scrapping": "31 Oktober 2024 05:12:49",
         "Penulis": "Andri Saubani"
     },
     {
         "Judul": "Mendikdasmen akan Gandeng Multipihak Tekan Kasus Kekerasan pada Guru",
         "Link": "https://news.republika.co.id/berita/sm6dqr451/mendikdasmen-akan-gandeng-multipihak-tekan-kasus-kekerasan-pada-guru",
         "Kategori": "News",
-        "Waktu Terbit": "31 Oktober 2024 00:12:51",
-        "Waktu Scrapping": "31 Oktober 2024 04:12:51",
+        "Waktu Terbit": "31 Oktober 2024 00:12:50",
+        "Waktu Scrapping": "31 Oktober 2024 05:12:50",
         "Penulis": "Erdy Nasrul"
     },
     {
         "Judul": "Adakah Uang Kerugian Negara Mengalir ke Tom Lembong? Ini Penjelasan Kejagung",
         "Link": "https://news.republika.co.id/berita/sm641m377/adakah-uang-kerugian-negara-mengalir-ke-tom-lembong-ini-penjelasan-kejagung",
         "Kategori": "News",
-        "Waktu Terbit": "31 Oktober 2024 00:12:52",
-        "Waktu Scrapping": "31 Oktober 2024 04:12:52",
+        "Waktu Terbit": "31 Oktober 2024 00:12:51",
+        "Waktu Scrapping": "31 Oktober 2024 05:12:51",
         "Penulis": "Teguh Firmansyah"
     },
     {
         "Judul": "Dandan-Arif Hadirkan Solusi Macet dengan Bandung Link",
         "Link": "https://rejabar.republika.co.id/berita/sm6g7g371/dandanarif-hadirkan-solusi-macet-dengan-bandung-link",
         "Kategori": "Rejabar",
-        "Waktu Terbit": "30 Oktober 2024 23:12:53",
-        "Waktu Scrapping": "31 Oktober 2024 04:12:53",
+        "Waktu Terbit": "30 Oktober 2024 23:12:52",
+        "Waktu Scrapping": "31 Oktober 2024 05:12:52",
         "Penulis": "Sandy Ferdiana"
     },
     {
         "Judul": "Melihat Jejak Sejarah Kerajaan Nusantara di Pameran Imersifa",
         "Link": "https://visual.republika.co.id/berita/sm6cvn375/melihat-jejak-sejarah-kerajaan-nusantara-di-pameran-imersifa",
         "Kategori": "Visual",
-        "Waktu Terbit": "30 Oktober 2024 23:12:54",
-        "Waktu Scrapping": "31 Oktober 2024 04:12:54",
+        "Waktu Terbit": "30 Oktober 2024 23:12:53",
+        "Waktu Scrapping": "31 Oktober 2024 05:12:53",
         "Penulis": "Edwin Dwi Putranto"
     },
     {
         "Judul": "Pengadilan Perintahkan Najib Razak Bela Diri Atas 25 Dugaan Korupsi",
         "Link": "https://news.republika.co.id/berita/sm6fln320/pengadilan-perintahkan-najib-razak-bela-diri-atas-25-dugaan-korupsi",
         "Kategori": "News",
-        "Waktu Terbit": "30 Oktober 2024 23:12:55",
-        "Waktu Scrapping": "31 Oktober 2024 04:12:55",
+        "Waktu Terbit": "30 Oktober 2024 23:12:54",
+        "Waktu Scrapping": "31 Oktober 2024 05:12:54",
         "Penulis": "Nashih Nashrullah"
     },
     {
         "Judul": "Ini Tiga Tongkat Pusaka Kesaktian NU yang Diungkap Rais Aam",
         "Link": "https://khazanah.republika.co.id/berita/sm6f04320/ini-tiga-tongkat-pusaka-kesaktian-nu-yang-diungkap-rais-aam",
         "Kategori": "Khazanah",
-        "Waktu Terbit": "30 Oktober 2024 23:12:56",
-        "Waktu Scrapping": "31 Oktober 2024 04:12:56",
+        "Waktu Terbit": "30 Oktober 2024 23:12:55",
+        "Waktu Scrapping": "31 Oktober 2024 05:12:55",
         "Penulis": "Nashih Nashrullah"
     },
     {
         "Judul": "Kantor Imigrasi Bekasi Perkuat Sinergi dalam Penanganan Pengungsi",
         "Link": "https://news.republika.co.id/berita/sm6ekv416/kantor-imigrasi-bekasi-perkuat-sinergi-dalam-penanganan-pengungsi",
         "Kategori": "News",
-        "Waktu Terbit": "30 Oktober 2024 23:12:57",
-        "Waktu Scrapping": "31 Oktober 2024 04:12:57",
+        "Waktu Terbit": "30 Oktober 2024 23:12:56",
+        "Waktu Scrapping": "31 Oktober 2024 05:12:56",
         "Penulis": "Satria K Yudha"
     },
     {
@@ -252,87 +300,87 @@
         "Link": "https://khazanah.republika.co.id/berita/sm6eit320/pidato-perdana-sekjen-hizbullah-dukung-gaza-adalah-kewajiban-untuk-kubur-mimpi-israel",
         "Kategori": "Khazanah",
         "Waktu Terbit": "30 Oktober 2024 23:12:58",
-        "Waktu Scrapping": "31 Oktober 2024 04:12:58",
+        "Waktu Scrapping": "31 Oktober 2024 05:12:58",
         "Penulis": "Nashih Nashrullah"
     },
     {
         "Judul": "Proses Pelipatan Surat Suara Pilkada di Gorontalo",
         "Link": "https://visual.republika.co.id/berita/sm6cpx375/proses-pelipatan-surat-suara-pilkada-di-gorontalo",
         "Kategori": "Visual",
-        "Waktu Terbit": "30 Oktober 2024 23:12:59",
-        "Waktu Scrapping": "31 Oktober 2024 04:12:59",
+        "Waktu Terbit": "30 Oktober 2024 23:12:58",
+        "Waktu Scrapping": "31 Oktober 2024 05:12:58",
         "Penulis": "Edwin Dwi Putranto"
     },
     {
         "Judul": "FA Dukung Pesepak Bola Wanita Muslim yang Dilarang Bertanding Pakai Celana Panjang",
         "Link": "https://news.republika.co.id/berita/sm6ebr348/fa-dukung-pesepak-bola-wanita-muslim-yang-dilarang-bertanding-pakai-celana-panjang",
         "Kategori": "News",
-        "Waktu Terbit": "30 Oktober 2024 23:13:00",
-        "Waktu Scrapping": "31 Oktober 2024 04:13:00",
+        "Waktu Terbit": "30 Oktober 2024 23:12:59",
+        "Waktu Scrapping": "31 Oktober 2024 05:12:59",
         "Penulis": "Israr Itah"
     },
     {
         "Judul": "1 Amalan yang Dicintai Allah SWT dan Segenap Manusia Menurut Rasulullah SAW",
         "Link": "https://khazanah.republika.co.id/berita/sm6dqt320/1-amalan-yang-dicintai-allah-swt-dan-segenap-manusia-menurut-rasulullah-saw",
         "Kategori": "Khazanah",
-        "Waktu Terbit": "30 Oktober 2024 22:13:01",
-        "Waktu Scrapping": "31 Oktober 2024 04:13:01",
+        "Waktu Terbit": "30 Oktober 2024 22:13:00",
+        "Waktu Scrapping": "31 Oktober 2024 05:13:00",
         "Penulis": "Nashih Nashrullah"
     },
     {
         "Judul": "AHM Pajang Honda ICON e: dan Honda CUV e: di Pameran IMOS 2024",
         "Link": "https://visual.republika.co.id/berita/sm6cso375/ahm-pajang-honda-icon-e-dan-honda-cuv-e-di-pameran-imos-2024",
         "Kategori": "Visual",
-        "Waktu Terbit": "30 Oktober 2024 22:13:02",
-        "Waktu Scrapping": "31 Oktober 2024 04:13:02",
+        "Waktu Terbit": "30 Oktober 2024 22:13:01",
+        "Waktu Scrapping": "31 Oktober 2024 05:13:01",
         "Penulis": "Edwin Dwi Putranto"
     },
     {
         "Judul": "Guru Besar FH Unsri Febrian: Tahun 2045 Fakultas Hukum Bubar?",
         "Link": "https://kingdomsriwijaya.id/posts/485111/guru-besar-fh-unsri-febrian-tahun-2045-fakultas-hukum-bubar-",
         "Kategori": "Network",
-        "Waktu Terbit": "30 Oktober 2024 22:13:04",
-        "Waktu Scrapping": "31 Oktober 2024 04:13:04",
+        "Waktu Terbit": "30 Oktober 2024 22:13:02",
+        "Waktu Scrapping": "31 Oktober 2024 05:13:02",
         "Penulis": "-"
     },
     {
         "Judul": "Andika Soroti Kemiskinan di Jateng, Luthfi Tegaskan Didukung Jokowi dan Prabowo",
         "Link": "https://news.republika.co.id/berita/sm6cvj484/andika-soroti-kemiskinan-di-jateng-luthfi-tegaskan-didukung-jokowi-dan-prabowo",
         "Kategori": "News",
-        "Waktu Terbit": "30 Oktober 2024 22:13:06",
-        "Waktu Scrapping": "31 Oktober 2024 04:13:06",
+        "Waktu Terbit": "30 Oktober 2024 22:13:03",
+        "Waktu Scrapping": "31 Oktober 2024 05:13:03",
         "Penulis": "Erik Purnama Putra"
     },
     {
         "Judul": "Debat Publik, Cawagub Jateng Ahmad Luthfi Jelaskan Konsep Ngopeni dan Ngelakoni",
         "Link": "https://news.republika.co.id/berita/sm6ck4320/debat-publik-cawagub-jateng-ahmad-luthfi-jelaskan-konsep-ngopeni-dan-ngelakoni",
         "Kategori": "News",
-        "Waktu Terbit": "30 Oktober 2024 22:13:06",
-        "Waktu Scrapping": "31 Oktober 2024 04:13:06",
+        "Waktu Terbit": "30 Oktober 2024 22:13:05",
+        "Waktu Scrapping": "31 Oktober 2024 05:13:05",
         "Penulis": "Nashih Nashrullah"
     },
     {
         "Judul": "Saat Guru Honorer Memilih Pertamax untuk Menempuh Perjalanan Jauh ke Sekolah",
         "Link": "https://rejabar.republika.co.id/berita/sm6cgd512/saat-guru-honorer-memilih-pertamax-untuk-menempuh-perjalanan-jauh-ke-sekolah",
         "Kategori": "Rejabar",
-        "Waktu Terbit": "30 Oktober 2024 22:13:07",
-        "Waktu Scrapping": "31 Oktober 2024 04:13:07",
+        "Waktu Terbit": "30 Oktober 2024 22:13:05",
+        "Waktu Scrapping": "31 Oktober 2024 05:13:05",
         "Penulis": "Arie Lukihardianti"
     },
     {
         "Judul": "Laga Amal Legenda Sepak Bola Timnas Indonesia",
         "Link": "https://visual.republika.co.id/berita/sm6atj375/laga-amal-legenda-sepak-bola-timnas-indonesia",
         "Kategori": "Visual",
-        "Waktu Terbit": "30 Oktober 2024 22:13:07",
-        "Waktu Scrapping": "31 Oktober 2024 04:13:07",
+        "Waktu Terbit": "30 Oktober 2024 22:13:06",
+        "Waktu Scrapping": "31 Oktober 2024 05:13:06",
         "Penulis": "Edwin Dwi Putranto"
     },
     {
         "Judul": "Bacaan Doa Agar Rezeki Berkah",
         "Link": "https://iqra.republika.co.id/berita/sm6c7t430/bacaan-doa-agar-rezeki-berkah",
         "Kategori": "Iqra",
-        "Waktu Terbit": "30 Oktober 2024 22:13:08",
-        "Waktu Scrapping": "31 Oktober 2024 04:13:08",
+        "Waktu Terbit": "30 Oktober 2024 22:13:07",
+        "Waktu Scrapping": "31 Oktober 2024 05:13:07",
         "Penulis": "Muhammad Hafil"
     },
     {
@@ -340,63 +388,15 @@
         "Link": "https://visual.republika.co.id/berita/sm6am7375/penyaluran-kredit-bank-mandiri-di-kuartal-iii2024-capai-rp-1590-triliun",
         "Kategori": "Visual",
         "Waktu Terbit": "30 Oktober 2024 22:13:08",
-        "Waktu Scrapping": "31 Oktober 2024 04:13:08",
+        "Waktu Scrapping": "31 Oktober 2024 05:13:08",
         "Penulis": "Edwin Dwi Putranto"
     },
     {
         "Judul": "Rahasia Mengapa Surat Keempat Alquran Dinamakan An-Nisa dan 10 Maksudnya",
         "Link": "https://iqra.republika.co.id/berita/sm6av3320/rahasia-mengapa-surat-keempat-alquran-dinamakan-annisa-dan-10-maksudnya",
         "Kategori": "Iqra",
-        "Waktu Terbit": "30 Oktober 2024 21:13:09",
-        "Waktu Scrapping": "31 Oktober 2024 04:13:09",
+        "Waktu Terbit": "30 Oktober 2024 21:13:08",
+        "Waktu Scrapping": "31 Oktober 2024 05:13:08",
         "Penulis": "Nashih Nashrullah"
-    },
-    {
-        "Judul": "Didukung Projo pada Pilgub Jakarta 2024, RK Klaim Jokowi di Pihaknya",
-        "Link": "https://news.republika.co.id/berita/sm6aqt484/didukung-projo-pada-pilgub-jakarta-2024-rk-klaim-jokowi-di-pihaknya",
-        "Kategori": "News",
-        "Waktu Terbit": "30 Oktober 2024 21:13:10",
-        "Waktu Scrapping": "31 Oktober 2024 04:13:10",
-        "Penulis": "Erik Purnama Putra"
-    },
-    {
-        "Judul": "Serap Aspirasi Warga, Ridwan Kamil Blusukan ke Pangadegan",
-        "Link": "https://visual.republika.co.id/berita/sm6agm375/serap-aspirasi-warga-ridwan-kamil-blusukan-ke-pangadegan",
-        "Kategori": "Visual",
-        "Waktu Terbit": "30 Oktober 2024 21:13:11",
-        "Waktu Scrapping": "31 Oktober 2024 04:13:11",
-        "Penulis": "Edwin Dwi Putranto"
-    },
-    {
-        "Judul": "Dana Efisiensi Haji 2024 Capai Rp 601 Miliar, DPR Maklum",
-        "Link": "https://khazanah.republika.co.id/berita/sm6aam282/dana-efisiensi-haji-2024-capai-rp-601-miliar-dpr-maklum",
-        "Kategori": "Khazanah",
-        "Waktu Terbit": "30 Oktober 2024 21:13:12",
-        "Waktu Scrapping": "31 Oktober 2024 04:13:12",
-        "Penulis": "Karta Raharja Ucu"
-    },
-    {
-        "Judul": "Dukung Ketahanan Pangan, Kapolres Indramayu Tinjau Lahan Pertanian",
-        "Link": "https://rejabar.republika.co.id/berita/sm69yw490/dukung-ketahanan-pangan-kapolres-indramayu-tinjau-lahan-pertanian",
-        "Kategori": "Rejabar",
-        "Waktu Terbit": "30 Oktober 2024 21:13:13",
-        "Waktu Scrapping": "31 Oktober 2024 04:13:13",
-        "Penulis": "Ahmad Fikri Noor"
-    },
-    {
-        "Judul": "Ahli: UU Cagar Budaya Perlu Direvisi",
-        "Link": "https://news.republika.co.id/berita/sm69t6458/ahli-uu-cagar-budaya-perlu-direvisi",
-        "Kategori": "News",
-        "Waktu Terbit": "30 Oktober 2024 21:13:14",
-        "Waktu Scrapping": "31 Oktober 2024 04:13:14",
-        "Penulis": "Hasanul Rizqa"
-    },
-    {
-        "Judul": "LSI Denny JA Sebut Elektabilitas RIDO dan Pramono-Rano Selisih 0,3 Persen, Ini Reaksi RK",
-        "Link": "https://news.republika.co.id/berita/sm69rw409/lsi-denny-ja-sebut-elektabilitas-rido-dan-pramonorano-selisih-03-persen-ini-reaksi-rk",
-        "Kategori": "News",
-        "Waktu Terbit": "30 Oktober 2024 21:13:16",
-        "Waktu Scrapping": "31 Oktober 2024 04:13:16",
-        "Penulis": "Andri Saubani"
     }
 ]
