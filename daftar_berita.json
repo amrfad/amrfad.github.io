@@ -1,202 +1,306 @@
 [
     {
+        "Judul": "Harga Emas Melonjak Tinggi, Indef Beri Rekomendasi\u00a0Ini",
+        "Link": "https://ekonomi.republika.co.id/berita/stngnj370/harga-emas-melonjak-tinggi-indef-beri-rekomendasiini",
+        "Kategori": "Ekonomi",
+        "Waktu Terbit": "25 Maret 2025 06:10:22",
+        "Waktu Scrapping": "25 Maret 2025 06:13:22",
+        "Penulis": "Friska Yolandha"
+    },
+    {
+        "Judul": "Enam Ibadah yang Bisa Dilakukan Saat Itikaf untuk Meraih Lailatul Qadar",
+        "Link": "https://khazanah.republika.co.id/berita/stnhld483/enam-ibadah-yang-bisa-dilakukan-saat-itikaf-untuk-meraih-lailatul-qadar",
+        "Kategori": "Khazanah",
+        "Waktu Terbit": "25 Maret 2025 06:08:23",
+        "Waktu Scrapping": "25 Maret 2025 06:13:23",
+        "Penulis": "A.Syalaby Ichsan"
+    },
+    {
+        "Judul": "Komisi III DPR Minta Dugaan Setoran Uang Terkait Sabung Ayam Way Kanan Diusut Tuntas",
+        "Link": "https://news.republika.co.id/berita/stnbps409/komisi-iii-dpr-minta-dugaan-setoran-uang-terkait-sabung-ayam-way-kanan-diusut-tuntas",
+        "Kategori": "News",
+        "Waktu Terbit": "25 Maret 2025 06:01:24",
+        "Waktu Scrapping": "25 Maret 2025 06:13:24",
+        "Penulis": "Andri Saubani"
+    },
+    {
+        "Judul": "Amalan Unggulan Rasulullah di Bulan Ramadhan",
+        "Link": "https://khazanah.republika.co.id/berita/stngva430/amalan-unggulan-rasulullah-di-bulan-ramadhan",
+        "Kategori": "Khazanah",
+        "Waktu Terbit": "25 Maret 2025 06:00:25",
+        "Waktu Scrapping": "25 Maret 2025 06:13:25",
+        "Penulis": "Muhammad Hafil"
+    },
+    {
+        "Judul": "Mudik tanpa Mual, Ini Tips Ampuh Cegah Mabuk Perjalanan",
+        "Link": "https://ameera.republika.co.id/berita/stnh75425/mudik-tanpa-mual-ini-tips-ampuh-cegah-mabuk-perjalanan",
+        "Kategori": "Ameera",
+        "Waktu Terbit": "25 Maret 2025 05:59:25",
+        "Waktu Scrapping": "25 Maret 2025 06:13:25",
+        "Penulis": "Qommarria Rostanti"
+    },
+    {
+        "Judul": "Baru Dilantik Prabowo, Dubes RI Respons Dua Teknisi PT DI yang Ditahan Korsel",
+        "Link": "https://news.republika.co.id/berita/stnehl484/baru-dilantik-prabowo-dubes-ri-respons-dua-teknisi-pt-di-yang-ditahan-korsel",
+        "Kategori": "News",
+        "Waktu Terbit": "25 Maret 2025 05:57:26",
+        "Waktu Scrapping": "25 Maret 2025 06:13:26",
+        "Penulis": "Erik Purnama Putra"
+    },
+    {
+        "Judul": "Manfaat Itikaf bagi Muslim",
+        "Link": "https://khazanah.republika.co.id/berita/stngrf430/manfaat-itikaf-bagi-muslim",
+        "Kategori": "Khazanah",
+        "Waktu Terbit": "25 Maret 2025 05:56:27",
+        "Waktu Scrapping": "25 Maret 2025 06:13:27",
+        "Penulis": "Muhammad Hafil"
+    },
+    {
+        "Judul": "Kapan Waktu Akhir Itikaf?",
+        "Link": "https://khazanah.republika.co.id/berita/stngoc430/kapan-waktu-akhir-itikaf",
+        "Kategori": "Khazanah",
+        "Waktu Terbit": "25 Maret 2025 05:52:27",
+        "Waktu Scrapping": "25 Maret 2025 06:13:27",
+        "Penulis": "Muhammad Hafil"
+    },
+    {
+        "Judul": "Rukun dan Syarat Itikaf",
+        "Link": "https://khazanah.republika.co.id/berita/stngk8430/rukun-dan-syarat-itikaf",
+        "Kategori": "Khazanah",
+        "Waktu Terbit": "25 Maret 2025 05:45:28",
+        "Waktu Scrapping": "25 Maret 2025 06:13:28",
+        "Penulis": "Muhammad Hafil"
+    },
+    {
+        "Judul": "Suasana Idul Fitri di Arab Saudi Tahun 1950-an",
+        "Link": "https://khazanah.republika.co.id/berita/stnfxr430/suasana-idul-fitri-di-arab-saudi-tahun-1950an",
+        "Kategori": "Khazanah",
+        "Waktu Terbit": "25 Maret 2025 05:42:28",
+        "Waktu Scrapping": "25 Maret 2025 06:13:28",
+        "Penulis": "Muhammad Hafil"
+    },
+    {
+        "Judul": "Kantong UMKM Edukasi Pelaku Usaha di Bandung soal Pencatatan Digital",
+        "Link": "https://rejabar.republika.co.id/berita/stnfk2430/kantong-umkm-edukasi-pelaku-usaha-di-bandung-soal-pencatatan-digital",
+        "Kategori": "Rejabar",
+        "Waktu Terbit": "25 Maret 2025 05:38:29",
+        "Waktu Scrapping": "25 Maret 2025 06:13:29",
+        "Penulis": "Muhammad Hafil"
+    },
+    {
+        "Judul": "Kluivert Masih Optimistis Indonesia Bisa Lolos Langsung Bersama Jepang ke Piala Dunia 2026",
+        "Link": "https://news.republika.co.id/berita/stnd4k409/kluivert-masih-optimistis-indonesia-bisa-lolos-langsung-bersama-jepang-ke-piala-dunia-2026",
+        "Kategori": "News",
+        "Waktu Terbit": "25 Maret 2025 05:27:29",
+        "Waktu Scrapping": "25 Maret 2025 06:13:29",
+        "Penulis": "Andri Saubani"
+    },
+    {
+        "Judul": "Diminta Kemenkes Palestina, BSMI Berangkatkan Dua Dokter Spesialis ke Gaza",
+        "Link": "https://khazanah.republika.co.id/berita/stnfmd483/diminta-kemenkes-palestina-bsmi-berangkatkan-dua-dokter-spesialis-ke-gaza",
+        "Kategori": "Khazanah",
+        "Waktu Terbit": "25 Maret 2025 05:25:30",
+        "Waktu Scrapping": "25 Maret 2025 06:13:30",
+        "Penulis": "A.Syalaby Ichsan"
+    },
+    {
         "Judul": "Ruas Tol IKN Dibuka secara Fungsional Selama Mudik Lebaran",
         "Link": "https://visual.republika.co.id/berita/stn2cz375/ruas-tol-ikn-dibuka-secara-fungsional-selama-mudik-lebaran",
         "Kategori": "Visual",
-        "Waktu Terbit": "25 Maret 2025 05:00:25",
-        "Waktu Scrapping": "25 Maret 2025 05:13:25",
+        "Waktu Terbit": "25 Maret 2025 05:13:31",
+        "Waktu Scrapping": "25 Maret 2025 06:13:31",
         "Penulis": "Edwin Dwi Putranto"
     },
     {
         "Judul": "Iran Tolak Upaya Pengusiran Hamas dari Jalur Gaza, Ini Penjelasan Dubes Boroujerdi",
         "Link": "https://news.republika.co.id/berita/stndmb377/iran-tolak-upaya-pengusiran-hamas-dari-jalur-gaza-ini-penjelasan-dubes-boroujerdi",
         "Kategori": "News",
-        "Waktu Terbit": "25 Maret 2025 04:42:27",
-        "Waktu Scrapping": "25 Maret 2025 05:13:27",
+        "Waktu Terbit": "25 Maret 2025 04:13:31",
+        "Waktu Scrapping": "25 Maret 2025 06:13:31",
         "Penulis": "Teguh Firmansyah"
     },
     {
         "Judul": "DPC AAI Bandung dan FH UNPAR Temukan Isu Krusial dalam RUU HAP",
         "Link": "https://news.republika.co.id/berita/stndf3371/dpc-aai-bandung-dan-fh-unpar-temukan-isu-krusial-dalam-ruu-hap",
         "Kategori": "News",
-        "Waktu Terbit": "25 Maret 2025 04:37:27",
-        "Waktu Scrapping": "25 Maret 2025 05:13:27",
+        "Waktu Terbit": "25 Maret 2025 04:13:32",
+        "Waktu Scrapping": "25 Maret 2025 06:13:32",
         "Penulis": "Sandy Ferdiana"
     },
     {
         "Judul": "Israel Bunuh 65 Warga Gaza Sehari-Semalam, Dua Jurnalis Syahid",
         "Link": "https://news.republika.co.id/berita/stncxh393/israel-bunuh-65-warga-gaza-seharisemalam-dua-jurnalis-syahid",
         "Kategori": "News",
-        "Waktu Terbit": "25 Maret 2025 04:27:28",
-        "Waktu Scrapping": "25 Maret 2025 05:13:28",
+        "Waktu Terbit": "25 Maret 2025 04:13:32",
+        "Waktu Scrapping": "25 Maret 2025 06:13:32",
         "Penulis": "Fitriyan Zamzami"
     },
     {
         "Judul": "Prakiraan Cuaca Hari Ini 25 Maret 2025: Kota Semarang dan Sekitarnya",
         "Link": "https://news.republika.co.id/berita/stnca2937691980/prakiraan-cuaca-hari-ini-25-maret-2025-kota-semarang-dan-sekitarnya",
         "Kategori": "News",
-        "Waktu Terbit": "25 Maret 2025 04:13:29",
-        "Waktu Scrapping": "25 Maret 2025 05:13:29",
+        "Waktu Terbit": "25 Maret 2025 04:13:33",
+        "Waktu Scrapping": "25 Maret 2025 06:13:33",
         "Penulis": "Rebot"
     },
     {
         "Judul": "Jelang Akhir Ramadhan, Perolehan ZIS Baznas Capai 65 Persen",
         "Link": "https://khazanah.republika.co.id/berita/stnbq6483/jelang-akhir-ramadhan-perolehan-zis-baznas-capai-65-persen",
         "Kategori": "Khazanah",
-        "Waktu Terbit": "25 Maret 2025 04:13:30",
-        "Waktu Scrapping": "25 Maret 2025 05:13:30",
+        "Waktu Terbit": "25 Maret 2025 04:13:33",
+        "Waktu Scrapping": "25 Maret 2025 06:13:33",
         "Penulis": "A.Syalaby Ichsan"
     },
     {
         "Judul": "Menjemput Lailatul Qadar dari Balik Tembok Apartemen",
         "Link": "https://visual.republika.co.id/berita/stn3bm375/menjemput-lailatul-qadar-dari-balik-tembok-apartemen",
         "Kategori": "Visual",
-        "Waktu Terbit": "25 Maret 2025 04:13:30",
-        "Waktu Scrapping": "25 Maret 2025 05:13:30",
+        "Waktu Terbit": "25 Maret 2025 04:13:34",
+        "Waktu Scrapping": "25 Maret 2025 06:13:34",
         "Penulis": "Edwin Dwi Putranto"
     },
     {
         "Judul": "Fajar Beranjak di Palembang: Jadwal Imsakiyah Ramadhan Hari Ini 25 Maret 2025",
         "Link": "https://khazanah.republika.co.id/berita/stnaqz314159048/fajar-beranjak-di-palembang-jadwal-imsakiyah-ramadhan-hari-ini-25-maret-2025",
         "Kategori": "Khazanah",
-        "Waktu Terbit": "25 Maret 2025 03:13:31",
-        "Waktu Scrapping": "25 Maret 2025 05:13:31",
+        "Waktu Terbit": "25 Maret 2025 03:13:34",
+        "Waktu Scrapping": "25 Maret 2025 06:13:34",
         "Penulis": "Rebot"
     },
     {
         "Judul": "Jadwal Imsakiyah Ramadhan Hari Ini 25 Maret 2025 di Yogyakarta: Sebuah Panduan Penting Bagi Umat Muslim",
         "Link": "https://khazanah.republika.co.id/berita/stn9cy2141170153/jadwal-imsakiyah-ramadhan-hari-ini-25-maret-2025-di-yogyakarta-sebuah-panduan-penting-bagi-umat-muslim",
         "Kategori": "Khazanah",
-        "Waktu Terbit": "25 Maret 2025 03:13:32",
-        "Waktu Scrapping": "25 Maret 2025 05:13:32",
+        "Waktu Terbit": "25 Maret 2025 03:13:35",
+        "Waktu Scrapping": "25 Maret 2025 06:13:35",
         "Penulis": "Rebot"
     },
     {
         "Judul": "Pupuk Petroganik Terbukti Tingkatkan Produksi Panen Padi di Blora",
         "Link": "https://news.republika.co.id/berita/stmunk484/pupuk-petroganik-terbukti-tingkatkan-produksi-panen-padi-di-blora",
         "Kategori": "News",
-        "Waktu Terbit": "25 Maret 2025 03:13:33",
-        "Waktu Scrapping": "25 Maret 2025 05:13:33",
+        "Waktu Terbit": "25 Maret 2025 03:13:35",
+        "Waktu Scrapping": "25 Maret 2025 06:13:35",
         "Penulis": "Erik Purnama Putra"
     },
     {
         "Judul": "Ramadhan akan Berakhir, Muslim Diimbau Segera Tunaikan Zakat",
         "Link": "https://khazanah.republika.co.id/berita/stlzbw451/ramadhan-akan-berakhir-muslim-diimbau-segera-tunaikan-zakat",
         "Kategori": "Khazanah",
-        "Waktu Terbit": "25 Maret 2025 02:13:33",
-        "Waktu Scrapping": "25 Maret 2025 05:13:33",
+        "Waktu Terbit": "25 Maret 2025 02:13:36",
+        "Waktu Scrapping": "25 Maret 2025 06:13:36",
         "Penulis": "Erdy Nasrul"
     },
     {
         "Judul": "Keindahan Ramadhan: Jadwal Imsakiyah dan Keutamaan Sholat Hari Ini, 25 Maret 2025, Medan",
         "Link": "https://khazanah.republika.co.id/berita/stn6ea490678154/keindahan-ramadhan-jadwal-imsakiyah-dan-keutamaan-sholat-hari-ini-25-maret-2025-medan",
         "Kategori": "Khazanah",
-        "Waktu Terbit": "25 Maret 2025 02:13:34",
-        "Waktu Scrapping": "25 Maret 2025 05:13:34",
+        "Waktu Terbit": "25 Maret 2025 02:13:36",
+        "Waktu Scrapping": "25 Maret 2025 06:13:36",
         "Penulis": "Rebot"
     },
     {
         "Judul": "Kakorlantas Sebut Aturan WFA Percepat Arus Mudik, Ini Data Peningkatannya",
         "Link": "https://news.republika.co.id/berita/stmxit487/kakorlantas-sebut-aturan-wfa-percepat-arus-mudik-ini-data-peningkatannya",
         "Kategori": "News",
-        "Waktu Terbit": "25 Maret 2025 02:13:35",
-        "Waktu Scrapping": "25 Maret 2025 05:13:35",
+        "Waktu Terbit": "25 Maret 2025 02:13:37",
+        "Waktu Scrapping": "25 Maret 2025 06:13:37",
         "Penulis": "Mas Alamil Huda"
     },
     {
         "Judul": "Prakiraan Cuaca Hari Ini Tanggal 25 Maret 2025 Daerah Bogor - Cuaca Berawan",
         "Link": "https://news.republika.co.id/berita/stn64k86075443/prakiraan-cuaca-hari-ini-tanggal-25-maret-2025-daerah-bogor-cuaca-berawan",
         "Kategori": "News",
-        "Waktu Terbit": "25 Maret 2025 02:13:35",
-        "Waktu Scrapping": "25 Maret 2025 05:13:35",
+        "Waktu Terbit": "25 Maret 2025 02:13:37",
+        "Waktu Scrapping": "25 Maret 2025 06:13:37",
         "Penulis": "Rebot"
     },
     {
         "Judul": "Mudik Lebaran Pakai Kendaraan Dinas? Pemda Ini Buat Arahan Khusus",
         "Link": "https://khazanah.republika.co.id/berita/stlzvo451/mudik-lebaran-pakai-kendaraan-dinas-pemda-ini-buat-arahan-khusus",
         "Kategori": "Khazanah",
-        "Waktu Terbit": "25 Maret 2025 02:13:36",
-        "Waktu Scrapping": "25 Maret 2025 05:13:36",
+        "Waktu Terbit": "25 Maret 2025 02:13:38",
+        "Waktu Scrapping": "25 Maret 2025 06:13:38",
         "Penulis": "Erdy Nasrul"
     },
     {
         "Judul": "Keutamaan Beribadah di Bulan Suci: Jadwal Imsakiyah Ramadhan 25 Maret 2025 di Depok",
         "Link": "https://khazanah.republika.co.id/berita/stn5fd1850108425/keutamaan-beribadah-di-bulan-suci-jadwal-imsakiyah-ramadhan-25-maret-2025-di-depok",
         "Kategori": "Khazanah",
-        "Waktu Terbit": "25 Maret 2025 02:13:37",
-        "Waktu Scrapping": "25 Maret 2025 05:13:37",
+        "Waktu Terbit": "25 Maret 2025 02:13:39",
+        "Waktu Scrapping": "25 Maret 2025 06:13:39",
         "Penulis": "Rebot"
     },
     {
         "Judul": "BRI Rombak Jajaran Direksi dan Komisaris Usai RUPST 2025",
         "Link": "https://ekonomi.republika.co.id/berita/stmtxg484/bri-rombak-jajaran-direksi-dan-komisaris-usai-rupst-2025",
         "Kategori": "Ekonomi",
-        "Waktu Terbit": "25 Maret 2025 01:13:38",
-        "Waktu Scrapping": "25 Maret 2025 05:13:38",
+        "Waktu Terbit": "25 Maret 2025 01:13:39",
+        "Waktu Scrapping": "25 Maret 2025 06:13:39",
         "Penulis": "Erik Purnama Putra"
     },
     {
         "Judul": "Ngarot Lelea, Tradisi Menembus Batas Masa",
         "Link": "https://news.republika.co.id/berita/stn1m3318/ngarot-lelea-tradisi-menembus-batas-masa",
         "Kategori": "News",
-        "Waktu Terbit": "25 Maret 2025 01:13:38",
-        "Waktu Scrapping": "25 Maret 2025 05:13:38",
+        "Waktu Terbit": "25 Maret 2025 01:13:40",
+        "Waktu Scrapping": "25 Maret 2025 06:13:40",
         "Penulis": "Joko Sadewo"
     },
     {
         "Judul": "Jadwal Imsakiyah Ramadhan Hari Ini: 25 Maret 2025 di Semarang",
         "Link": "https://khazanah.republika.co.id/berita/stn49o1791253190/jadwal-imsakiyah-ramadhan-hari-ini-25-maret-2025-di-semarang",
         "Kategori": "Khazanah",
-        "Waktu Terbit": "25 Maret 2025 01:13:39",
-        "Waktu Scrapping": "25 Maret 2025 05:13:39",
+        "Waktu Terbit": "25 Maret 2025 01:13:40",
+        "Waktu Scrapping": "25 Maret 2025 06:13:40",
         "Penulis": "Rebot"
     },
     {
         "Judul": "Berkah Ramadhan, Program Mengaji Digelar Berhadiah Voucher BBM di SPBU",
         "Link": "https://khazanah.republika.co.id/berita/stmsog451/berkah-ramadhan-program-mengaji-digelar-berhadiah-voucher-bbm-di-spbu",
         "Kategori": "Khazanah",
-        "Waktu Terbit": "25 Maret 2025 01:13:40",
-        "Waktu Scrapping": "25 Maret 2025 05:13:40",
+        "Waktu Terbit": "25 Maret 2025 01:13:41",
+        "Waktu Scrapping": "25 Maret 2025 06:13:41",
         "Penulis": "Erdy Nasrul"
     },
     {
         "Judul": "Empat Hari Pemutihan Pajak Bermotor, Dedi Mulyadi Ungkap Besarnya Jumlah Pembayaran",
         "Link": "https://news.republika.co.id/berita/stmvkg487/empat-hari-pemutihan-pajak-bermotor-dedi-mulyadi-ungkap-besarnya-jumlah-pembayaran",
         "Kategori": "News",
-        "Waktu Terbit": "25 Maret 2025 01:13:40",
-        "Waktu Scrapping": "25 Maret 2025 05:13:40",
+        "Waktu Terbit": "25 Maret 2025 01:13:42",
+        "Waktu Scrapping": "25 Maret 2025 06:13:42",
         "Penulis": "Mas Alamil Huda"
     },
     {
         "Judul": "Jadwal Imsakiyah Ramadhan Hari Ini: 25 Maret 2025 - Bandung",
         "Link": "https://khazanah.republika.co.id/berita/stn38y1484073437/jadwal-imsakiyah-ramadhan-hari-ini-25-maret-2025-bandung",
         "Kategori": "Khazanah",
-        "Waktu Terbit": "25 Maret 2025 01:13:41",
-        "Waktu Scrapping": "25 Maret 2025 05:13:41",
+        "Waktu Terbit": "25 Maret 2025 01:13:42",
+        "Waktu Scrapping": "25 Maret 2025 06:13:42",
         "Penulis": "Rebot"
     },
     {
         "Judul": "Quraish Shihab: Peran Pemuka Agama Harus Disegarkan Bimbing Masyarakat",
         "Link": "https://khazanah.republika.co.id/berita/stlzmf451/quraish-shihab-peran-pemuka-agama-harus-disegarkan-bimbing-masyarakat",
         "Kategori": "Khazanah",
-        "Waktu Terbit": "25 Maret 2025 00:13:42",
-        "Waktu Scrapping": "25 Maret 2025 05:13:42",
+        "Waktu Terbit": "25 Maret 2025 00:13:43",
+        "Waktu Scrapping": "25 Maret 2025 06:13:43",
         "Penulis": "Erdy Nasrul"
     },
     {
         "Judul": "Lebaran Sebentar Lagi, Kendaraan Masuk Tol Mulai Melonjak",
         "Link": "https://news.republika.co.id/berita/stm0rq451/lebaran-sebentar-lagi-kendaraan-masuk-tol-mulai-melonjak",
         "Kategori": "News",
-        "Waktu Terbit": "25 Maret 2025 00:13:42",
-        "Waktu Scrapping": "25 Maret 2025 05:13:42",
+        "Waktu Terbit": "25 Maret 2025 00:13:43",
+        "Waktu Scrapping": "25 Maret 2025 06:13:43",
         "Penulis": "Erdy Nasrul"
     },
     {
         "Judul": "Lima UMK Binaan Pelindo Bukukan Transaksi Rp 324 Juta di Hijabfest 2025",
         "Link": "https://ekonomi.republika.co.id/berita/stn1zu370/lima-umk-binaan-pelindo-bukukan-transaksi-rp-324-juta-di-hijabfest-2025",
         "Kategori": "Ekonomi",
-        "Waktu Terbit": "25 Maret 2025 00:13:43",
-        "Waktu Scrapping": "25 Maret 2025 05:13:43",
+        "Waktu Terbit": "25 Maret 2025 00:13:44",
+        "Waktu Scrapping": "25 Maret 2025 06:13:44",
         "Penulis": "Friska Yolandha"
     },
     {
@@ -204,7 +308,7 @@
         "Link": "https://khazanah.republika.co.id/berita/stn1yb1537995475/pesona-ramadhan-di-surabaya-nikmati-ketentramannya-dengan-jadwal-imsakiyah-ramadhan-hari-ini-25-maret-2025",
         "Kategori": "Khazanah",
         "Waktu Terbit": "25 Maret 2025 00:13:44",
-        "Waktu Scrapping": "25 Maret 2025 05:13:44",
+        "Waktu Scrapping": "25 Maret 2025 06:13:44",
         "Penulis": "Rebot"
     },
     {
@@ -212,15 +316,15 @@
         "Link": "https://khazanah.republika.co.id/berita/stmzcb366/steven-wongso-mualaf-ustadz-derry-banyak-artis-tertarik-pada-islam",
         "Kategori": "Khazanah",
         "Waktu Terbit": "25 Maret 2025 00:13:45",
-        "Waktu Scrapping": "25 Maret 2025 05:13:45",
+        "Waktu Scrapping": "25 Maret 2025 06:13:45",
         "Penulis": "Ani Nursalikah"
     },
     {
         "Judul": "Keistimewaan Ramadhan: Jadwal Imsakiyah Ramadhan Hari Ini, 25 Maret 2025, di Makassar",
         "Link": "https://khazanah.republika.co.id/berita/stn0nl1264585314/keistimewaan-ramadhan-jadwal-imsakiyah-ramadhan-hari-ini-25-maret-2025-di-makassar",
         "Kategori": "Khazanah",
-        "Waktu Terbit": "25 Maret 2025 00:13:46",
-        "Waktu Scrapping": "25 Maret 2025 05:13:46",
+        "Waktu Terbit": "25 Maret 2025 00:13:45",
+        "Waktu Scrapping": "25 Maret 2025 06:13:45",
         "Penulis": "Rebot"
     },
     {
@@ -228,175 +332,71 @@
         "Link": "https://rejogja.republika.co.id/berita/stn0je282/hadapi-darurat-sampah-pekalongan-sulit-bangun-tpa-baru",
         "Kategori": "Rejogja",
         "Waktu Terbit": "25 Maret 2025 00:13:46",
-        "Waktu Scrapping": "25 Maret 2025 05:13:46",
+        "Waktu Scrapping": "25 Maret 2025 06:13:46",
         "Penulis": "Karta Raharja Ucu"
     },
     {
         "Judul": "Timnas Indonesia Siap Tempur dengan Bahrain di Stadion Utama GBK",
         "Link": "https://visual.republika.co.id/berita/stmy97375/timnas-indonesia-siap-tempur-dengan-bahrain-di-stadion-utama-gbk",
         "Kategori": "Visual",
-        "Waktu Terbit": "25 Maret 2025 00:13:47",
-        "Waktu Scrapping": "25 Maret 2025 05:13:47",
+        "Waktu Terbit": "25 Maret 2025 00:13:46",
+        "Waktu Scrapping": "25 Maret 2025 06:13:46",
         "Penulis": "Edwin Dwi Putranto"
     },
     {
         "Judul": "Rahasia Cerdas Kelola THR hingga Waspada Kejahatan Manfaatkan Call Center 110",
         "Link": "https://news.republika.co.id/berita/stmsb6451/rahasia-cerdas-kelola-thr-hingga-waspada-kejahatan-manfaatkan-call-center-110",
         "Kategori": "News",
-        "Waktu Terbit": "25 Maret 2025 00:13:48",
-        "Waktu Scrapping": "25 Maret 2025 05:13:48",
+        "Waktu Terbit": "25 Maret 2025 00:13:47",
+        "Waktu Scrapping": "25 Maret 2025 06:13:47",
         "Penulis": "Erdy Nasrul"
     },
     {
         "Judul": "Kos-kosan di Bantul Jadi Sasaran Patroli Waspada Curanmor Jelang Lebaran",
         "Link": "https://rejogja.republika.co.id/berita/stn0bn282/koskosan-di-bantul-jadi-sasaran-patroli-waspada-curanmor-jelang-lebaran",
         "Kategori": "Rejogja",
-        "Waktu Terbit": "25 Maret 2025 00:13:49",
-        "Waktu Scrapping": "25 Maret 2025 05:13:49",
+        "Waktu Terbit": "25 Maret 2025 00:13:47",
+        "Waktu Scrapping": "25 Maret 2025 06:13:47",
         "Penulis": "Karta Raharja Ucu"
     },
     {
         "Judul": "Tertangkap Basah Curi Kotak Amal di Masjid Bantul, Residivis Minta Doa Agar Jadi Baik",
         "Link": "https://rejogja.republika.co.id/berita/stmznz282/tertangkap-basah-curi-kotak-amal-di-masjid-bantul-residivis-minta-doa-agar-jadi-baik",
         "Kategori": "Rejogja",
-        "Waktu Terbit": "24 Maret 2025 23:13:49",
-        "Waktu Scrapping": "25 Maret 2025 05:13:49",
+        "Waktu Terbit": "24 Maret 2025 23:13:48",
+        "Waktu Scrapping": "25 Maret 2025 06:13:48",
         "Penulis": "Karta Raharja Ucu"
     },
     {
         "Judul": "Jelang Idul Fitri, Baznas Bagikan Paket Ramadhan untuk Warga Palestina",
         "Link": "https://khazanah.republika.co.id/berita/stmzh2430/jelang-idul-fitri-baznas-bagikan-paket-ramadhan-untuk-warga-palestina",
         "Kategori": "Khazanah",
-        "Waktu Terbit": "24 Maret 2025 23:13:50",
-        "Waktu Scrapping": "25 Maret 2025 05:13:50",
+        "Waktu Terbit": "24 Maret 2025 23:13:49",
+        "Waktu Scrapping": "25 Maret 2025 06:13:49",
         "Penulis": "Muhammad Hafil"
     },
     {
         "Judul": "Demonstran Tolak UU TNI di Surabaya Bentrok dengan Aparat",
         "Link": "https://visual.republika.co.id/berita/stmy4x375/demonstran-tolak-uu-tni-di-surabaya-bentrok-dengan-aparat",
         "Kategori": "Visual",
-        "Waktu Terbit": "24 Maret 2025 23:13:51",
-        "Waktu Scrapping": "25 Maret 2025 05:13:51",
+        "Waktu Terbit": "24 Maret 2025 23:13:49",
+        "Waktu Scrapping": "25 Maret 2025 06:13:49",
         "Penulis": "Edwin Dwi Putranto"
     },
     {
         "Judul": "Sejarah Kalimat Anna Laka Hadza, Pengingat Bagi Pemungut Zakat dan Pejabat",
         "Link": "https://khazanah.republika.co.id/berita/stmzbj430/sejarah-kalimat-anna-laka-hadza-pengingat-bagi-pemungut-zakat-dan-pejabat",
         "Kategori": "Khazanah",
-        "Waktu Terbit": "24 Maret 2025 23:13:52",
-        "Waktu Scrapping": "25 Maret 2025 05:13:52",
+        "Waktu Terbit": "24 Maret 2025 23:13:50",
+        "Waktu Scrapping": "25 Maret 2025 06:13:50",
         "Penulis": "Muhammad Hafil"
     },
     {
         "Judul": "Kepala Tim Red Bull Respons Rumor Pertukaran Lawson dengan Tsunoda",
         "Link": "https://news.republika.co.id/berita/stmz6s348/kepala-tim-red-bull-respons-rumor-pertukaran-lawson-dengan-tsunoda",
         "Kategori": "News",
-        "Waktu Terbit": "24 Maret 2025 23:13:53",
-        "Waktu Scrapping": "25 Maret 2025 05:13:53",
+        "Waktu Terbit": "24 Maret 2025 23:13:51",
+        "Waktu Scrapping": "25 Maret 2025 06:13:51",
         "Penulis": "Israr Itah"
-    },
-    {
-        "Judul": "Fokus di Berkelanjutan, OXO Group Indonesia Gandeng Studio Precht",
-        "Link": "https://ekonomi.republika.co.id/berita/stmsay349/fokus-di-berkelanjutan-oxo-group-indonesia-gandeng-studio-precht",
-        "Kategori": "Ekonomi",
-        "Waktu Terbit": "24 Maret 2025 23:13:54",
-        "Waktu Scrapping": "25 Maret 2025 05:13:54",
-        "Penulis": "Ichsan Emrald Alamsyah"
-    },
-    {
-        "Judul": "Calon Jamaah Haji Mataram Terbagi dalam Dua Kloter",
-        "Link": "https://khazanah.republika.co.id/berita/stmcre366/calon-jamaah-haji-mataram-terbagi-dalam-dua-kloter",
-        "Kategori": "Khazanah",
-        "Waktu Terbit": "24 Maret 2025 23:13:54",
-        "Waktu Scrapping": "25 Maret 2025 05:13:54",
-        "Penulis": "Ani Nursalikah"
-    },
-    {
-        "Judul": "Bung Kus Sebut Laga Kedua Timnas Indonesia akan  Krusial bagi Tuan Rumah",
-        "Link": "https://news.republika.co.id/berita/stmytl348/bung-kus-sebut-laga-kedua-timnas-indonesia-akan-krusial-bagi-tuan-rumah",
-        "Kategori": "News",
-        "Waktu Terbit": "24 Maret 2025 23:13:55",
-        "Waktu Scrapping": "25 Maret 2025 05:13:55",
-        "Penulis": "Israr Itah"
-    },
-    {
-        "Judul": "Erspo Sudah Jual 100 Ribu Lebih Jersey Timnas Indonesia",
-        "Link": "https://news.republika.co.id/berita/stmybf348/erspo-sudah-jual-100-ribu-lebih-jersey-timnas-indonesia",
-        "Kategori": "News",
-        "Waktu Terbit": "24 Maret 2025 23:13:56",
-        "Waktu Scrapping": "25 Maret 2025 05:13:56",
-        "Penulis": "Israr Itah"
-    },
-    {
-        "Judul": "Separuh Musim IBL 2025 Rampung, Rans Simba Bogor Kuasai Takhta",
-        "Link": "https://news.republika.co.id/berita/stmy0h348/separuh-musim-ibl-2025-rampung-rans-simba-bogor-kuasai-takhta",
-        "Kategori": "News",
-        "Waktu Terbit": "24 Maret 2025 23:13:56",
-        "Waktu Scrapping": "25 Maret 2025 05:13:56",
-        "Penulis": "Israr Itah"
-    },
-    {
-        "Judul": "Presiden Prabowo Lantik 31 Duta Besar LBBP Republik Indonesia",
-        "Link": "https://visual.republika.co.id/berita/stmy0f375/presiden-prabowo-lantik-31-duta-besar-lbbp-republik-indonesia",
-        "Kategori": "Visual",
-        "Waktu Terbit": "24 Maret 2025 23:13:57",
-        "Waktu Scrapping": "25 Maret 2025 05:13:57",
-        "Penulis": "Edwin Dwi Putranto"
-    },
-    {
-        "Judul": "Muhammadiyah & Aisyiyah Perum Bekasi Kembangkan Potensi Anak, Lanjutkan Keberadaan TK ABA",
-        "Link": "https://khazanah.republika.co.id/berita/stmwa8377/muhammadiyah-aisyiyah-perum-bekasi-kembangkan-potensi-anak-lanjutkan-keberadaan-tk-aba",
-        "Kategori": "Khazanah",
-        "Waktu Terbit": "24 Maret 2025 23:13:58",
-        "Waktu Scrapping": "25 Maret 2025 05:13:58",
-        "Penulis": "Teguh Firmansyah"
-    },
-    {
-        "Judul": "Pelatih Bahrain Enggan Komentari Pertemuan Terakhir Lawan Indonesia",
-        "Link": "https://news.republika.co.id/berita/stmxij348/pelatih-bahrain-enggan-komentari-pertemuan-terakhir-lawan-indonesia",
-        "Kategori": "News",
-        "Waktu Terbit": "24 Maret 2025 23:13:58",
-        "Waktu Scrapping": "25 Maret 2025 05:13:58",
-        "Penulis": "Israr Itah"
-    },
-    {
-        "Judul": "DJKA Kemenhub Angkut 7.424 Motor Mudik Gratis ke Jateng dan Jatim",
-        "Link": "https://visual.republika.co.id/berita/stmx1m375/djka-kemenhub-angkut-7424-motor-mudik-gratis-ke-jateng-dan-jatim",
-        "Kategori": "Visual",
-        "Waktu Terbit": "24 Maret 2025 23:13:59",
-        "Waktu Scrapping": "25 Maret 2025 05:13:59",
-        "Penulis": "Edwin Dwi Putranto"
-    },
-    {
-        "Judul": "Erick Thohir Hadiri Workshop Peningkatan Kapasitas Keamanan dan Keselamatan Stadion",
-        "Link": "https://news.republika.co.id/berita/stmwir348/erick-thohir-hadiri-workshop-peningkatan-kapasitas-keamanan-dan-keselamatan-stadion",
-        "Kategori": "News",
-        "Waktu Terbit": "24 Maret 2025 22:14:00",
-        "Waktu Scrapping": "25 Maret 2025 05:14:00",
-        "Penulis": "Israr Itah"
-    },
-    {
-        "Judul": "Pemudik yang Ingin Melintas di Tol MBZ Diingatkan untuk Persiapan Ekstra",
-        "Link": "https://news.republika.co.id/berita/stmwfw487/pemudik-yang-ingin-melintas-di-tol-mbz-diingatkan-untuk-persiapan-ekstra",
-        "Kategori": "News",
-        "Waktu Terbit": "24 Maret 2025 22:14:01",
-        "Waktu Scrapping": "25 Maret 2025 05:14:01",
-        "Penulis": "Mas Alamil Huda"
-    },
-    {
-        "Judul": "Mau Hidup Tenang? Ini 3 Rekomendasi Asuransi Jiwa Terbaik",
-        "Link": "https://ekonomi.republika.co.id/berita/stmwa6368/mau-hidup-tenang-ini-3-rekomendasi-asuransi-jiwa-terbaik",
-        "Kategori": "Ekonomi",
-        "Waktu Terbit": "24 Maret 2025 22:14:02",
-        "Waktu Scrapping": "25 Maret 2025 05:14:02",
-        "Penulis": "Dwi Murdaningsih"
-    },
-    {
-        "Judul": "Izroil Ditangkap Polisi di Parkiran RSUD Cibabat Usai Edarkan Narkoba Titipan dari Napi",
-        "Link": "https://rejabar.republika.co.id/berita/stmw1g512/izroil-ditangkap-polisi-di-parkiran-rsud-cibabat-usai-edarkan-narkoba-titipan-dari-napi",
-        "Kategori": "Rejabar",
-        "Waktu Terbit": "24 Maret 2025 22:14:02",
-        "Waktu Scrapping": "25 Maret 2025 05:14:02",
-        "Penulis": "Arie Lukihardianti"
     }
 ]
