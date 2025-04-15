@@ -1,1 +1,402 @@
-[]
+[
+    {
+        "Judul": "Kuliah SI di Universitas Nusa Mandiri, Bisa Lulus Tanpa Skripsi",
+        "Link": "https://news.republika.co.id/berita/suqoa9368/kuliah-si-di-universitas-nusa-mandiri-bisa-lulus-tanpa-skripsi",
+        "Kategori": "News",
+        "Waktu Terbit": "15 April 2025 09:58:56",
+        "Waktu Scrapping": "15 April 2025 10:01:56",
+        "Penulis": "Dwi Murdaningsih"
+    },
+    {
+        "Judul": "Kanwil Bea Cukai Jateng DIY Ungkap 352 Kasus Rokok Ilegal",
+        "Link": "https://republika.co.id/berita//suqnwj368/kanwil-bea-cukai-jateng-diy-ungkap-352-kasus-rokok-ilegal%c2%a0",
+        "Kategori": "Beacukai",
+        "Waktu Terbit": "15 April 2025 09:50:57",
+        "Waktu Scrapping": "15 April 2025 10:01:57",
+        "Penulis": "-"
+    },
+    {
+        "Judul": "Seluruh Calon Jamaah Haji Aceh 2025 Telah Lunasi Bipih",
+        "Link": "https://khazanah.republika.co.id/berita/suqn88366/seluruh-calon-jamaah-haji-aceh-2025-telah-lunasi-bipih",
+        "Kategori": "Khazanah",
+        "Waktu Terbit": "15 April 2025 09:44:58",
+        "Waktu Scrapping": "15 April 2025 10:01:58",
+        "Penulis": "Ani Nursalikah"
+    },
+    {
+        "Judul": "Derby Roma Makan Korban 13 Polisi Cedera, Musim Depan Kick-off Kembali ke Sore Hari",
+        "Link": "https://news.republika.co.id/berita/suqnjh348/derby-roma-makan-korban-13-polisi-cedera-musim-depan-kickoff-kembali-ke-sore-hari",
+        "Kategori": "News",
+        "Waktu Terbit": "15 April 2025 09:42:58",
+        "Waktu Scrapping": "15 April 2025 10:01:58",
+        "Penulis": "Israr Itah"
+    },
+    {
+        "Judul": "Soal Pemecatan Direktur IT Bank DKI, Ini 6 Rekomendasi Fahira Idris",
+        "Link": "https://pemantiknews.id/posts/518227/soal-pemecatan-direktur-it-bank-dki-ini-6-rekomendasi-fahira-idris",
+        "Kategori": "Network",
+        "Waktu Terbit": "15 April 2025 09:40:59",
+        "Waktu Scrapping": "15 April 2025 10:01:59",
+        "Penulis": "-"
+    },
+    {
+        "Judul": "Itenas Gelar Job Fair, Siapkan Lamaran Terbaik",
+        "Link": "https://sekitarbandung.id/posts/518237/itenas-gelar-job-fair-siapkan-lamaran-terbaik",
+        "Kategori": "Network",
+        "Waktu Terbit": "15 April 2025 09:40:01",
+        "Waktu Scrapping": "15 April 2025 10:02:01",
+        "Penulis": "-"
+    },
+    {
+        "Judul": "Trump Melunak, IHSG Menguat",
+        "Link": "https://ekonomi.republika.co.id/berita/suqnbc370/trump-melunak-ihsg-menguat",
+        "Kategori": "Ekonomi",
+        "Waktu Terbit": "15 April 2025 09:38:02",
+        "Waktu Scrapping": "15 April 2025 10:02:02",
+        "Penulis": "Friska Yolandha"
+    },
+    {
+        "Judul": "Gempa Bumi Guncang Garut, Terasa Hingga Sukabumi",
+        "Link": "https://rejabar.republika.co.id/berita/suqn9a483/gempa-bumi-guncang-garut-terasa-hingga-sukabumi",
+        "Kategori": "Rejabar",
+        "Waktu Terbit": "15 April 2025 09:37:03",
+        "Waktu Scrapping": "15 April 2025 10:02:03",
+        "Penulis": "A.Syalaby Ichsan"
+    },
+    {
+        "Judul": "Harga Emas Antam Terpantau Stabil pada Selasa",
+        "Link": "https://ekonomi.republika.co.id/berita/suqn73370/harga-emas-antam-terpantau-stabil-pada-selasa",
+        "Kategori": "Ekonomi",
+        "Waktu Terbit": "15 April 2025 09:36:04",
+        "Waktu Scrapping": "15 April 2025 10:02:04",
+        "Penulis": "Friska Yolandha"
+    },
+    {
+        "Judul": "6.500 Akademisi dan Guru Israel Tandatangani Petisi Tuntut Sandera Dibebaskan",
+        "Link": "https://khazanah.republika.co.id/berita/suqn03366/6500-akademisi-dan-guru-israel-tandatangani-petisi-tuntut-sandera-dibebaskan",
+        "Kategori": "Khazanah",
+        "Waktu Terbit": "15 April 2025 09:31:05",
+        "Waktu Scrapping": "15 April 2025 10:02:05",
+        "Penulis": "Ani Nursalikah"
+    },
+    {
+        "Judul": "Bertemu Raja Yordania, Prabowo Bahas Masalah Gaza",
+        "Link": "https://tv.republika.co.id/berita/suqmtq313/bertemu-raja-yordania-prabowo-bahas-masalah-gaza",
+        "Kategori": "Video",
+        "Waktu Terbit": "15 April 2025 09:30:05",
+        "Waktu Scrapping": "15 April 2025 10:02:05",
+        "Penulis": "Agung Sasongko"
+    },
+    {
+        "Judul": "Senyum Mak Sana'ah Terima Paket Sembako dari Dompet Dhuafa dan TSR",
+        "Link": "https://khazanah.republika.co.id/berita/suqmqv368/senyum-mak-sanaah-terima-paket-sembako-dari-dompet-dhuafa-dan-tsr",
+        "Kategori": "Khazanah",
+        "Waktu Terbit": "15 April 2025 09:26:07",
+        "Waktu Scrapping": "15 April 2025 10:02:07",
+        "Penulis": "Dwi Murdaningsih"
+    },
+    {
+        "Judul": "FIFA akan Perkenalkan Kamera Tubuh pada Wasit di Piala Dunia Antarklub",
+        "Link": "https://news.republika.co.id/berita/suqmqr348/fifa-akan-perkenalkan-kamera-tubuh-pada-wasit-di-piala-dunia-antarklub",
+        "Kategori": "News",
+        "Waktu Terbit": "15 April 2025 09:26:08",
+        "Waktu Scrapping": "15 April 2025 10:02:08",
+        "Penulis": "Israr Itah"
+    },
+    {
+        "Judul": "Usai Lawatan Lima Negara, Prabowo Mendarat di Lanud Halim Perdanakusuma",
+        "Link": "https://news.republika.co.id/berita/suqmjh484/usai-lawatan-lima-negara-prabowo-mendarat-di-lanud-halim-perdanakusuma",
+        "Kategori": "News",
+        "Waktu Terbit": "15 April 2025 09:21:08",
+        "Waktu Scrapping": "15 April 2025 10:02:08",
+        "Penulis": "Erik Purnama Putra"
+    },
+    {
+        "Judul": "Perubahan Iklim Ancam Perekonomian Global",
+        "Link": "https://esgnow.republika.co.id/berita/suqlxo416/perubahan-iklim-ancam-perekonomian-global",
+        "Kategori": "Esgnow",
+        "Waktu Terbit": "15 April 2025 09:08:09",
+        "Waktu Scrapping": "15 April 2025 10:02:09",
+        "Penulis": "Satria K Yudha"
+    },
+    {
+        "Judul": "Israel Bunuh Seniman Wanita dari Gaza Berusia 22 Tahun",
+        "Link": "https://khazanah.republika.co.id/berita/suqdir451/israel-bunuh-seniman-wanita-dari-gaza-berusia-22-tahun",
+        "Kategori": "Khazanah",
+        "Waktu Terbit": "15 April 2025 09:04:10",
+        "Waktu Scrapping": "15 April 2025 10:02:10",
+        "Penulis": "Erdy Nasrul"
+    },
+    {
+        "Judul": "Lagi, Viral Dokter Spesialis Diduga Lecehkan Pasien di Garut Saat Pemeriksaan Kandungan",
+        "Link": "https://news.republika.co.id/berita/suqliy487/lagi-viral-dokter-spesialis-diduga-lecehkan-pasien-di-garut-saat-pemeriksaan-kandungan",
+        "Kategori": "News",
+        "Waktu Terbit": "15 April 2025 09:02:10",
+        "Waktu Scrapping": "15 April 2025 10:02:10",
+        "Penulis": "Mas Alamil Huda"
+    },
+    {
+        "Judul": "Kisah Pahit Manisnya Agen BRILink di Cimahi, Pernah Dihipnotis Tapi Tetap Bertahan",
+        "Link": "https://rejabar.republika.co.id/berita/suqldz512/kisah-pahit-manisnya-agen-brilink-di-cimahi-pernah-dihipnotis-tapi-tetap-bertahan",
+        "Kategori": "Rejabar",
+        "Waktu Terbit": "15 April 2025 09:02:11",
+        "Waktu Scrapping": "15 April 2025 10:02:11",
+        "Penulis": "Arie Lukihardianti"
+    },
+    {
+        "Judul": "Alasan Opsi Evakuasi Warga Gaza Sulit Dilakukan",
+        "Link": "https://tv.republika.co.id/berita/suqku2313/alasan-opsi-evakuasi-warga-gaza-sulit-dilakukan",
+        "Kategori": "Video",
+        "Waktu Terbit": "15 April 2025 09:02:12",
+        "Waktu Scrapping": "15 April 2025 10:02:12",
+        "Penulis": "Agung Sasongko"
+    },
+    {
+        "Judul": "Kneecap Klaim Pesan Pro Palestina Mereka Dihapus dari Siaran Langsung Coachella",
+        "Link": "https://ameera.republika.co.id/berita/suqkts425/kneecap-klaim-pesan-pro-palestina-mereka-dihapus-dari-siaran-langsung-coachella",
+        "Kategori": "Ameera",
+        "Waktu Terbit": "15 April 2025 09:02:15",
+        "Waktu Scrapping": "15 April 2025 10:02:15",
+        "Penulis": "Qommarria Rostanti"
+    },
+    {
+        "Judul": "Sekda Jabar Pastikan Anggaran Pemungutan Suara Ulang Kab Tasikmalaya tak Ada Kendala",
+        "Link": "https://rejabar.republika.co.id/berita/suqkk8512/sekda-jabar-pastikan-anggaran-pemungutan-suara-ulang-kab-tasikmalaya-tak-ada-kendala",
+        "Kategori": "Rejabar",
+        "Waktu Terbit": "15 April 2025 09:02:15",
+        "Waktu Scrapping": "15 April 2025 10:02:15",
+        "Penulis": "Arie Lukihardianti"
+    },
+    {
+        "Judul": "McLaren MCL39 2025, Siap Bertarung untuk Juara Dunia di Musim 2025",
+        "Link": "https://motoresto.id/posts/518162/mclaren-mcl39-2025-siap-bertarung-untuk-juara-dunia-di-musim-2025",
+        "Kategori": "Network",
+        "Waktu Terbit": "15 April 2025 09:02:16",
+        "Waktu Scrapping": "15 April 2025 10:02:16",
+        "Penulis": "-"
+    },
+    {
+        "Judul": "Scomadi Makassar Resmi Dibuka, Tawarkan Pengalaman Skuter Klasik Modern!",
+        "Link": "https://motoresto.id/posts/518216/scomadi-makassar-resmi-dibuka-tawarkan-pengalaman-skuter-klasik-modern",
+        "Kategori": "Network",
+        "Waktu Terbit": "15 April 2025 09:02:17",
+        "Waktu Scrapping": "15 April 2025 10:02:17",
+        "Penulis": "-"
+    },
+    {
+        "Judul": "Mutasi Polri, Komjen Imam Sugianto Jabat Wakil Kepala BIN",
+        "Link": "https://seputarmiliter.id/posts/518223/mutasi-polri-komjen-imam-sugianto-jabat-wakil-kepala-bin",
+        "Kategori": "Network",
+        "Waktu Terbit": "15 April 2025 09:02:19",
+        "Waktu Scrapping": "15 April 2025 10:02:19",
+        "Penulis": "-"
+    },
+    {
+        "Judul": "Tantangan 90 Hari Trump: 90 Kesepakatan Dagang Bilateral",
+        "Link": "https://shippingcargo.co.id/posts/518067/tantangan-90-hari-trump-90-kesepakatan-dagang-bilateral",
+        "Kategori": "Network",
+        "Waktu Terbit": "15 April 2025 09:02:21",
+        "Waktu Scrapping": "15 April 2025 10:02:21",
+        "Penulis": "-"
+    },
+    {
+        "Judul": "Korban Meikarta Mengadu, Menteri Ara Teruskan Laporan ke Prabowo",
+        "Link": "https://news.republika.co.id/berita/suqkhh484/korban-meikarta-mengadu-menteri-ara-teruskan-laporan-ke-prabowo",
+        "Kategori": "News",
+        "Waktu Terbit": "15 April 2025 09:02:26",
+        "Waktu Scrapping": "15 April 2025 10:02:26",
+        "Penulis": "Erik Purnama Putra"
+    },
+    {
+        "Judul": "Pria di Bandung jadi Korban Penganiayaan Orang tak Dikenal, Alami Luka di Leher dan Wajah",
+        "Link": "https://rejabar.republika.co.id/berita/suqk68512/pria-di-bandung-jadi-korban-penganiayaan-orang-tak-dikenal-alami-luka-di-leher-dan-wajah",
+        "Kategori": "Rejabar",
+        "Waktu Terbit": "15 April 2025 08:02:27",
+        "Waktu Scrapping": "15 April 2025 10:02:27",
+        "Penulis": "Arie Lukihardianti"
+    },
+    {
+        "Judul": "Delegasi Indonesia Siap Berangkat ke AS, Siapa Saja?",
+        "Link": "https://ekonomi.republika.co.id/berita/suqjva370/delegasi-indonesia-siap-berangkat-ke-as-siapa-saja",
+        "Kategori": "Ekonomi",
+        "Waktu Terbit": "15 April 2025 08:02:27",
+        "Waktu Scrapping": "15 April 2025 10:02:27",
+        "Penulis": "Friska Yolandha"
+    },
+    {
+        "Judul": "Arab Saudi Larang Hotel Terima Jamaah tanpa Izin Haji Mulai 29 April 2025",
+        "Link": "https://khazanah.republika.co.id/berita/suqie4366/arab-saudi-larang-hotel-terima-jamaah-tanpa-izin-haji-mulai-29-april-2025",
+        "Kategori": "Khazanah",
+        "Waktu Terbit": "15 April 2025 08:02:28",
+        "Waktu Scrapping": "15 April 2025 10:02:28",
+        "Penulis": "Ani Nursalikah"
+    },
+    {
+        "Judul": "Raja Yordania ke Prabowo: Persahabatan Kita Sejak Jadi Prajurit Muda",
+        "Link": "https://news.republika.co.id/berita/suqiss484/raja-yordania-ke-prabowo-persahabatan-kita-sejak-jadi-prajurit-muda",
+        "Kategori": "News",
+        "Waktu Terbit": "15 April 2025 08:02:28",
+        "Waktu Scrapping": "15 April 2025 10:02:28",
+        "Penulis": "Erik Purnama Putra"
+    },
+    {
+        "Judul": "AS Bekukan Dana Federal untuk Harvard Usai Menolak Tuntutan Trump",
+        "Link": "https://ekonomi.republika.co.id/berita/suqies370/as-bekukan-dana-federal-untuk-harvard-usai-menolak-tuntutan-trump",
+        "Kategori": "Ekonomi",
+        "Waktu Terbit": "15 April 2025 08:02:29",
+        "Waktu Scrapping": "15 April 2025 10:02:29",
+        "Penulis": "Friska Yolandha"
+    },
+    {
+        "Judul": "Jadwal Leg 2 Perempat Final Liga Champions: Misi Berat Finalis Musim Lalu",
+        "Link": "https://news.republika.co.id/berita/suqic2348/jadwal-leg-2-perempat-final-liga-champions-misi-berat-finalis-musim-lalu",
+        "Kategori": "News",
+        "Waktu Terbit": "15 April 2025 08:02:29",
+        "Waktu Scrapping": "15 April 2025 10:02:29",
+        "Penulis": "Israr Itah"
+    },
+    {
+        "Judul": "Pergantian Kapolda Jabar, Ini Sosok Penerus Irjen Akhmad Wiyagus",
+        "Link": "https://news.republika.co.id/berita/suqi3z487/pergantian-kapolda-jabar-ini-sosok-penerus-irjen-akhmad-wiyagus",
+        "Kategori": "News",
+        "Waktu Terbit": "15 April 2025 08:02:30",
+        "Waktu Scrapping": "15 April 2025 10:02:30",
+        "Penulis": "Mas Alamil Huda"
+    },
+    {
+        "Judul": "Pramono Optimistis Dampak Jakarta International Marathon Tahun Ini Lebih Besar",
+        "Link": "https://news.republika.co.id/berita/suqhs9348/pramono-optimistis-dampak-jakarta-international-marathon-tahun-ini-lebih-besar",
+        "Kategori": "News",
+        "Waktu Terbit": "15 April 2025 08:02:31",
+        "Waktu Scrapping": "15 April 2025 10:02:31",
+        "Penulis": "Israr Itah"
+    },
+    {
+        "Judul": "Mantan Pemuka Yahudi Buktikan Betapa Bebalnya Kaum Yahudi",
+        "Link": "https://khazanah.republika.co.id/berita/suqhpd458/mantan-pemuka-yahudi-buktikan-betapa-bebalnya-kaum-yahudi",
+        "Kategori": "Khazanah",
+        "Waktu Terbit": "15 April 2025 08:02:31",
+        "Waktu Scrapping": "15 April 2025 10:02:31",
+        "Penulis": "Hasanul Rizqa"
+    },
+    {
+        "Judul": "Pertamina Sanksi Dua SPBU Nakal yang Mengoplos BBM",
+        "Link": "https://ekonomi.republika.co.id/berita/suqho8370/pertamina-sanksi-dua-spbu-nakal-yang-mengoplos-bbm",
+        "Kategori": "Ekonomi",
+        "Waktu Terbit": "15 April 2025 08:02:32",
+        "Waktu Scrapping": "15 April 2025 10:02:32",
+        "Penulis": "Friska Yolandha"
+    },
+    {
+        "Judul": "Media Israel: Netanyahu Bernafsu Perang , tapi SDM Berkurang Parah, IDF Menuju Kehancuran",
+        "Link": "https://news.republika.co.id/berita/suqhm8451/media-israel-netanyahu-bernafsu-perang-tapi-sdm-berkurang-parah-idf-menuju-kehancuran",
+        "Kategori": "News",
+        "Waktu Terbit": "15 April 2025 08:02:33",
+        "Waktu Scrapping": "15 April 2025 10:02:33",
+        "Penulis": "Erdy Nasrul"
+    },
+    {
+        "Judul": "Siswa Sekolah Islam Terpadu di Seluruh Indonesia Serentak Gelar Aksi Bela Palestina",
+        "Link": "https://news.republika.co.id/berita/suqhm4487/siswa-sekolah-islam-terpadu-di-seluruh-indonesia-serentak-gelar-aksi-bela-palestina",
+        "Kategori": "News",
+        "Waktu Terbit": "15 April 2025 08:02:33",
+        "Waktu Scrapping": "15 April 2025 10:02:33",
+        "Penulis": "Mas Alamil Huda"
+    },
+    {
+        "Judul": "Harvard Melawan, Tolak Tuntutan Trump Soal Mahasiswa Pro-Palestina",
+        "Link": "https://news.republika.co.id/berita/suqhlc393/harvard-melawan-tolak-tuntutan-trump-soal-mahasiswa-propalestina",
+        "Kategori": "News",
+        "Waktu Terbit": "15 April 2025 08:02:34",
+        "Waktu Scrapping": "15 April 2025 10:02:34",
+        "Penulis": "Fitriyan Zamzami"
+    },
+    {
+        "Judul": "Rahasia Nama Dua Surah",
+        "Link": "https://khazanah.republika.co.id/berita/suqhao458/rahasia-nama-dua-surah",
+        "Kategori": "Khazanah",
+        "Waktu Terbit": "15 April 2025 07:02:34",
+        "Waktu Scrapping": "15 April 2025 10:02:34",
+        "Penulis": "Hasanul Rizqa"
+    },
+    {
+        "Judul": "Pelatih Newcastle Eddie Howe Jalani Pemulihan Pneumonia di Rumah Sakit",
+        "Link": "https://news.republika.co.id/berita/suqgzc348/pelatih-newcastle-eddie-howe-jalani-pemulihan-pneumonia-di-rumah-sakit",
+        "Kategori": "News",
+        "Waktu Terbit": "15 April 2025 07:02:35",
+        "Waktu Scrapping": "15 April 2025 10:02:35",
+        "Penulis": "Israr Itah"
+    },
+    {
+        "Judul": "Cara Alquran Hadapi Islamofobia",
+        "Link": "https://khazanah.republika.co.id/berita/suqgox458/cara-alquran-hadapi-islamofobia",
+        "Kategori": "Khazanah",
+        "Waktu Terbit": "15 April 2025 07:02:35",
+        "Waktu Scrapping": "15 April 2025 10:02:35",
+        "Penulis": "Hasanul Rizqa"
+    },
+    {
+        "Judul": "Wahai Muslimah, Berjilbab Itu Perintah Allah",
+        "Link": "https://khazanah.republika.co.id/berita/suqg6a458/wahai-muslimah-berjilbab-itu-perintah-allah",
+        "Kategori": "Khazanah",
+        "Waktu Terbit": "15 April 2025 07:02:36",
+        "Waktu Scrapping": "15 April 2025 10:02:36",
+        "Penulis": "Hasanul Rizqa"
+    },
+    {
+        "Judul": "Kata PUI Soal Prabowo akan Bantu Warga Gaza",
+        "Link": "https://news.republika.co.id/berita/suqdf5451/kata-pui-soal-prabowo-akan-bantu-warga-gaza",
+        "Kategori": "News",
+        "Waktu Terbit": "15 April 2025 07:02:36",
+        "Waktu Scrapping": "15 April 2025 10:02:36",
+        "Penulis": "Erdy Nasrul"
+    },
+    {
+        "Judul": "Dorong TKDN untuk Kemandirian Industri, Ini Saran Gapensi",
+        "Link": "https://ekonomi.republika.co.id/berita/suqfp8370/dorong-tkdn-untuk-kemandirian-industri-ini-saran-gapensi",
+        "Kategori": "Ekonomi",
+        "Waktu Terbit": "15 April 2025 07:02:37",
+        "Waktu Scrapping": "15 April 2025 10:02:37",
+        "Penulis": "Friska Yolandha"
+    },
+    {
+        "Judul": "Menuju Ibadah Haji",
+        "Link": "https://khazanah.republika.co.id/berita/suqfn3458/menuju-ibadah-haji",
+        "Kategori": "Khazanah",
+        "Waktu Terbit": "15 April 2025 07:02:38",
+        "Waktu Scrapping": "15 April 2025 10:02:38",
+        "Penulis": "Hasanul Rizqa"
+    },
+    {
+        "Judul": "Usai Bertemu Raja Abdullah II Bahas Gaza, Prabowo Kembali ke Indonesia",
+        "Link": "https://news.republika.co.id/berita/suqfmo484/usai-bertemu-raja-abdullah-ii-bahas-gaza-prabowo-kembali-ke-indonesia",
+        "Kategori": "News",
+        "Waktu Terbit": "15 April 2025 07:02:38",
+        "Waktu Scrapping": "15 April 2025 10:02:38",
+        "Penulis": "Erik Purnama Putra"
+    },
+    {
+        "Judul": "Hakikat Sujud",
+        "Link": "https://khazanah.republika.co.id/berita/suqf7n458/hakikat-sujud",
+        "Kategori": "Khazanah",
+        "Waktu Terbit": "15 April 2025 07:02:39",
+        "Waktu Scrapping": "15 April 2025 10:02:39",
+        "Penulis": "Hasanul Rizqa"
+    },
+    {
+        "Judul": "YIPB Luncurkan Program MBG di Sekolah Khusus Kota Tangerang",
+        "Link": "https://news.republika.co.id/berita/suqexb484/yipb-luncurkan-program-mbg-di-sekolah-khusus-kota-tangerang",
+        "Kategori": "News",
+        "Waktu Terbit": "15 April 2025 07:02:39",
+        "Waktu Scrapping": "15 April 2025 10:02:39",
+        "Penulis": "Erik Purnama Putra"
+    },
+    {
+        "Judul": "BPBD DIY Minta Pendaki Taati Larangan Aktivitas Pendakian Gunung Merapi",
+        "Link": "https://rejogja.republika.co.id/berita/suqev0291/bpbd-diy-minta-pendaki-taati-larangan-aktivitas-pendakian-gunung-merapi",
+        "Kategori": "Rejogja",
+        "Waktu Terbit": "15 April 2025 07:02:40",
+        "Waktu Scrapping": "15 April 2025 10:02:40",
+        "Penulis": "Fernan Rahadi"
+    }
+]
