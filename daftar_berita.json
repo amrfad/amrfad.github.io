@@ -1,138 +1,234 @@
 [
     {
+        "Judul": "Ancol Raih Pendapatan Rp 1,2 Triliun pada 2024",
+        "Link": "https://ekonomi.republika.co.id/berita/svkuvw370/ancol-raih-pendapatan-rp-12-triliun-pada-2024",
+        "Kategori": "Ekonomi",
+        "Waktu Terbit": "1 Mei 2025 17:09:17",
+        "Waktu Scrapping": "1 Mei 2025 17:15:17",
+        "Penulis": "Friska Yolandha"
+    },
+    {
+        "Judul": "Permintaan Meningkat, PT Timah Catat Laba Bersih Rp 116 Miliar",
+        "Link": "https://ekonomi.republika.co.id/berita/svkucc370/permintaan-meningkat-pt-timah-catat-laba-bersih-rp-116-miliar",
+        "Kategori": "Ekonomi",
+        "Waktu Terbit": "1 Mei 2025 16:58:18",
+        "Waktu Scrapping": "1 Mei 2025 17:15:18",
+        "Penulis": "Friska Yolandha"
+    },
+    {
+        "Judul": "Industri Migas Dorong Investasi Dukung Pertumbuhan Ekonomi 8 Persen",
+        "Link": "https://ekonomi.republika.co.id/berita/svkuca522/industri-migas-dorong-investasi-dukung-pertumbuhan-ekonomi-8-persen",
+        "Kategori": "Ekonomi",
+        "Waktu Terbit": "1 Mei 2025 16:57:18",
+        "Waktu Scrapping": "1 Mei 2025 17:15:18",
+        "Penulis": "Intan Pratiwi"
+    },
+    {
+        "Judul": "Iran Eksekusi Mati Agen Mossad, Ini Perannya Menurut Putusan Pengadilan",
+        "Link": "https://news.republika.co.id/berita/svkua1409/iran-eksekusi-mati-agen-mossad-ini-perannya-menurut-putusan-pengadilan",
+        "Kategori": "News",
+        "Waktu Terbit": "1 Mei 2025 16:56:19",
+        "Waktu Scrapping": "1 Mei 2025 17:15:19",
+        "Penulis": "Andri Saubani"
+    },
+    {
+        "Judul": "Ingin Jadi Politisi? Muslim Harus Ingat Hadis Ini",
+        "Link": "https://khazanah.republika.co.id/berita/svku05458/ingin-jadi-politisi-muslim-harus-ingat-hadis-ini",
+        "Kategori": "Khazanah",
+        "Waktu Terbit": "1 Mei 2025 16:50:20",
+        "Waktu Scrapping": "1 Mei 2025 17:15:20",
+        "Penulis": "Hasanul Rizqa"
+    },
+    {
+        "Judul": "Sang Ulama Ahli Hadis di Masa Kekacauan",
+        "Link": "https://khazanah.republika.co.id/berita/svktq9458/sang-ulama-ahli-hadis-di-masa-kekacauan",
+        "Kategori": "Khazanah",
+        "Waktu Terbit": "1 Mei 2025 16:44:21",
+        "Waktu Scrapping": "1 Mei 2025 17:15:21",
+        "Penulis": "Hasanul Rizqa"
+    },
+    {
+        "Judul": "Sanksi Bagi Jamaah Haji Ilegal: Denda Rp 447 Juta dan Sepuluh Tahun Dilarang ke Saudi",
+        "Link": "https://khazanah.republika.co.id/berita/svkth1483/sanksi-bagi-jamaah-haji-ilegal-denda-rp-447-juta-dan-sepuluh-tahun-dilarang-ke-saudi",
+        "Kategori": "Khazanah",
+        "Waktu Terbit": "1 Mei 2025 16:39:22",
+        "Waktu Scrapping": "1 Mei 2025 17:15:22",
+        "Penulis": "A.Syalaby Ichsan"
+    },
+    {
+        "Judul": "Prabowo Copot Seragam Safarinya Saat Lagu Buruh Berkumandang di Monas",
+        "Link": "https://news.republika.co.id/berita/svkt9p484/prabowo-copot-seragam-safarinya-saat-lagu-buruh-berkumandang-di-monas",
+        "Kategori": "News",
+        "Waktu Terbit": "1 Mei 2025 16:34:22",
+        "Waktu Scrapping": "1 Mei 2025 17:15:22",
+        "Penulis": "Erik Purnama Putra"
+    },
+    {
+        "Judul": "Koperasi Merah Putih: Antara Harapan dan Tantangan",
+        "Link": "https://analisis.republika.co.id/berita/svkt6j458/koperasi-merah-putih-antara-harapan-dan-tantangan",
+        "Kategori": "Kolom",
+        "Waktu Terbit": "1 Mei 2025 16:32:23",
+        "Waktu Scrapping": "1 Mei 2025 17:15:23",
+        "Penulis": "Hasanul Rizqa"
+    },
+    {
+        "Judul": "Hakim Bebaskan Mahasiswa Universitas Columbia yang Ditahan karena Demonstrasi Anti Israel",
+        "Link": "https://khazanah.republika.co.id/berita/svksr2483/hakim-bebaskan-mahasiswa-universitas-columbia-yang-ditahan-karena-demonstrasi-anti-israel",
+        "Kategori": "Khazanah",
+        "Waktu Terbit": "1 Mei 2025 16:23:24",
+        "Waktu Scrapping": "1 Mei 2025 17:15:24",
+        "Penulis": "A.Syalaby Ichsan"
+    },
+    {
+        "Judul": "Prakiraan Cuaca Besok: Kota Medan dan Sekitarnya Berawan, 2 Mei 2025",
+        "Link": "https://news.republika.co.id/berita/svksk71129267381/prakiraan-cuaca-besok-kota-medan-dan-sekitarnya-berawan-2-mei-2025",
+        "Kategori": "News",
+        "Waktu Terbit": "1 Mei 2025 16:19:25",
+        "Waktu Scrapping": "1 Mei 2025 17:15:25",
+        "Penulis": "Rebot"
+    },
+    {
+        "Judul": "Pesona dan Sejarah Masjid Negara Malaysia",
+        "Link": "https://khazanah.republika.co.id/berita/svksei458/pesona-dan-sejarah-masjid-negara-malaysia",
+        "Kategori": "Khazanah",
+        "Waktu Terbit": "1 Mei 2025 16:16:26",
+        "Waktu Scrapping": "1 Mei 2025 17:15:26",
+        "Penulis": "Hasanul Rizqa"
+    },
+    {
         "Judul": "Situasi Global Sedang tak Kondusif, Tokoh dan Ormas Islam Didorong Ambil Peran",
         "Link": "https://rejogja.republika.co.id/berita/svks63291/situasi-global-sedang-tak-kondusif-tokoh-dan-ormas-islam-didorong-ambil-peran",
         "Kategori": "Rejogja",
-        "Waktu Terbit": "1 Mei 2025 16:11:21",
-        "Waktu Scrapping": "1 Mei 2025 16:15:21",
+        "Waktu Terbit": "1 Mei 2025 16:15:26",
+        "Waktu Scrapping": "1 Mei 2025 17:15:26",
         "Penulis": "Fernan Rahadi"
     },
     {
         "Judul": "Ini Kiat Merawat Baterai Mobil Listrik Agar Awet",
         "Link": "https://ekonomi.republika.co.id/berita/svkrzt370/ini-kiat-merawat-baterai-mobil-listrik-agar-awet",
         "Kategori": "Ekonomi",
-        "Waktu Terbit": "1 Mei 2025 16:07:21",
-        "Waktu Scrapping": "1 Mei 2025 16:15:21",
+        "Waktu Terbit": "1 Mei 2025 16:15:27",
+        "Waktu Scrapping": "1 Mei 2025 17:15:27",
         "Penulis": "Friska Yolandha"
     },
     {
         "Judul": "Prakiraan Cuaca Besok 2 Mei 2025 untuk Kota Malang: Berawan",
         "Link": "https://news.republika.co.id/berita/svkrv8730157182/prakiraan-cuaca-besok-2-mei-2025-untuk-kota-malang-berawan",
         "Kategori": "News",
-        "Waktu Terbit": "1 Mei 2025 16:04:23",
-        "Waktu Scrapping": "1 Mei 2025 16:15:23",
+        "Waktu Terbit": "1 Mei 2025 16:15:28",
+        "Waktu Scrapping": "1 Mei 2025 17:15:28",
         "Penulis": "Rebot"
     },
     {
         "Judul": "Putra Netanyahu Tuding Kebakaran yang Kepung Israel Disulut Aktivis Anti Pemerintah",
         "Link": "https://khazanah.republika.co.id/berita/svkrtf483/putra-netanyahu-tuding-kebakaran-yang-kepung-israel-disulut-aktivis-anti-pemerintah",
         "Kategori": "Khazanah",
-        "Waktu Terbit": "1 Mei 2025 16:03:24",
-        "Waktu Scrapping": "1 Mei 2025 16:15:24",
+        "Waktu Terbit": "1 Mei 2025 16:15:29",
+        "Waktu Scrapping": "1 Mei 2025 17:15:29",
         "Penulis": "A.Syalaby Ichsan"
     },
     {
         "Judul": "Tuding Ijazah Palsu Jokowi, Roy Suryo Diminta Hadapi Proses Hukum",
         "Link": "https://news.republika.co.id/berita/svkrgb484/tuding-ijazah-palsu-jokowi-roy-suryo-diminta-hadapi-proses-hukum",
         "Kategori": "News",
-        "Waktu Terbit": "1 Mei 2025 15:55:26",
-        "Waktu Scrapping": "1 Mei 2025 16:15:26",
+        "Waktu Terbit": "1 Mei 2025 16:15:29",
+        "Waktu Scrapping": "1 Mei 2025 17:15:29",
         "Penulis": "Erik Purnama Putra"
     },
     {
         "Judul": "Hadiah Prabowo Buat Semua PRT: UU Perlindungan Pekerja Rumah Tangga",
         "Link": "https://news.republika.co.id/berita/svkr9u451/hadiah-prabowo-buat-semua-prt-uu-perlindungan-pekerja-rumah-tangga",
         "Kategori": "News",
-        "Waktu Terbit": "1 Mei 2025 15:51:27",
-        "Waktu Scrapping": "1 Mei 2025 16:15:27",
+        "Waktu Terbit": "1 Mei 2025 16:15:32",
+        "Waktu Scrapping": "1 Mei 2025 17:15:32",
         "Penulis": "Erdy Nasrul"
     },
     {
         "Judul": "Maroon 5 Gandeng Lisa Blackpink Rilis \u2018Priceless\u2019, Teaser-nya Bikin Penasaran",
         "Link": "https://ameera.republika.co.id/berita/svkr7d425/maroon-5-gandeng-lisa-blackpink-rilis-priceless-teasernya-bikin-penasaran",
         "Kategori": "Ameera",
-        "Waktu Terbit": "1 Mei 2025 15:50:28",
-        "Waktu Scrapping": "1 Mei 2025 16:15:28",
+        "Waktu Terbit": "1 Mei 2025 16:15:33",
+        "Waktu Scrapping": "1 Mei 2025 17:15:33",
         "Penulis": "Qommarria Rostanti"
     },
     {
         "Judul": "Kelakar Prabowo ke Kapolri dan Panglima TNI di Hari Buruh: Sulit Diganti karena Namanya",
         "Link": "https://news.republika.co.id/berita/svkqzq484/kelakar-prabowo-ke-kapolri-dan-panglima-tni-di-hari-buruh-sulit-diganti-karena-namanya",
         "Kategori": "News",
-        "Waktu Terbit": "1 Mei 2025 15:45:30",
-        "Waktu Scrapping": "1 Mei 2025 16:15:30",
+        "Waktu Terbit": "1 Mei 2025 15:15:34",
+        "Waktu Scrapping": "1 Mei 2025 17:15:34",
         "Penulis": "Erik Purnama Putra"
     },
     {
         "Judul": "Utang 19 Ribu Debitur UMKM Sudah Dihapustagih",
         "Link": "https://ekonomi.republika.co.id/berita/svkqy5370/utang-19-ribu-debitur-umkm-sudah-dihapustagih",
         "Kategori": "Ekonomi",
-        "Waktu Terbit": "1 Mei 2025 15:44:31",
-        "Waktu Scrapping": "1 Mei 2025 16:15:31",
+        "Waktu Terbit": "1 Mei 2025 15:15:34",
+        "Waktu Scrapping": "1 Mei 2025 17:15:34",
         "Penulis": "Friska Yolandha"
     },
     {
         "Judul": "DKI Sibuk dengan Hari Buruh, di Papua, Warga Semarakkan 1 Mei Hari Papua Gabung Indonesia",
         "Link": "https://news.republika.co.id/berita/svkqus451/dki-sibuk-dengan-hari-buruh-di-papua-warga-semarakkan-1-mei-hari-papua-gabung-indonesia",
         "Kategori": "News",
-        "Waktu Terbit": "1 Mei 2025 15:42:32",
-        "Waktu Scrapping": "1 Mei 2025 16:15:32",
+        "Waktu Terbit": "1 Mei 2025 15:15:35",
+        "Waktu Scrapping": "1 Mei 2025 17:15:35",
         "Penulis": "Erdy Nasrul"
     },
     {
         "Judul": "Mendes PDT: BUMDes Jangan Galau dengan Kehadiran Koperasi Merah Putih",
         "Link": "https://ekonomi.republika.co.id/berita/svkqqv423/mendes-pdt-bumdes-jangan-galau-dengan-kehadiran-koperasi-merah-putih",
         "Kategori": "Ekonomi",
-        "Waktu Terbit": "1 Mei 2025 15:40:33",
-        "Waktu Scrapping": "1 Mei 2025 16:15:33",
+        "Waktu Terbit": "1 Mei 2025 15:15:36",
+        "Waktu Scrapping": "1 Mei 2025 17:15:36",
         "Penulis": "Gita Amanda"
     },
     {
         "Judul": "Dukung Ketahanan Maritim, Krakatau Steel Pasok Baja Berkualitas untuk PT PAL",
         "Link": "https://ekonomi.republika.co.id/berita/svkqjs349/dukung-ketahanan-maritim-krakatau-steel-pasok-baja-berkualitas-untuk-pt-pal",
         "Kategori": "Ekonomi",
-        "Waktu Terbit": "1 Mei 2025 15:36:34",
-        "Waktu Scrapping": "1 Mei 2025 16:15:34",
+        "Waktu Terbit": "1 Mei 2025 15:15:36",
+        "Waktu Scrapping": "1 Mei 2025 17:15:36",
         "Penulis": "Ichsan Emrald Alamsyah"
     },
     {
         "Judul": "Ekonom Nilai Kategori UMKM Jadi Jalan Tengah Bagi Ojol",
         "Link": "https://ekonomi.republika.co.id/berita/svkq9j370/ekonom-nilai-kategori-umkm-jadi-jalan-tengah-bagi-ojol",
         "Kategori": "Ekonomi",
-        "Waktu Terbit": "1 Mei 2025 15:29:37",
-        "Waktu Scrapping": "1 Mei 2025 16:15:37",
+        "Waktu Terbit": "1 Mei 2025 15:15:37",
+        "Waktu Scrapping": "1 Mei 2025 17:15:37",
         "Penulis": "Friska Yolandha"
     },
     {
         "Judul": "Silaturahmi dengan Bupati, Kaesang Nyatakan Siap Bantu Kabupaten Bandung",
         "Link": "https://rejabar.republika.co.id/berita/svkpvb368/silaturahmi-dengan-bupati-kaesang-nyatakan-siap-bantu-kabupaten-bandung",
         "Kategori": "Rejabar",
-        "Waktu Terbit": "1 Mei 2025 15:21:38",
-        "Waktu Scrapping": "1 Mei 2025 16:15:38",
+        "Waktu Terbit": "1 Mei 2025 15:15:37",
+        "Waktu Scrapping": "1 Mei 2025 17:15:37",
         "Penulis": "Dwi Murdaningsih"
     },
     {
         "Judul": "Media Pemerintah Sebut AS Telah Hubungi China untuk Bicarakan Tarif",
         "Link": "https://ekonomi.republika.co.id/berita/svkpu2370/media-pemerintah-sebut-as-telah-hubungi-china-untuk-bicarakan-tarif",
         "Kategori": "Ekonomi",
-        "Waktu Terbit": "1 Mei 2025 15:20:39",
-        "Waktu Scrapping": "1 Mei 2025 16:15:39",
+        "Waktu Terbit": "1 Mei 2025 15:15:38",
+        "Waktu Scrapping": "1 Mei 2025 17:15:38",
         "Penulis": "Friska Yolandha"
     },
     {
         "Judul": "Ratusan Siswa SMP di Bandung Keracunan Usai Makan MBG, Menu Ini Dicurigai Jadi Penyebabnya",
         "Link": "https://news.republika.co.id/berita/svkpke409/ratusan-siswa-smp-di-bandung-keracunan-usai-makan-mbg-menu-ini-dicurigai-jadi-penyebabnya",
         "Kategori": "News",
-        "Waktu Terbit": "1 Mei 2025 15:15:40",
-        "Waktu Scrapping": "1 Mei 2025 16:15:40",
+        "Waktu Terbit": "1 Mei 2025 15:15:39",
+        "Waktu Scrapping": "1 Mei 2025 17:15:39",
         "Penulis": "Andri Saubani"
     },
     {
         "Judul": "May Day Fiesta, Prabowo Forms Labour Welfare Council",
         "Link": "https://en.republika.co.id/berita/svkphd415/may-day-fiesta-prabowo-forms-labour-welfare-council",
         "Kategori": "En",
-        "Waktu Terbit": "1 Mei 2025 15:15:41",
-        "Waktu Scrapping": "1 Mei 2025 16:15:41",
+        "Waktu Terbit": "1 Mei 2025 15:15:40",
+        "Waktu Scrapping": "1 Mei 2025 17:15:40",
         "Penulis": "Budi Raharjo"
     },
     {
@@ -140,7 +236,7 @@
         "Link": "https://ekonomi.republika.co.id/berita/svkp78423/menteri-mamanpaparkan-tantangan-penghapusan-piutang-macet-umkm",
         "Kategori": "Ekonomi",
         "Waktu Terbit": "1 Mei 2025 15:15:42",
-        "Waktu Scrapping": "1 Mei 2025 16:15:42",
+        "Waktu Scrapping": "1 Mei 2025 17:15:42",
         "Penulis": "Gita Amanda"
     },
     {
@@ -148,7 +244,7 @@
         "Link": "https://khazanah.republika.co.id/berita/svkp6g483/ada-18-kloter-masuk-asrama-haji-hari-ini-jamaah-asal-jakarta-terbang-perdana",
         "Kategori": "Khazanah",
         "Waktu Terbit": "1 Mei 2025 15:15:42",
-        "Waktu Scrapping": "1 Mei 2025 16:15:42",
+        "Waktu Scrapping": "1 Mei 2025 17:15:42",
         "Penulis": "A.Syalaby Ichsan"
     },
     {
@@ -156,7 +252,7 @@
         "Link": "https://news.republika.co.id/berita/svkowi960964507/prakiraan-cuaca-besok-tangerang-dan-sekitarnya-2-mei-2025",
         "Kategori": "News",
         "Waktu Terbit": "1 Mei 2025 15:15:43",
-        "Waktu Scrapping": "1 Mei 2025 16:15:43",
+        "Waktu Scrapping": "1 Mei 2025 17:15:43",
         "Penulis": "Rebot"
     },
     {
@@ -164,15 +260,15 @@
         "Link": "https://ekonomi.republika.co.id/berita/svkout468/hadir-di-pevs-2025-mg-cyberster-curi-perhatian-pengunjung",
         "Kategori": "Ekonomi",
         "Waktu Terbit": "1 Mei 2025 15:15:44",
-        "Waktu Scrapping": "1 Mei 2025 16:15:44",
+        "Waktu Scrapping": "1 Mei 2025 17:15:44",
         "Penulis": "Firkah Fansuri"
     },
     {
         "Judul": "Ibu Hamil Berusia 17 Minggu Kedapatan akan Berangkat Haji, Begini Sikap PPIH Surabaya",
         "Link": "https://khazanah.republika.co.id/berita/svkoqx483/ibu-hamil-berusia-17-minggu-kedapatan-akan-berangkat-haji-begini-sikap-ppih-surabaya",
         "Kategori": "Khazanah",
-        "Waktu Terbit": "1 Mei 2025 15:15:45",
-        "Waktu Scrapping": "1 Mei 2025 16:15:45",
+        "Waktu Terbit": "1 Mei 2025 15:15:44",
+        "Waktu Scrapping": "1 Mei 2025 17:15:44",
         "Penulis": "A.Syalaby Ichsan"
     },
     {
@@ -180,7 +276,7 @@
         "Link": "https://rejabar.republika.co.id/berita/svkoqd512/respons-itb-soal-kebocoran-data-dan-panggilan-spam-ke-mahasiswa-dan-alumni",
         "Kategori": "Rejabar",
         "Waktu Terbit": "1 Mei 2025 15:15:45",
-        "Waktu Scrapping": "1 Mei 2025 16:15:45",
+        "Waktu Scrapping": "1 Mei 2025 17:15:45",
         "Penulis": "Arie Lukihardianti"
     },
     {
@@ -188,23 +284,23 @@
         "Link": "https://news.republika.co.id/berita/svkomg1572838182/prakiraan-cuaca-bandung-dan-sekitarnya-besok-pada-2-mei-2025",
         "Kategori": "News",
         "Waktu Terbit": "1 Mei 2025 15:15:47",
-        "Waktu Scrapping": "1 Mei 2025 16:15:47",
+        "Waktu Scrapping": "1 Mei 2025 17:15:47",
         "Penulis": "Rebot"
     },
     {
         "Judul": "Serikat Pekerja Beri Enam Tuntutan, Begini Jawaban Prabowo",
         "Link": "https://news.republika.co.id/berita/svkodx484/serikat-pekerja-beri-enam-tuntutan-begini-jawaban-prabowo",
         "Kategori": "News",
-        "Waktu Terbit": "1 Mei 2025 15:15:48",
-        "Waktu Scrapping": "1 Mei 2025 16:15:48",
+        "Waktu Terbit": "1 Mei 2025 15:15:47",
+        "Waktu Scrapping": "1 Mei 2025 17:15:47",
         "Penulis": "Erik Purnama Putra"
     },
     {
         "Judul": "Sekjen PBB: Bantuan untuk Gaza tak Dapat Dinegosiasikan",
         "Link": "https://khazanah.republika.co.id/berita/svkocw483/sekjen-pbb-bantuan-untuk-gaza-tak-dapat-dinegosiasikan",
         "Kategori": "Khazanah",
-        "Waktu Terbit": "1 Mei 2025 15:15:49",
-        "Waktu Scrapping": "1 Mei 2025 16:15:49",
+        "Waktu Terbit": "1 Mei 2025 15:15:48",
+        "Waktu Scrapping": "1 Mei 2025 17:15:48",
         "Penulis": "A.Syalaby Ichsan"
     },
     {
@@ -212,7 +308,7 @@
         "Link": "https://news.republika.co.id/berita/svkocg1817626266/prakiraan-cuaca-besok-di-kota-jakarta-dan-sekitarnya-hujan-ringan-pada-dini-hari-2-mei-2025",
         "Kategori": "News",
         "Waktu Terbit": "1 Mei 2025 15:15:49",
-        "Waktu Scrapping": "1 Mei 2025 16:15:49",
+        "Waktu Scrapping": "1 Mei 2025 17:15:49",
         "Penulis": "Rebot"
     },
     {
@@ -220,15 +316,15 @@
         "Link": "https://news.republika.co.id/berita/svkocd409/menlu-ungkap-angkatan-bersenjata-pakistan-dalam-status-waspada",
         "Kategori": "News",
         "Waktu Terbit": "1 Mei 2025 15:15:50",
-        "Waktu Scrapping": "1 Mei 2025 16:15:50",
+        "Waktu Scrapping": "1 Mei 2025 17:15:50",
         "Penulis": "Andri Saubani"
     },
     {
         "Judul": "Amankan Hari Buruh, Personel Polda Jateng Diinstruksikan tak Bawa Senjata Api",
         "Link": "https://news.republika.co.id/berita/svko10425/amankan-hari-buruh-personel-polda-jateng-diinstruksikan-tak-bawa-senjata-api",
         "Kategori": "News",
-        "Waktu Terbit": "1 Mei 2025 14:15:51",
-        "Waktu Scrapping": "1 Mei 2025 16:15:51",
+        "Waktu Terbit": "1 Mei 2025 14:15:50",
+        "Waktu Scrapping": "1 Mei 2025 17:15:50",
         "Penulis": "Qommarria Rostanti"
     },
     {
@@ -236,7 +332,7 @@
         "Link": "https://ekonomi.republika.co.id/berita/svknvw370/thailand-hendak-minta-keringanan-tarif-sama-dengan-pesaing",
         "Kategori": "Ekonomi",
         "Waktu Terbit": "1 Mei 2025 14:15:51",
-        "Waktu Scrapping": "1 Mei 2025 16:15:51",
+        "Waktu Scrapping": "1 Mei 2025 17:15:51",
         "Penulis": "Friska Yolandha"
     },
     {
@@ -244,7 +340,7 @@
         "Link": "https://news.republika.co.id/berita/svknof425/buruh-mulai-tinggalkan-kawasan-monas",
         "Kategori": "News",
         "Waktu Terbit": "1 Mei 2025 14:15:52",
-        "Waktu Scrapping": "1 Mei 2025 16:15:52",
+        "Waktu Scrapping": "1 Mei 2025 17:15:52",
         "Penulis": "Qommarria Rostanti"
     },
     {
@@ -252,7 +348,7 @@
         "Link": "https://news.republika.co.id/berita/svknic1794030522/prakiraan-cuaca-besok-tanggal-2-mei-2025-daerah-bekasi-dan-sekitarnya",
         "Kategori": "News",
         "Waktu Terbit": "1 Mei 2025 14:15:53",
-        "Waktu Scrapping": "1 Mei 2025 16:15:53",
+        "Waktu Scrapping": "1 Mei 2025 17:15:53",
         "Penulis": "Rebot"
     },
     {
@@ -260,7 +356,7 @@
         "Link": "https://khazanah.republika.co.id/berita/svknhv483/aher-minta-aksi-boikot-produk-israel-dilanjutkan-upaya-menekan-ekonomi-zionis",
         "Kategori": "Khazanah",
         "Waktu Terbit": "1 Mei 2025 14:15:53",
-        "Waktu Scrapping": "1 Mei 2025 16:15:53",
+        "Waktu Scrapping": "1 Mei 2025 17:15:53",
         "Penulis": "A.Syalaby Ichsan"
     },
     {
@@ -268,135 +364,39 @@
         "Link": "https://khazanah.republika.co.id/berita/svkn5x483/korban-terus-berjatuhan-akibat-kebakaran-dahsyat-di-israel",
         "Kategori": "Khazanah",
         "Waktu Terbit": "1 Mei 2025 14:15:54",
-        "Waktu Scrapping": "1 Mei 2025 16:15:54",
+        "Waktu Scrapping": "1 Mei 2025 17:15:54",
         "Penulis": "A.Syalaby Ichsan"
     },
     {
         "Judul": "DLH DKI Terjunkan 1.050 Petugas Jaga Kebersihan Saat Peringatan Hari Buruh",
         "Link": "https://esgnow.republika.co.id/berita/svkmxh425/dlh-dki-terjunkan-1050-petugas-jaga-kebersihan-saat-peringatan-hari-buruh",
         "Kategori": "Esgnow",
-        "Waktu Terbit": "1 Mei 2025 14:15:55",
-        "Waktu Scrapping": "1 Mei 2025 16:15:55",
+        "Waktu Terbit": "1 Mei 2025 14:15:54",
+        "Waktu Scrapping": "1 Mei 2025 17:15:54",
         "Penulis": "Qommarria Rostanti"
     },
     {
         "Judul": "Elon Musk Dikabarkan tak lagi Jadi CEO, Ini kata Tesla",
         "Link": "https://ekonomi.republika.co.id/berita/svkmw5468/elon-musk-dikabarkan-tak-lagi-jadi-ceo-ini-kata-tesla",
         "Kategori": "Ekonomi",
-        "Waktu Terbit": "1 Mei 2025 14:15:56",
-        "Waktu Scrapping": "1 Mei 2025 16:15:56",
+        "Waktu Terbit": "1 Mei 2025 14:15:55",
+        "Waktu Scrapping": "1 Mei 2025 17:15:55",
         "Penulis": "Firkah Fansuri"
     },
     {
         "Judul": "Menteri ESDM Tinjau PHM, Produksi Energi Nasional Siap Digenjot",
         "Link": "https://ekonomi.republika.co.id/berita/svkmtw368/menteri-esdm-tinjau-phm-produksi-energi-nasional-siap-digenjot",
         "Kategori": "Ekonomi",
-        "Waktu Terbit": "1 Mei 2025 14:15:58",
-        "Waktu Scrapping": "1 Mei 2025 16:15:58",
+        "Waktu Terbit": "1 Mei 2025 14:15:56",
+        "Waktu Scrapping": "1 Mei 2025 17:15:56",
         "Penulis": "Dwi Murdaningsih"
     },
     {
         "Judul": "Juru Bicara Pemerintah: Antara Suara Negara dan Kepercayaan Publik",
         "Link": "https://retizen.republika.co.id/posts/522892/juru-bicara-pemerintah-antara-suara-negara-dan-kepercayaan-publik",
         "Kategori": "Retizen",
-        "Waktu Terbit": "1 Mei 2025 14:15:58",
-        "Waktu Scrapping": "1 Mei 2025 16:15:58",
+        "Waktu Terbit": "1 Mei 2025 14:15:57",
+        "Waktu Scrapping": "1 Mei 2025 17:15:57",
         "Penulis": "-"
-    },
-    {
-        "Judul": "Apel Bukan Sekadar Buah:  Ini Rahasia Kesehatan di Balik Warnanya",
-        "Link": "https://retizen.republika.co.id/posts/522911/apel-bukan-sekadar-buah-ini-rahasia-kesehatan-di-balik-warnanya",
-        "Kategori": "Retizen",
-        "Waktu Terbit": "1 Mei 2025 14:16:00",
-        "Waktu Scrapping": "1 Mei 2025 16:16:00",
-        "Penulis": "-"
-    },
-    {
-        "Judul": "Intergrasi Akuntansi Syariah dalam Sistem Keuangan Digital",
-        "Link": "https://retizen.republika.co.id/posts/522924/intergrasi-akuntansi-syariah-dalam-sistem-keuangan-digital",
-        "Kategori": "Retizen",
-        "Waktu Terbit": "1 Mei 2025 14:16:00",
-        "Waktu Scrapping": "1 Mei 2025 16:16:00",
-        "Penulis": "-"
-    },
-    {
-        "Judul": "Menilai Sastra: Menjelajahi Kritik Moral dan Filosofis",
-        "Link": "https://retizen.republika.co.id/posts/522931/menilai-sastra-menjelajahi-kritik-moral-dan-filosofis",
-        "Kategori": "Retizen",
-        "Waktu Terbit": "1 Mei 2025 14:16:01",
-        "Waktu Scrapping": "1 Mei 2025 16:16:01",
-        "Penulis": "-"
-    },
-    {
-        "Judul": "Premanisme: Ketika Kekuasaan Tanpa Etika Menjadi Gaya Hidup",
-        "Link": "https://retizen.republika.co.id/posts/522926/premanisme-ketika-kekuasaan-tanpa-etika-menjadi-gaya-hidup",
-        "Kategori": "Retizen",
-        "Waktu Terbit": "1 Mei 2025 14:16:02",
-        "Waktu Scrapping": "1 Mei 2025 16:16:02",
-        "Penulis": "-"
-    },
-    {
-        "Judul": "Puncak Haji Diperkirakan 5 Juni 2025 dalam Kondisi Cuaca Panas",
-        "Link": "https://khazanah.republika.co.id/berita/svkmhs366/puncak-haji-diperkirakan-5-juni-2025-dalam-kondisi-cuaca-panas",
-        "Kategori": "Khazanah",
-        "Waktu Terbit": "1 Mei 2025 14:16:04",
-        "Waktu Scrapping": "1 Mei 2025 16:16:04",
-        "Penulis": "Ani Nursalikah"
-    },
-    {
-        "Judul": "Sri Mulyani Sebut Sektor Pertanian Jadi Kekuatan Ekonomi di Tengah Guncangan Global",
-        "Link": "https://ekonomi.republika.co.id/berita/svkmfx368/sri-mulyani-sebut-sektor-pertanian-jadi-kekuatan-ekonomi-di-tengah-guncangan-global",
-        "Kategori": "Ekonomi",
-        "Waktu Terbit": "1 Mei 2025 14:16:04",
-        "Waktu Scrapping": "1 Mei 2025 16:16:04",
-        "Penulis": "Dwi Murdaningsih"
-    },
-    {
-        "Judul": "Luka Doncic Belum Mampu Tolong Lakers, Didepak Timberwolves di Playoff NBA",
-        "Link": "https://news.republika.co.id/berita/svkmfx348/luka-doncic-belum-mampu-tolong-lakers-didepak-timberwolves-di-playoff-nba",
-        "Kategori": "News",
-        "Waktu Terbit": "1 Mei 2025 14:16:05",
-        "Waktu Scrapping": "1 Mei 2025 16:16:05",
-        "Penulis": "Israr Itah"
-    },
-    {
-        "Judul": "Prakiraan Cuaca Besok 02 Mei 2025 di Bogor dan Sukabumi",
-        "Link": "https://news.republika.co.id/berita/svkm4l937828412/prakiraan-cuaca-besok-02-mei-2025-di-bogor-dan-sukabumi",
-        "Kategori": "News",
-        "Waktu Terbit": "1 Mei 2025 14:16:07",
-        "Waktu Scrapping": "1 Mei 2025 16:16:07",
-        "Penulis": "Rebot"
-    },
-    {
-        "Judul": "Kloter Pertama Calon Jamaah Haji Embarkasi Lombok Masuk Asrama",
-        "Link": "https://khazanah.republika.co.id/berita/svklr2366/kloter-pertama-calon-jamaah-haji-embarkasi-lombok-masuk-asrama",
-        "Kategori": "Khazanah",
-        "Waktu Terbit": "1 Mei 2025 14:16:07",
-        "Waktu Scrapping": "1 Mei 2025 16:16:07",
-        "Penulis": "Ani Nursalikah"
-    },
-    {
-        "Judul": "Korban Predator Seks Jepara Ada Kemungkinan Bertambah",
-        "Link": "https://news.republika.co.id/berita/svklqu348/korban-predator-seks-jepara-ada-kemungkinan-bertambah",
-        "Kategori": "News",
-        "Waktu Terbit": "1 Mei 2025 14:16:08",
-        "Waktu Scrapping": "1 Mei 2025 16:16:08",
-        "Penulis": "Israr Itah"
-    },
-    {
-        "Judul": "Perjuangan Buruh, Said Iqbal: 100 Ribu Buruh Dibantai, Selokan Penuh Darah",
-        "Link": "https://news.republika.co.id/berita/svklqq451/perjuangan-buruh-said-iqbal-100-ribu-buruh-dibantai-selokan-penuh-darah",
-        "Kategori": "News",
-        "Waktu Terbit": "1 Mei 2025 14:16:09",
-        "Waktu Scrapping": "1 Mei 2025 16:16:09",
-        "Penulis": "Erdy Nasrul"
-    },
-    {
-        "Judul": "Hari Buruh: Saatnya Status Mitra Ojek Online Diubah Demi Hak Pengemudi dan Kurir Online",
-        "Link": "https://analisis.republika.co.id/berita/svklpw415/hari-buruh-saatnya-status-mitra-ojek-online-diubah-demi-hak-pengemudi-dan-kurir-online",
-        "Kategori": "Kolom",
-        "Waktu Terbit": "1 Mei 2025 14:16:09",
-        "Waktu Scrapping": "1 Mei 2025 16:16:09",
-        "Penulis": "Budi Raharjo"
     }
 ]
