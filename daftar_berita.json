@@ -1,122 +1,266 @@
 [
     {
+        "Judul": "Megawati Beri Arahan untuk Ratusan Kepala Daerah PDIP",
+        "Link": "https://visual.republika.co.id/berita/swcs05375/megawati-beri-arahan-untuk-ratusan-kepala-daerah-pdip",
+        "Kategori": "Visual",
+        "Waktu Terbit": "16 Mei 2025 19:30:00",
+        "Waktu Scrapping": "16 Mei 2025 19:30:11",
+        "Penulis": "Edwin Dwi Putranto"
+    },
+    {
+        "Judul": "Menabung Tiap Hari, Pedagang Kue di Indramayu Naik Haji",
+        "Link": "https://khazanah.republika.co.id/berita/swctag430/menabung-tiap-hari-pedagang-kue-di-indramayu-naik-haji",
+        "Kategori": "Khazanah",
+        "Waktu Terbit": "16 Mei 2025 19:28:12",
+        "Waktu Scrapping": "16 Mei 2025 19:30:12",
+        "Penulis": "Muhammad Hafil"
+    },
+    {
+        "Judul": "Polda Jateng Bongkar Jaringan Wartawan Gadungan Biasa Lakukan Pemerasan Ratusan Juta Rupiah",
+        "Link": "https://rejogja.republika.co.id/berita/swct97282/polda-jateng-bongkar-jaringan-wartawan-gadungan-biasa-lakukan-pemerasan-ratusan-juta-rupiah",
+        "Kategori": "Rejogja",
+        "Waktu Terbit": "16 Mei 2025 19:27:14",
+        "Waktu Scrapping": "16 Mei 2025 19:30:14",
+        "Penulis": "Karta Raharja Ucu"
+    },
+    {
+        "Judul": "Forel-Terubuk Resmi Produksi, Investasi Migas Nasional Capai Rp 10 Triliun",
+        "Link": "https://ekonomi.republika.co.id/berita/swct33370/forelterubuk-resmi-produksi-investasi-migas-nasional-capai-rp-10-triliun",
+        "Kategori": "Ekonomi",
+        "Waktu Terbit": "16 Mei 2025 19:23:15",
+        "Waktu Scrapping": "16 Mei 2025 19:30:15",
+        "Penulis": "Friska Yolandha"
+    },
+    {
+        "Judul": "Ganjar Tepis Anggapan DPP Kumpulkan Kepala Daerah dari PDIP untuk Kepentingan Kongres",
+        "Link": "https://news.republika.co.id/berita/swcss7409/ganjar-tepis-anggapan-dpp-kumpulkan-kepala-daerah-dari-pdip-untuk-kepentingan-kongres",
+        "Kategori": "News",
+        "Waktu Terbit": "16 Mei 2025 19:17:17",
+        "Waktu Scrapping": "16 Mei 2025 19:30:17",
+        "Penulis": "Andri Saubani"
+    },
+    {
+        "Judul": "Komisaris dan Dewan Syariah BSI Kini Diperkuat Tokoh Muhammadiyah dan NU",
+        "Link": "https://sharia.republika.co.id/berita/swcsq3423/komisaris-dan-dewan-syariah-bsi-kini-diperkuat-tokoh-muhammadiyah-dan-nu",
+        "Kategori": "Ekonomi Syariah",
+        "Waktu Terbit": "16 Mei 2025 19:15:18",
+        "Waktu Scrapping": "16 Mei 2025 19:30:18",
+        "Penulis": "Gita Amanda"
+    },
+    {
+        "Judul": "Indonesia Bergerak Menuju Zero Talasemia, Kementerian Kesehatan dan Dua Yayasan Pimpin Aksi Nyata",
+        "Link": "https://ruzkaindonesia.id/posts/525602/indonesia-bergerak-menuju-zero-talasemia-kementerian-kesehatan-dan-dua-yayasan-pimpin-aksi-nyata",
+        "Kategori": "Network",
+        "Waktu Terbit": "16 Mei 2025 19:09:19",
+        "Waktu Scrapping": "16 Mei 2025 19:30:19",
+        "Penulis": "-"
+    },
+    {
+        "Judul": "Wali Kota Yogya Pastikan Relokasi Jukir-Pedagang ABA Hanya di Lahan Eks Menara Coffee Kotabaru",
+        "Link": "https://rejogja.republika.co.id/berita/swcsdi282/wali-kota-yogya-pastikan-relokasi-jukirpedagang-aba-hanya-di-lahan-eks-menara-coffee-kotabaru",
+        "Kategori": "Rejogja",
+        "Waktu Terbit": "16 Mei 2025 19:08:21",
+        "Waktu Scrapping": "16 Mei 2025 19:30:21",
+        "Penulis": "Karta Raharja Ucu"
+    },
+    {
+        "Judul": "Menteri: Ketimbang Dipidana, Lebih Baik UMKM yang Langgar Aturan Disanksi",
+        "Link": "https://ekonomi.republika.co.id/berita/swcscr370/menteri-ketimbang-dipidana-lebih-baik-umkm-yang-langgar-aturan-disanksi",
+        "Kategori": "Ekonomi",
+        "Waktu Terbit": "16 Mei 2025 19:07:22",
+        "Waktu Scrapping": "16 Mei 2025 19:30:22",
+        "Penulis": "Friska Yolandha"
+    },
+    {
+        "Judul": "Dukung Ketahanan Pangan Nasional, Kapolri dan Mentan Panen Jagung",
+        "Link": "https://news.republika.co.id/berita/swcs9p484/dukung-ketahanan-pangan-nasional-kapolri-dan-mentan-panen-jagung",
+        "Kategori": "News",
+        "Waktu Terbit": "16 Mei 2025 19:06:22",
+        "Waktu Scrapping": "16 Mei 2025 19:30:22",
+        "Penulis": "Erik Purnama Putra"
+    },
+    {
+        "Judul": "Harga Emas Tembus 3.200 Dolar AS, Pakar: Faktor Geopolitik Jadi Pemicu Utama",
+        "Link": "https://ekonomi.republika.co.id/berita/swcs8g423/harga-emas-tembus-3200-dolar-as-pakar-faktor-geopolitik-jadi-pemicu-utama",
+        "Kategori": "Ekonomi",
+        "Waktu Terbit": "16 Mei 2025 19:05:23",
+        "Waktu Scrapping": "16 Mei 2025 19:30:23",
+        "Penulis": "Gita Amanda"
+    },
+    {
+        "Judul": "Lapuk Dimakan Usia, Bangunan SDN Kutorenon 3 Lumajang Ambruk",
+        "Link": "https://visual.republika.co.id/berita/swcknh375/lapuk-dimakan-usia-bangunan-sdn-kutorenon-3-lumajang-ambruk",
+        "Kategori": "Visual",
+        "Waktu Terbit": "16 Mei 2025 19:00:24",
+        "Waktu Scrapping": "16 Mei 2025 19:30:24",
+        "Penulis": "Edwin Dwi Putranto"
+    },
+    {
+        "Judul": "Bandara Adi Soemarmo Diproyeksikan Jadi Bandara Haji dan Umrah",
+        "Link": "https://rejogja.republika.co.id/berita/swcrzu282/bandara-adi-soemarmo-diproyeksikan-jadi-bandara-haji-dan-umrah",
+        "Kategori": "Rejogja",
+        "Waktu Terbit": "16 Mei 2025 19:00:24",
+        "Waktu Scrapping": "16 Mei 2025 19:30:24",
+        "Penulis": "Karta Raharja Ucu"
+    },
+    {
+        "Judul": "Ditunjuk Jadi Komisaris Utama BSI, Ini Profil dan Kekayaan Muhadjir Effendy",
+        "Link": "https://sharia.republika.co.id/berita/swcrtl423/ditunjuk-jadi-komisaris-utama-bsi-ini-profil-dan-kekayaan-muhadjir-effendy",
+        "Kategori": "Ekonomi Syariah",
+        "Waktu Terbit": "16 Mei 2025 18:56:24",
+        "Waktu Scrapping": "16 Mei 2025 19:30:24",
+        "Penulis": "Gita Amanda"
+    },
+    {
+        "Judul": "Dukung Ketahanan Pangan, Kapolri Kerahkan Personel Dampingi Petani",
+        "Link": "https://ekonomi.republika.co.id/berita/swcres416/dukung-ketahanan-pangan-kapolri-kerahkan-personel-dampingi-petani",
+        "Kategori": "Ekonomi",
+        "Waktu Terbit": "16 Mei 2025 18:47:25",
+        "Waktu Scrapping": "16 Mei 2025 19:30:25",
+        "Penulis": "Satria K Yudha"
+    },
+    {
+        "Judul": "Kekayaan Dirut Baru BSI Anggoro Eko Capai Rp 65,78 Miliar, Ini Rinciannya",
+        "Link": "https://sharia.republika.co.id/berita/swcr8p423/kekayaan-dirut-baru-bsi-anggoro-eko-capai-rp-6578-miliar-ini-rinciannya",
+        "Kategori": "Ekonomi Syariah",
+        "Waktu Terbit": "16 Mei 2025 18:43:26",
+        "Waktu Scrapping": "16 Mei 2025 19:30:26",
+        "Penulis": "Gita Amanda"
+    },
+    {
+        "Judul": "Wartawan Cum Sastrawan Terbitkan Sastra Novel Terbarunya",
+        "Link": "https://news.republika.co.id/berita/swcr8d484/wartawan-cum-sastrawan-terbitkan-sastra-novel-terbarunya",
+        "Kategori": "News",
+        "Waktu Terbit": "16 Mei 2025 18:43:26",
+        "Waktu Scrapping": "16 Mei 2025 19:30:26",
+        "Penulis": "Erik Purnama Putra"
+    },
+    {
+        "Judul": "Warga KBB Diduga Terlibat Penyelenggaraan Haji Ilegal Ditangkap di Arab, Ini Penjelasan Kemenag KBB",
+        "Link": "https://rejabar.republika.co.id/berita/swcqkr512/warga-kbb-diduga-terlibat-penyelenggaraan-haji-ilegal-ditangkap-di-arab-ini-penjelasan-kemenag-kbb",
+        "Kategori": "Rejabar",
+        "Waktu Terbit": "16 Mei 2025 18:30:27",
+        "Waktu Scrapping": "16 Mei 2025 19:30:27",
+        "Penulis": "Arie Lukihardianti"
+    },
+    {
         "Judul": "Mencicipi Berbagai Kue di Ajang Festival Dessert Week di Bandung",
         "Link": "https://rejabar.republika.co.id/berita/swcpsm512/mencicipi-berbagai-kue-di-ajang-festival-dessert-week-di-bandung",
         "Kategori": "Rejabar",
-        "Waktu Terbit": "16 Mei 2025 18:12:22",
-        "Waktu Scrapping": "16 Mei 2025 18:12:27",
+        "Waktu Terbit": "16 Mei 2025 18:30:28",
+        "Waktu Scrapping": "16 Mei 2025 19:30:28",
         "Penulis": "Arie Lukihardianti"
     },
     {
         "Judul": "Pertahankan Marwah DPRD, Fraksi PDIP Walk Out di Rapat Paripurna",
         "Link": "https://rejabar.republika.co.id/berita/swcpsg472/pertahankan-marwah-dprd-fraksi-pdip-walk-out-di-rapat-paripurna",
         "Kategori": "Rejabar",
-        "Waktu Terbit": "16 Mei 2025 18:12:17",
-        "Waktu Scrapping": "16 Mei 2025 18:12:28",
+        "Waktu Terbit": "16 Mei 2025 18:30:29",
+        "Waktu Scrapping": "16 Mei 2025 19:30:29",
         "Penulis": "Ferry Kisihandi"
     },
     {
         "Judul": "Prabowo Inaugurates Natuna Oil Field, Targets Energy Self-Sufficiency",
         "Link": "https://en.republika.co.id/berita/swcphn415/prabowo-inaugurates-natuna-oil-field-targets-energy-selfsufficiency",
         "Kategori": "En",
-        "Waktu Terbit": "16 Mei 2025 18:05:29",
-        "Waktu Scrapping": "16 Mei 2025 18:12:29",
+        "Waktu Terbit": "16 Mei 2025 18:30:31",
+        "Waktu Scrapping": "16 Mei 2025 19:30:31",
         "Penulis": "Budi Raharjo"
     },
     {
         "Judul": "Sisa Tiket Indonesia Vs China akan Dijual di Situs Kita Garuda ID pada 19 Mei",
         "Link": "https://news.republika.co.id/berita/swcpfc409/sisa-tiket-indonesia-vs-china-akan-dijual-di-situs-kita-garuda-id-pada-19-mei",
         "Kategori": "News",
-        "Waktu Terbit": "16 Mei 2025 18:04:30",
-        "Waktu Scrapping": "16 Mei 2025 18:12:30",
+        "Waktu Terbit": "16 Mei 2025 18:30:31",
+        "Waktu Scrapping": "16 Mei 2025 19:30:31",
         "Penulis": "Andri Saubani"
     },
     {
         "Judul": "Muhadjir Effendy Resmi Jadi Komisaris Utama BSI",
         "Link": "https://sharia.republika.co.id/berita/swcpda423/muhadjir-effendy-resmi-jadi-komisaris-utama-bsi",
         "Kategori": "Ekonomi Syariah",
-        "Waktu Terbit": "16 Mei 2025 18:03:31",
-        "Waktu Scrapping": "16 Mei 2025 18:12:31",
+        "Waktu Terbit": "16 Mei 2025 18:30:32",
+        "Waktu Scrapping": "16 Mei 2025 19:30:32",
         "Penulis": "Gita Amanda"
     },
     {
         "Judul": "Semangat Anak Disabilitas Belajar Alquran Bahasa Isyarat",
         "Link": "https://visual.republika.co.id/berita/swckis375/semangat-anak-disabilitas-belajar-alquran-bahasa-isyarat",
         "Kategori": "Visual",
-        "Waktu Terbit": "16 Mei 2025 18:00:32",
-        "Waktu Scrapping": "16 Mei 2025 18:12:32",
+        "Waktu Terbit": "16 Mei 2025 17:30:33",
+        "Waktu Scrapping": "16 Mei 2025 19:30:33",
         "Penulis": "Edwin Dwi Putranto"
     },
     {
         "Judul": "80 Ribu Kopdes Merah Putih Ditargetkan Beroperasi pada 28 Oktober",
         "Link": "https://ekonomi.republika.co.id/berita/swcp3m370/80-ribu-kopdes-merah-putih-ditargetkan-beroperasi-pada-28-oktober",
         "Kategori": "Ekonomi",
-        "Waktu Terbit": "16 Mei 2025 17:57:33",
-        "Waktu Scrapping": "16 Mei 2025 18:12:33",
+        "Waktu Terbit": "16 Mei 2025 17:30:35",
+        "Waktu Scrapping": "16 Mei 2025 19:30:35",
         "Penulis": "Friska Yolandha"
     },
     {
         "Judul": "Zero Fluoroscopy: Mengatasi Kebocoran Jantung Tanpa Radiasi",
         "Link": "https://ameera.republika.co.id/berita/swcoyh349/zero-fluoroscopy-mengatasi-kebocoran-jantung-tanpa-radiasi",
         "Kategori": "Ameera",
-        "Waktu Terbit": "16 Mei 2025 17:54:34",
-        "Waktu Scrapping": "16 Mei 2025 18:12:34",
+        "Waktu Terbit": "16 Mei 2025 17:30:36",
+        "Waktu Scrapping": "16 Mei 2025 19:30:36",
         "Penulis": "Ichsan Emrald Alamsyah"
     },
     {
         "Judul": "Kemenhut Libatkan Pers Sukseskan FOLU Net Sink 2030",
         "Link": "https://esgnow.republika.co.id/berita/swcoxl416/kemenhut-libatkan-pers-sukseskan-folu-net-sink-2030",
         "Kategori": "Esgnow",
-        "Waktu Terbit": "16 Mei 2025 17:53:35",
-        "Waktu Scrapping": "16 Mei 2025 18:12:35",
+        "Waktu Terbit": "16 Mei 2025 17:30:36",
+        "Waktu Scrapping": "16 Mei 2025 19:30:36",
         "Penulis": "Satria K Yudha"
     },
     {
         "Judul": "Geger Grup FB Fantasi Sedarah, Polisi Turun Tangan",
         "Link": "https://news.republika.co.id/berita/swcom9425/geger-grup-fb-fantasi-sedarah-polisi-turun-tangan",
         "Kategori": "News",
-        "Waktu Terbit": "16 Mei 2025 17:46:36",
-        "Waktu Scrapping": "16 Mei 2025 18:12:36",
+        "Waktu Terbit": "16 Mei 2025 17:30:38",
+        "Waktu Scrapping": "16 Mei 2025 19:30:38",
         "Penulis": "Qommarria Rostanti"
     },
     {
         "Judul": "Ratusan Guru Besar FKUI Sampaikan Kritik Kebijakan Kemenkes, Ini Poin Protesnya",
         "Link": "https://news.republika.co.id/berita/swcobe484/ratusan-guru-besar-fkui-sampaikan-kritik-kebijakan-kemenkes-ini-poin-protesnya",
         "Kategori": "News",
-        "Waktu Terbit": "16 Mei 2025 17:40:37",
-        "Waktu Scrapping": "16 Mei 2025 18:12:37",
+        "Waktu Terbit": "16 Mei 2025 17:30:38",
+        "Waktu Scrapping": "16 Mei 2025 19:30:38",
         "Penulis": "Erik Purnama Putra"
     },
     {
         "Judul": "Toyota Eco Youth Dukung Inovasi Drone Nol Emisi SMAN 2 Painan untuk Kurangi Polusi",
         "Link": "https://news.republika.co.id/berita/swcoa0349/toyota-eco-youth-dukung-inovasi-drone-nol-emisi-sman-2-painan-untuk-kurangi-polusi",
         "Kategori": "News",
-        "Waktu Terbit": "16 Mei 2025 17:39:38",
-        "Waktu Scrapping": "16 Mei 2025 18:12:38",
+        "Waktu Terbit": "16 Mei 2025 17:30:39",
+        "Waktu Scrapping": "16 Mei 2025 19:30:39",
         "Penulis": "Ichsan Emrald Alamsyah"
     },
     {
         "Judul": "Jurus Awet Muda Ala Titi DJ, Diapain Ya?",
         "Link": "https://ameera.republika.co.id/berita/swco7a425/jurus-awet-muda-ala-titi-dj-diapain-ya",
         "Kategori": "Ameera",
-        "Waktu Terbit": "16 Mei 2025 17:38:39",
-        "Waktu Scrapping": "16 Mei 2025 18:12:39",
+        "Waktu Terbit": "16 Mei 2025 17:30:39",
+        "Waktu Scrapping": "16 Mei 2025 19:30:39",
         "Penulis": "Qommarria Rostanti"
     },
     {
         "Judul": "Prakiraan Cuaca Besok 25 Oktober 2023: Kota Balikpapan Cerah",
         "Link": "https://news.republika.co.id/berita/swco2v1026115835/prakiraan-cuaca-besok-25-oktober-2023-kota-balikpapan-cerah",
         "Kategori": "News",
-        "Waktu Terbit": "16 Mei 2025 17:35:40",
-        "Waktu Scrapping": "16 Mei 2025 18:12:40",
+        "Waktu Terbit": "16 Mei 2025 17:30:40",
+        "Waktu Scrapping": "16 Mei 2025 19:30:40",
         "Penulis": "Rebot"
     },
     {
         "Judul": "Mantan Dirut BPJS Ketenagakerjaan Pimpin BSI, Ini Susunan Direksi Lengkapnya",
-        "Link": "https://ekonomi.republika.co.id/berita/swco2o423/mantan-dirut-bpjs-ketenagakerjaan-pimpin-bsi-ini-susunan-direksi-lengkapnya",
-        "Kategori": "Ekonomi",
-        "Waktu Terbit": "16 Mei 2025 17:35:41",
-        "Waktu Scrapping": "16 Mei 2025 18:12:41",
+        "Link": "https://sharia.republika.co.id/berita/swco2o423/mantan-dirut-bpjs-ketenagakerjaan-pimpin-bsi-ini-susunan-direksi-lengkapnya",
+        "Kategori": "Ekonomi Syariah",
+        "Waktu Terbit": "16 Mei 2025 17:30:41",
+        "Waktu Scrapping": "16 Mei 2025 19:30:41",
         "Penulis": "Gita Amanda"
     },
     {
@@ -124,279 +268,135 @@
         "Link": "https://ekonomi.republika.co.id/berita/swcnuq423/menkomdigi-bahas-phk-jurnalis-siapkan-langkah-bersama-menaker",
         "Kategori": "Ekonomi",
         "Waktu Terbit": "16 Mei 2025 17:30:42",
-        "Waktu Scrapping": "16 Mei 2025 18:12:42",
+        "Waktu Scrapping": "16 Mei 2025 19:30:42",
         "Penulis": "Gita Amanda"
     },
     {
         "Judul": "CIMB Niaga Gelar Malam Kejar Mimpi di Pontianak, Soroti Potensi Ekonomi Kalbar",
         "Link": "https://ekonomi.republika.co.id/berita/swcnqw349/cimb-niaga-gelar-malam-kejar-mimpi-di-pontianak-soroti-potensi-ekonomi-kalbar",
         "Kategori": "Ekonomi",
-        "Waktu Terbit": "16 Mei 2025 17:28:43",
-        "Waktu Scrapping": "16 Mei 2025 18:12:43",
+        "Waktu Terbit": "16 Mei 2025 17:30:43",
+        "Waktu Scrapping": "16 Mei 2025 19:30:43",
         "Penulis": "Ichsan Emrald Alamsyah"
     },
     {
         "Judul": "Jamaah Haji Satu Kloter Berbeda Syarikah Diminta Diberikan Tanda Khusus",
         "Link": "https://khazanah.republika.co.id/berita/swcno7483/jamaah-haji-satu-kloter-berbeda-syarikah-diminta-diberikan-tanda-khusus",
         "Kategori": "Khazanah",
-        "Waktu Terbit": "16 Mei 2025 17:26:44",
-        "Waktu Scrapping": "16 Mei 2025 18:12:44",
+        "Waktu Terbit": "16 Mei 2025 17:30:43",
+        "Waktu Scrapping": "16 Mei 2025 19:30:43",
         "Penulis": "A.Syalaby Ichsan"
     },
     {
         "Judul": "Kemkomdigi Blokir Grup-Grup Terkait 'Fantasi Sedarah' di Facebook",
         "Link": "https://news.republika.co.id/berita/swcnjo409/kemkomdigi-blokir-grupgrup-terkait-fantasi-sedarah-di-facebook",
         "Kategori": "News",
-        "Waktu Terbit": "16 Mei 2025 17:23:46",
-        "Waktu Scrapping": "16 Mei 2025 18:12:46",
+        "Waktu Terbit": "16 Mei 2025 17:30:44",
+        "Waktu Scrapping": "16 Mei 2025 19:30:44",
         "Penulis": "Andri Saubani"
     },
     {
         "Judul": "BSI Bagikan Dividen Rp 1,05 Triliun, Segini Nilainya per Saham",
         "Link": "https://sharia.republika.co.id/berita/swcnec370/bsi-bagikan-dividen-rp-105-triliun-segini-nilainya-per-saham",
         "Kategori": "Ekonomi Syariah",
-        "Waktu Terbit": "16 Mei 2025 17:20:46",
-        "Waktu Scrapping": "16 Mei 2025 18:12:46",
+        "Waktu Terbit": "16 Mei 2025 17:30:44",
+        "Waktu Scrapping": "16 Mei 2025 19:30:44",
         "Penulis": "Friska Yolandha"
     },
     {
         "Judul": "Heboh Grup Inses 'Fantasi Sedarah' di Facebook, Polisi Didesak Lakukan Pengusutan",
         "Link": "https://news.republika.co.id/berita/swcnar409/heboh-grup-inses-fantasi-sedarah-di-facebook-polisi-didesak-lakukan-pengusutan",
         "Kategori": "News",
-        "Waktu Terbit": "16 Mei 2025 17:18:48",
-        "Waktu Scrapping": "16 Mei 2025 18:12:48",
+        "Waktu Terbit": "16 Mei 2025 17:30:45",
+        "Waktu Scrapping": "16 Mei 2025 19:30:45",
         "Penulis": "Andri Saubani"
     },
     {
         "Judul": "Berapa Durasi Tidur Ideal untuk Anak?",
         "Link": "https://ameera.republika.co.id/berita/swcn7u425/berapa-durasi-tidur-ideal-untuk-anak",
         "Kategori": "Ameera",
-        "Waktu Terbit": "16 Mei 2025 17:16:49",
-        "Waktu Scrapping": "16 Mei 2025 18:12:49",
+        "Waktu Terbit": "16 Mei 2025 17:30:45",
+        "Waktu Scrapping": "16 Mei 2025 19:30:45",
         "Penulis": "Qommarria Rostanti"
     },
     {
         "Judul": "Prodi Sarjana Akuntansi FEB UMJ Pertahankan Akreditasi Unggul",
         "Link": "https://news.republika.co.id/berita/swcmzv472/prodi-sarjana-akuntansi-feb-umj-pertahankan-akreditasi-unggul",
         "Kategori": "News",
-        "Waktu Terbit": "16 Mei 2025 17:12:50",
-        "Waktu Scrapping": "16 Mei 2025 18:12:50",
+        "Waktu Terbit": "16 Mei 2025 17:30:46",
+        "Waktu Scrapping": "16 Mei 2025 19:30:46",
         "Penulis": "Ferry Kisihandi"
     },
     {
         "Judul": "Perang Tarif Mereda, Rupiah Rebound Tembus Rp 16.445 per Dolar AS",
         "Link": "https://ekonomi.republika.co.id/berita/swcmst423/perang-tarif-mereda-rupiah-rebound-tembus-rp-16445-per-dolar-as",
         "Kategori": "Ekonomi",
-        "Waktu Terbit": "16 Mei 2025 17:12:51",
-        "Waktu Scrapping": "16 Mei 2025 18:12:51",
+        "Waktu Terbit": "16 Mei 2025 17:30:47",
+        "Waktu Scrapping": "16 Mei 2025 19:30:47",
         "Penulis": "Gita Amanda"
     },
     {
         "Judul": "Etihad Resmi Pesan 28 Pesawat Baru, Nilai Transaksi Tembus Rp232 Triliun",
         "Link": "https://ekonomi.republika.co.id/berita/swcmse370/etihad-resmi-pesan-28-pesawat-baru-nilai-transaksi-tembus-rp232-triliun",
         "Kategori": "Ekonomi",
-        "Waktu Terbit": "16 Mei 2025 17:12:52",
-        "Waktu Scrapping": "16 Mei 2025 18:12:52",
+        "Waktu Terbit": "16 Mei 2025 17:30:47",
+        "Waktu Scrapping": "16 Mei 2025 19:30:47",
         "Penulis": "Friska Yolandha"
     },
     {
         "Judul": "Apa Itu Haji Mabrur? Ini Arti, Ciri, dan Cara Meraihnya",
         "Link": "https://retizen.republika.co.id/posts/525544/apa-itu-haji-mabrur-ini-arti-ciri-dan-cara-meraihnya",
         "Kategori": "Retizen",
-        "Waktu Terbit": "16 Mei 2025 17:12:53",
-        "Waktu Scrapping": "16 Mei 2025 18:12:53",
+        "Waktu Terbit": "16 Mei 2025 17:30:48",
+        "Waktu Scrapping": "16 Mei 2025 19:30:48",
         "Penulis": "-"
     },
     {
         "Judul": "Catatan Cak AT: Kelas Kuliah Hukum di Gedung MK",
         "Link": "https://ruzkaindonesia.id/posts/525600/catatan-cak-at-kelas-kuliah-hukum-di-gedung-mk",
         "Kategori": "Network",
-        "Waktu Terbit": "16 Mei 2025 17:12:54",
-        "Waktu Scrapping": "16 Mei 2025 18:12:54",
+        "Waktu Terbit": "16 Mei 2025 17:30:49",
+        "Waktu Scrapping": "16 Mei 2025 19:30:49",
         "Penulis": "-"
     },
     {
         "Judul": "Menggugat Fanatisme: Memahami Islam Tanpa Terjebak pada Ke-Arab-an",
         "Link": "https://retizen.republika.co.id/posts/525553/menggugat-fanatisme-memahami-islam-tanpa-terjebak-pada-ke-arab-an",
         "Kategori": "Retizen",
-        "Waktu Terbit": "16 Mei 2025 17:12:56",
-        "Waktu Scrapping": "16 Mei 2025 18:12:56",
+        "Waktu Terbit": "16 Mei 2025 17:30:51",
+        "Waktu Scrapping": "16 Mei 2025 19:30:51",
         "Penulis": "-"
     },
     {
         "Judul": "Inilah 7 Tips Pengobatan Wasir Secara Alami",
         "Link": "https://retizen.republika.co.id/posts/525549/inilah-7-tips-pengobatan-wasir-secara-alami",
         "Kategori": "Retizen",
-        "Waktu Terbit": "16 Mei 2025 17:12:57",
-        "Waktu Scrapping": "16 Mei 2025 18:12:57",
+        "Waktu Terbit": "16 Mei 2025 17:30:52",
+        "Waktu Scrapping": "16 Mei 2025 19:30:52",
         "Penulis": "-"
     },
     {
         "Judul": "Empat Kiat Jitu Mudah Menghafal Al Quran",
         "Link": "https://retizen.republika.co.id/posts/525528/empat-kiat-jitu-mudah-menghafal-al-quran",
         "Kategori": "Retizen",
-        "Waktu Terbit": "16 Mei 2025 17:12:58",
-        "Waktu Scrapping": "16 Mei 2025 18:12:58",
+        "Waktu Terbit": "16 Mei 2025 17:30:53",
+        "Waktu Scrapping": "16 Mei 2025 19:30:53",
         "Penulis": "-"
     },
     {
         "Judul": "Teka Teki Siapa Kasmudjo Terjawab, Bukan Dosen Pembimbing Skripsi Jokowi, Hanya Asisten Dosen di UGM",
         "Link": "https://rejogja.republika.co.id/berita/swcmif282/teka-teki-siapa-kasmudjo-terjawab-bukan-dosen-pembimbing-skripsi-jokowi-hanya-asisten-dosen-di-ugm",
         "Kategori": "Rejogja",
-        "Waktu Terbit": "16 Mei 2025 17:12:58",
-        "Waktu Scrapping": "16 Mei 2025 18:12:58",
+        "Waktu Terbit": "16 Mei 2025 17:30:54",
+        "Waktu Scrapping": "16 Mei 2025 19:30:54",
         "Penulis": "Karta Raharja Ucu"
     },
     {
         "Judul": "Gebrakan Gubernur Kalimantan Timur: Masjid Jadi Sentra Bina Karakter Pemuda",
         "Link": "https://news.republika.co.id/berita/swcmht451/gebrakan-gubernur-kalimantan-timur-masjid-jadi-sentra-bina-karakter-pemuda",
         "Kategori": "News",
-        "Waktu Terbit": "16 Mei 2025 17:13:00",
-        "Waktu Scrapping": "16 Mei 2025 18:13:00",
+        "Waktu Terbit": "16 Mei 2025 17:30:55",
+        "Waktu Scrapping": "16 Mei 2025 19:30:55",
         "Penulis": "Erdy Nasrul"
-    },
-    {
-        "Judul": "NPL OCBC Hanya 0,7 Persen, Nasabah Sultan tak Main-main Jaga Skor Kredit",
-        "Link": "https://ekonomi.republika.co.id/berita/swcmhs349/npl-ocbc-hanya-07-persen-nasabah-sultan-tak-mainmain-jaga-skor-kredit",
-        "Kategori": "Ekonomi",
-        "Waktu Terbit": "16 Mei 2025 17:13:01",
-        "Waktu Scrapping": "16 Mei 2025 18:13:01",
-        "Penulis": "Ichsan Emrald Alamsyah"
-    },
-    {
-        "Judul": "Setelah Tinggalkan Blok Rokan, Chevron Disebut Bakal Kembali Ngebor Migas RI",
-        "Link": "https://ekonomi.republika.co.id/berita/swcmhn416/setelah-tinggalkan-blok-rokan-chevron-disebut-bakal-kembali-ngebor-migas-ri",
-        "Kategori": "Ekonomi",
-        "Waktu Terbit": "16 Mei 2025 17:13:01",
-        "Waktu Scrapping": "16 Mei 2025 18:13:01",
-        "Penulis": "Satria K Yudha"
-    },
-    {
-        "Judul": "Ratusan Rumah di Jambi Terendam Banjir Luapan Sungai Kenali Asam",
-        "Link": "https://visual.republika.co.id/berita/swcjzs375/ratusan-rumah-di-jambi-terendam-banjir-luapan-sungai-kenali-asam",
-        "Kategori": "Visual",
-        "Waktu Terbit": "16 Mei 2025 17:13:02",
-        "Waktu Scrapping": "16 Mei 2025 18:13:02",
-        "Penulis": "Edwin Dwi Putranto"
-    },
-    {
-        "Judul": "Jamaah Haji Diminta Waspadai Penyakit MERS-CoV di Arab Saudi",
-        "Link": "https://khazanah.republika.co.id/berita/swcm9z430/jamaah-haji-diminta-waspadai-penyakit-merscov-di-arab-saudi",
-        "Kategori": "Khazanah",
-        "Waktu Terbit": "16 Mei 2025 17:13:03",
-        "Waktu Scrapping": "16 Mei 2025 18:13:03",
-        "Penulis": "Muhammad Hafil"
-    },
-    {
-        "Judul": "IHSG Ditutup Menguat di Tengah Pelemahan Bursa Kawasan Asia",
-        "Link": "https://ekonomi.republika.co.id/berita/swcm00370/ihsg-ditutup-menguat-di-tengah-pelemahan-bursa-kawasan-asia",
-        "Kategori": "Ekonomi",
-        "Waktu Terbit": "16 Mei 2025 17:13:04",
-        "Waktu Scrapping": "16 Mei 2025 18:13:04",
-        "Penulis": "Friska Yolandha"
-    },
-    {
-        "Judul": "Malnutrisi di Gaza Melonjak 32 Persen, Organisasi Medis Dunia: Israel Tetap Serang Sarana Medis",
-        "Link": "https://news.republika.co.id/berita/swcltv451/malnutrisi-di-gaza-melonjak-32-persen-organisasi-medis-dunia-israel-tetap-serang-sarana-medis",
-        "Kategori": "News",
-        "Waktu Terbit": "16 Mei 2025 17:13:05",
-        "Waktu Scrapping": "16 Mei 2025 18:13:05",
-        "Penulis": "Erdy Nasrul"
-    },
-    {
-        "Judul": "Magang Jadi Kesempatan Kembangkan Diri Sebelum Masuk Dunia Kerja",
-        "Link": "https://news.republika.co.id/berita/swclsn368/magang-jadi-kesempatan-kembangkan-diri-sebelum-masuk-dunia-kerja",
-        "Kategori": "News",
-        "Waktu Terbit": "16 Mei 2025 17:13:05",
-        "Waktu Scrapping": "16 Mei 2025 18:13:05",
-        "Penulis": "Dwi Murdaningsih"
-    },
-    {
-        "Judul": "Julukan Ini Diberikan PM Spanyol untuk Israel",
-        "Link": "https://khazanah.republika.co.id/berita/swclra430/julukan-ini-diberikan-pm-spanyol-untuk-israel",
-        "Kategori": "Khazanah",
-        "Waktu Terbit": "16 Mei 2025 17:13:06",
-        "Waktu Scrapping": "16 Mei 2025 18:13:06",
-        "Penulis": "Muhammad Hafil"
-    },
-    {
-        "Judul": "Bapanas: Harga Beras Indonesia tak Terpengaruh Pasar Global",
-        "Link": "https://ekonomi.republika.co.id/berita/swclpz416/bapanas-harga-beras-indonesia-tak-terpengaruh-pasar-global",
-        "Kategori": "Ekonomi",
-        "Waktu Terbit": "16 Mei 2025 17:13:07",
-        "Waktu Scrapping": "16 Mei 2025 18:13:07",
-        "Penulis": "Satria K Yudha"
-    },
-    {
-        "Judul": "Yamal, Raphinha, dan Pedri, Trio Penentu Sukses Barcelona Kunci Gelar La Liga Musim Ini",
-        "Link": "https://news.republika.co.id/berita/swcli0348/yamal-raphinha-dan-pedri-trio-penentu-sukses-barcelona-kunci-gelar-la-liga-musim-ini",
-        "Kategori": "News",
-        "Waktu Terbit": "16 Mei 2025 16:13:08",
-        "Waktu Scrapping": "16 Mei 2025 18:13:08",
-        "Penulis": "Israr Itah"
-    },
-    {
-        "Judul": "Rangkaian Edukasi Kepabeanan dan Cukai Bagi Mahasiswa Digelar di Tiga Kota",
-        "Link": "https://republika.co.id/berita//swcl98472/rangkaian-edukasi-kepabeanan-dan-cukai-bagi-mahasiswa-digelar-di-tiga-kota",
-        "Kategori": "Beacukai",
-        "Waktu Terbit": "16 Mei 2025 16:13:09",
-        "Waktu Scrapping": "16 Mei 2025 18:13:09",
-        "Penulis": "-"
-    },
-    {
-        "Judul": "Siap Lepaskan Kendali atas Jalur Gaza, Hamas: Syaratnya, Perang ini Harus Berakhir",
-        "Link": "https://news.republika.co.id/berita/swcl8h451/siap-lepaskan-kendali-atas-jalur-gaza-hamas-syaratnya-perang-ini-harus-berakhir",
-        "Kategori": "News",
-        "Waktu Terbit": "16 Mei 2025 16:13:09",
-        "Waktu Scrapping": "16 Mei 2025 18:13:09",
-        "Penulis": "Erdy Nasrul"
-    },
-    {
-        "Judul": "Telkom Dinilai Berpotensi Genjot Danantara Lewat Evaluasi Kinerja",
-        "Link": "https://ekonomi.republika.co.id/berita/swckmc423/telkom-dinilai-berpotensi-genjot-danantara-lewat-evaluasi-kinerja",
-        "Kategori": "Ekonomi",
-        "Waktu Terbit": "16 Mei 2025 16:13:10",
-        "Waktu Scrapping": "16 Mei 2025 18:13:10",
-        "Penulis": "Gita Amanda"
-    },
-    {
-        "Judul": "Medsos Heboh Usai Unggahan Mantan Bos FBI Dinilai Sebagai Seruan Pembunuhan Terhadap Trump",
-        "Link": "https://news.republika.co.id/berita/swckxo409/medsos-heboh-usai-unggahan-mantan-bos-fbi-dinilai-sebagai-seruan-pembunuhan-terhadap-trump",
-        "Kategori": "News",
-        "Waktu Terbit": "16 Mei 2025 16:13:11",
-        "Waktu Scrapping": "16 Mei 2025 18:13:11",
-        "Penulis": "Andri Saubani"
-    },
-    {
-        "Judul": "Itjen Kemenag Pantau Pelayanan Haji, Terima Masukan Jamaah Soal Pemisahan Kloter Hingga Menu",
-        "Link": "https://khazanah.republika.co.id/berita/swckqa483/itjen-kemenag-pantau-pelayanan-haji-terima-masukan-jamaah-soal-pemisahan-kloter-hingga-menu",
-        "Kategori": "Khazanah",
-        "Waktu Terbit": "16 Mei 2025 16:13:12",
-        "Waktu Scrapping": "16 Mei 2025 18:13:12",
-        "Penulis": "A.Syalaby Ichsan"
-    },
-    {
-        "Judul": "Pendanaan Rp 1 Triliun Disiapkan untuk Tekan Deforestasi",
-        "Link": "https://esgnow.republika.co.id/berita/swckla416/pendanaan-rp-1-triliun-disiapkan-untuk-tekan-deforestasi",
-        "Kategori": "Esgnow",
-        "Waktu Terbit": "16 Mei 2025 16:13:13",
-        "Waktu Scrapping": "16 Mei 2025 18:13:13",
-        "Penulis": "Satria K Yudha"
-    },
-    {
-        "Judul": "KPAI Soroti Belum Adanya SOP Program Pendidikan Anak di Barak Militer Jabar",
-        "Link": "https://news.republika.co.id/berita/swckgq409/kpai-soroti-belum-adanya-sop-program-pendidikan-anak-di-barak-militer-jabar",
-        "Kategori": "News",
-        "Waktu Terbit": "16 Mei 2025 16:13:14",
-        "Waktu Scrapping": "16 Mei 2025 18:13:14",
-        "Penulis": "Andri Saubani"
-    },
-    {
-        "Judul": "Tinjau Asrama Haji, Gibran Minta Jamaah Lansia Diprioritaskan",
-        "Link": "https://tv.republika.co.id/berita/swckd3418/tinjau-asrama-haji-gibran-minta-jamaah-lansia-diprioritaskan",
-        "Kategori": "Video",
-        "Waktu Terbit": "16 Mei 2025 16:13:15",
-        "Waktu Scrapping": "16 Mei 2025 18:13:15",
-        "Penulis": "Fian Firatmaja"
     }
 ]
