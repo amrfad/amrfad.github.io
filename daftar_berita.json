@@ -1,202 +1,354 @@
 [
     {
+        "Judul": "Indonesia Pangkas Impor LPG dari Timur Tengah, Fokus Tambah Pasokan dari AS",
+        "Link": "https://ekonomi.republika.co.id/berita/syvdu8370/indonesia-pangkas-impor-lpg-dari-timur-tengah-fokus-tambah-pasokan-dari-as",
+        "Kategori": "Ekonomi",
+        "Waktu Terbit": "4 Juli 2025 17:15:44",
+        "Waktu Scrapping": "4 Juli 2025 17:16:21",
+        "Penulis": "Friska Yolandha"
+    },
+    {
+        "Judul": "Menteri Maman Jelaskan ke KPK: Perjalanan Istri ke Eropa Pakai Uang Pribadi",
+        "Link": "https://news.republika.co.id/berita/syvdnv484/menteri-maman-jelaskan-ke-kpk-perjalanan-istri-ke-eropa-pakai-uang-pribadi",
+        "Kategori": "News",
+        "Waktu Terbit": "4 Juli 2025 17:12:22",
+        "Waktu Scrapping": "4 Juli 2025 17:16:22",
+        "Penulis": "Erik Purnama Putra"
+    },
+    {
+        "Judul": "Tekan Harga Sesuai HET, Kemendag Bahas Pola Distribusi Baru Minyakita",
+        "Link": "https://ekonomi.republika.co.id/berita/syvdjj490/tekan-harga-sesuai-het-kemendag-bahas-pola-distribusi-baru-minyakita",
+        "Kategori": "Ekonomi",
+        "Waktu Terbit": "4 Juli 2025 17:09:23",
+        "Waktu Scrapping": "4 Juli 2025 17:16:23",
+        "Penulis": "Ahmad Fikri Noor"
+    },
+    {
+        "Judul": "79 Tahun BNI 'Menemani Tiap Langkahmu'",
+        "Link": "https://ekonomi.republika.co.id/berita/syvdfx368/79-tahun-bni-menemani-tiap-langkahmu",
+        "Kategori": "Ekonomi",
+        "Waktu Terbit": "4 Juli 2025 17:07:23",
+        "Waktu Scrapping": "4 Juli 2025 17:16:23",
+        "Penulis": "Dwi Murdaningsih"
+    },
+    {
+        "Judul": "Bapak Kandung yang Siksa Injak Wajah dan Perut Anaknya di Purwakarta Akhirnya Ditangkap",
+        "Link": "https://rejabar.republika.co.id/berita/syvd9u512/bapak-kandung-yang-siksa-injak-wajah-dan-perut-anaknya-di-purwakarta-akhirnya-ditangkap",
+        "Kategori": "Rejabar",
+        "Waktu Terbit": "4 Juli 2025 17:03:24",
+        "Waktu Scrapping": "4 Juli 2025 17:16:24",
+        "Penulis": "Arie Lukihardianti"
+    },
+    {
+        "Judul": "5 Pemain Muda Ini Dinilai Layak Menembus Skuad Senior Timnas Inggris",
+        "Link": "https://skor.republika.co.id/posts/690681/5-pemain-muda-ini-dinilai-layak-menembus-skuad-senior-timnas-inggris",
+        "Kategori": "Network",
+        "Waktu Terbit": "4 Juli 2025 17:00:25",
+        "Waktu Scrapping": "4 Juli 2025 17:16:25",
+        "Penulis": "Pradipta Indra Kumara"
+    },
+    {
+        "Judul": "RUU Pemotongan Pajak Disetujui, Nilai Tukar Rupiah Terus Perkasa",
+        "Link": "https://ekonomi.republika.co.id/berita/syvd23490/ruu-pemotongan-pajak-disetujui-nilai-tukar-rupiah-terus-perkasa",
+        "Kategori": "Ekonomi",
+        "Waktu Terbit": "4 Juli 2025 16:58:26",
+        "Waktu Scrapping": "4 Juli 2025 17:16:26",
+        "Penulis": "Ahmad Fikri Noor"
+    },
+    {
+        "Judul": "Ahli Cybersecurity Apresiasi Platform Dakwah AI Aiman Aisha",
+        "Link": "https://khazanah.republika.co.id/berita/syvcsl430/ahli-cybersecurity-apresiasi-platform-dakwah-ai-aiman-aisha",
+        "Kategori": "Khazanah",
+        "Waktu Terbit": "4 Juli 2025 16:53:26",
+        "Waktu Scrapping": "4 Juli 2025 17:16:26",
+        "Penulis": "Muhammad Hafil"
+    },
+    {
+        "Judul": "Kementerian ESDM Bakal Terapkan Satu Harga LPG 3 Kilogram, Ini Alasannya",
+        "Link": "https://ekonomi.republika.co.id/berita/syvcnd490/kementerian-esdm-bakal-terapkan-satu-harga-lpg-3-kilogram-ini-alasannya",
+        "Kategori": "Ekonomi",
+        "Waktu Terbit": "4 Juli 2025 16:50:27",
+        "Waktu Scrapping": "4 Juli 2025 17:16:27",
+        "Penulis": "Ahmad Fikri Noor"
+    },
+    {
+        "Judul": "Banjir Prestasi, Mahasiswa Unisa Bandung Sabet Juara di Berbagai Lomba ASLAMA PTMA 2025",
+        "Link": "https://news.republika.co.id/berita/syvcig368/banjir-prestasi-mahasiswa-unisa-bandung-sabet-juara-di-berbagai-lomba-aslama-ptma-2025",
+        "Kategori": "News",
+        "Waktu Terbit": "4 Juli 2025 16:47:28",
+        "Waktu Scrapping": "4 Juli 2025 17:16:28",
+        "Penulis": "Dwi Murdaningsih"
+    },
+    {
+        "Judul": "Balita 22 Bulan Disiksa, Wajahnya Diinjak Bapak Kandung di Purwakarta",
+        "Link": "https://rejabar.republika.co.id/berita/syvchw512/balita-22-bulan-disiksa-wajahnya-diinjak-bapak-kandung-di-purwakarta",
+        "Kategori": "Rejabar",
+        "Waktu Terbit": "4 Juli 2025 16:46:28",
+        "Waktu Scrapping": "4 Juli 2025 17:16:28",
+        "Penulis": "Arie Lukihardianti"
+    },
+    {
+        "Judul": "Hasil Autupsi Brigadir MN, Terungkap Korban Dicekik dan Masih Pingsan Saat Tenggelam di Kolam",
+        "Link": "https://news.republika.co.id/berita/syvc2v377/hasil-autupsi-brigadir-mn-terungkap-korban-dicekik-dan-masih-pingsan-saat-tenggelam-di-kolam",
+        "Kategori": "News",
+        "Waktu Terbit": "4 Juli 2025 16:37:29",
+        "Waktu Scrapping": "4 Juli 2025 17:16:29",
+        "Penulis": "Teguh Firmansyah"
+    },
+    {
+        "Judul": "Dana Kelolaan DPLK Syariah Bank Muamalat Tembus Rp1,76 Triliun, Tumbuh 4,1 Persen",
+        "Link": "https://sharia.republika.co.id/berita/syvc1r490/dana-kelolaan-dplk-syariah-bank-muamalat-tembus-rp176-triliun-tumbuh-41-persen",
+        "Kategori": "Ekonomi Syariah",
+        "Waktu Terbit": "4 Juli 2025 16:37:29",
+        "Waktu Scrapping": "4 Juli 2025 17:16:29",
+        "Penulis": "Ahmad Fikri Noor"
+    },
+    {
+        "Judul": "Kunjungi Kepulauan Seribu, Pramono Lakukan Penanaman 15 Ribu Bibit Mangrove",
+        "Link": "https://tv.republika.co.id/berita/syvc18418/kunjungi-kepulauan-seribu-pramono-lakukan-penanaman-15-ribu-bibit-mangrove",
+        "Kategori": "Video",
+        "Waktu Terbit": "4 Juli 2025 16:36:30",
+        "Waktu Scrapping": "4 Juli 2025 17:16:30",
+        "Penulis": "Fian Firatmaja"
+    },
+    {
+        "Judul": "Sudah Rp 610 Triliun Dana Desa Digelontorkan, Ini Arahan Presiden Prabowo",
+        "Link": "https://ekonomi.republika.co.id/berita/syv80r370/sudah-rp-610-triliun-dana-desa-digelontorkan-ini-arahan-presiden-prabowo",
+        "Kategori": "Ekonomi",
+        "Waktu Terbit": "4 Juli 2025 16:30:31",
+        "Waktu Scrapping": "4 Juli 2025 17:16:31",
+        "Penulis": "Friska Yolandha"
+    },
+    {
+        "Judul": "Abdul Rahman Saleh Sang \u2018Ustaz di Kampung Maling\u2019 Itu Berpulang",
+        "Link": "https://news.republika.co.id/berita/syvbps393/abdul-rahman-saleh-sang-ustaz-di-kampung-maling-itu-berpulang",
+        "Kategori": "News",
+        "Waktu Terbit": "4 Juli 2025 16:30:32",
+        "Waktu Scrapping": "4 Juli 2025 17:16:32",
+        "Penulis": "Fitriyan Zamzami"
+    },
+    {
+        "Judul": "Keren, Inovasi Buatan Komunitas Muslim di MTF",
+        "Link": "https://tv.republika.co.id/berita/syvbm3313/keren-inovasi-buatan-komunitas-muslim-di-mtf",
+        "Kategori": "Video",
+        "Waktu Terbit": "4 Juli 2025 16:27:33",
+        "Waktu Scrapping": "4 Juli 2025 17:16:33",
+        "Penulis": "Agung Sasongko"
+    },
+    {
+        "Judul": "Bantah Spekulasi Beredar, Yusril: Juliana Maris Meninggal 15-30 Menit Setelah Jatuh di Rinjani",
+        "Link": "https://news.republika.co.id/berita/syvbeb377/bantah-spekulasi-beredar-yusril-juliana-maris-meninggal-1530-menit-setelah-jatuh-di-rinjani",
+        "Kategori": "News",
+        "Waktu Terbit": "4 Juli 2025 16:23:34",
+        "Waktu Scrapping": "4 Juli 2025 17:16:34",
+        "Penulis": "Teguh Firmansyah"
+    },
+    {
+        "Judul": "Transformasi Digital Saja tak Cukup, BCA Tekankan Tata Kelola Berkelanjutan",
+        "Link": "https://esgnow.republika.co.id/berita/syvb6f490/transformasi-digital-saja-tak-cukup-bca-tekankan-tata-kelola-berkelanjutan",
+        "Kategori": "Esgnow",
+        "Waktu Terbit": "4 Juli 2025 16:18:35",
+        "Waktu Scrapping": "4 Juli 2025 17:16:35",
+        "Penulis": "Ahmad Fikri Noor"
+    },
+    {
         "Judul": "Rencana Car Free Night di Jakarta, Pemprov Diingatkan Soal Faktor Keamanan",
         "Link": "https://news.republika.co.id/berita/syvasg425/rencana-car-free-night-di-jakarta-pemprov-diingatkan-soal-faktor-keamanan",
         "Kategori": "News",
-        "Waktu Terbit": "4 Juli 2025 16:09:34",
-        "Waktu Scrapping": "4 Juli 2025 16:16:34",
+        "Waktu Terbit": "4 Juli 2025 16:16:36",
+        "Waktu Scrapping": "4 Juli 2025 17:16:36",
         "Penulis": "Qommarria Rostanti"
     },
     {
         "Judul": "Pemerintah Indonesia: Dokter Marwan Bukan Hanya Milik Gaza, Tapi Dunia",
         "Link": "https://news.republika.co.id/berita/syvasf377/pemerintah-indonesia-dokter-marwan-bukan-hanya-milik-gaza-tapi-dunia",
         "Kategori": "News",
-        "Waktu Terbit": "4 Juli 2025 16:09:35",
-        "Waktu Scrapping": "4 Juli 2025 16:16:35",
+        "Waktu Terbit": "4 Juli 2025 16:16:36",
+        "Waktu Scrapping": "4 Juli 2025 17:16:36",
         "Penulis": "Teguh Firmansyah"
     },
     {
         "Judul": "Pandu Sjahrir Ungkap Danantara Ingin 889 BUMN dalam Satu Komando",
         "Link": "https://ekonomi.republika.co.id/berita/syvajz490/pandu-sjahrir-ungkap-danantara-ingin-889-bumn-dalam-satu-komando",
         "Kategori": "Ekonomi",
-        "Waktu Terbit": "4 Juli 2025 16:04:35",
-        "Waktu Scrapping": "4 Juli 2025 16:16:35",
+        "Waktu Terbit": "4 Juli 2025 16:16:37",
+        "Waktu Scrapping": "4 Juli 2025 17:16:37",
         "Penulis": "Ahmad Fikri Noor"
     },
     {
         "Judul": "Susi Air Resmi Layani Penerbangan Semarang-Karimunjawa, Segini Harga Tiketnya",
         "Link": "https://ekonomi.republika.co.id/berita/syv8g0370/susi-air-resmi-layani-penerbangan-semarangkarimunjawa-segini-harga-tiketnya",
         "Kategori": "Ekonomi",
-        "Waktu Terbit": "4 Juli 2025 15:59:37",
-        "Waktu Scrapping": "4 Juli 2025 16:16:37",
+        "Waktu Terbit": "4 Juli 2025 16:16:37",
+        "Waktu Scrapping": "4 Juli 2025 17:16:37",
         "Penulis": "Friska Yolandha"
     },
     {
         "Judul": "Komisi VII DPR Kunjungi Wuling Motor Pantau Industri Manufaktur",
         "Link": "https://ekonomi.republika.co.id/berita/syvaan348/komisi-vii-dpr-kunjungi-wuling-motor-pantau-industri-manufaktur",
         "Kategori": "Ekonomi",
-        "Waktu Terbit": "4 Juli 2025 15:59:37",
-        "Waktu Scrapping": "4 Juli 2025 16:16:37",
+        "Waktu Terbit": "4 Juli 2025 16:16:38",
+        "Waktu Scrapping": "4 Juli 2025 17:16:38",
         "Penulis": "Israr Itah"
     },
     {
         "Judul": "Menteri UMKM Maman Serahkan Dokumen ke KPK, Klarifikasi Istri ke Luar Negeri",
         "Link": "https://news.republika.co.id/berita/syva8q377/menteri-umkm-maman-serahkan-dokumen-ke-kpk-klarifikasi-istri-ke-luar-negeri",
         "Kategori": "News",
-        "Waktu Terbit": "4 Juli 2025 15:57:39",
-        "Waktu Scrapping": "4 Juli 2025 16:16:39",
+        "Waktu Terbit": "4 Juli 2025 16:16:38",
+        "Waktu Scrapping": "4 Juli 2025 17:16:38",
         "Penulis": "Teguh Firmansyah"
     },
     {
         "Judul": "Hasto Dituntut 7 Tahun, Kuasa Hukum Seret Nama Jokowi",
         "Link": "https://news.republika.co.id/berita/syv9tx484/hasto-dituntut-7-tahun-kuasa-hukum-seret-nama-jokowi",
         "Kategori": "News",
-        "Waktu Terbit": "4 Juli 2025 15:49:40",
-        "Waktu Scrapping": "4 Juli 2025 16:16:40",
+        "Waktu Terbit": "4 Juli 2025 16:16:39",
+        "Waktu Scrapping": "4 Juli 2025 17:16:39",
         "Penulis": "Erik Purnama Putra"
     },
     {
         "Judul": "Ahli Waris PMI Meninggal di Bandara Incheon Mendapat Santunan",
         "Link": "https://republika.co.id/berita//syv9l7430/ahli-waris-pmi-meninggal-di-bandara-incheon-mendapat-santunan",
         "Kategori": "Rejakarta",
-        "Waktu Terbit": "4 Juli 2025 15:44:41",
-        "Waktu Scrapping": "4 Juli 2025 16:16:41",
+        "Waktu Terbit": "4 Juli 2025 15:16:40",
+        "Waktu Scrapping": "4 Juli 2025 17:16:40",
         "Penulis": "Muhammad Hafil"
     },
     {
         "Judul": "Susi Pudjiastuti Ungkap Sulitnya Jadi Operator Penerbangan Feeder di Indonesia",
         "Link": "https://news.republika.co.id/berita/syv9g7487/susi-pudjiastuti-ungkap-sulitnya-jadi-operator-penerbangan-feeder-di-indonesia",
         "Kategori": "News",
-        "Waktu Terbit": "4 Juli 2025 15:40:41",
-        "Waktu Scrapping": "4 Juli 2025 16:16:41",
+        "Waktu Terbit": "4 Juli 2025 15:16:41",
+        "Waktu Scrapping": "4 Juli 2025 17:16:41",
         "Penulis": "Mas Alamil Huda"
     },
     {
         "Judul": "Survei: 0,8 Persen Responden Mau Punya Rumah Subsidi 18 Meter Persegi",
         "Link": "https://ekonomi.republika.co.id/berita/syv9fu502/survei-08-persen-responden-mau-punya-rumah-subsidi-18-meter-persegi",
         "Kategori": "Ekonomi",
-        "Waktu Terbit": "4 Juli 2025 15:40:42",
-        "Waktu Scrapping": "4 Juli 2025 16:16:42",
+        "Waktu Terbit": "4 Juli 2025 15:16:41",
+        "Waktu Scrapping": "4 Juli 2025 17:16:41",
         "Penulis": "Lida Puspaningtyas"
     },
     {
         "Judul": "BSU 2025 Kini Bisa Dicairkan Lewat Pospay, Ini Mekanismenya",
         "Link": "https://ekonomi.republika.co.id/berita/syv7we370/bsu-2025-kini-bisa-dicairkan-lewat-pospay-ini-mekanismenya",
         "Kategori": "Ekonomi",
-        "Waktu Terbit": "4 Juli 2025 15:34:43",
-        "Waktu Scrapping": "4 Juli 2025 16:16:43",
+        "Waktu Terbit": "4 Juli 2025 15:16:42",
+        "Waktu Scrapping": "4 Juli 2025 17:16:42",
         "Penulis": "Friska Yolandha"
     },
     {
         "Judul": "Ternyata tak Hanya Padel, Banyak Kegiatan Olahraga di Jakarta yang Dikenakan Pajak, Ini Daftarnya",
         "Link": "https://news.republika.co.id/berita/syv8wz487/ternyata-tak-hanya-padel-banyak-kegiatan-olahraga-di-jakarta-yang-dikenakan-pajak-ini-daftarnya",
         "Kategori": "News",
-        "Waktu Terbit": "4 Juli 2025 15:29:43",
-        "Waktu Scrapping": "4 Juli 2025 16:16:43",
+        "Waktu Terbit": "4 Juli 2025 15:16:42",
+        "Waktu Scrapping": "4 Juli 2025 17:16:42",
         "Penulis": "Mas Alamil Huda"
     },
     {
         "Judul": "Pramono Minta Dishub Perbanyak Transportasi Laut di Kepulauan Seribu",
         "Link": "https://news.republika.co.id/berita/syv8wb416/pramono-minta-dishub-perbanyak-transportasi-laut-di-kepulauan-seribu",
         "Kategori": "News",
-        "Waktu Terbit": "4 Juli 2025 15:28:44",
-        "Waktu Scrapping": "4 Juli 2025 16:16:44",
+        "Waktu Terbit": "4 Juli 2025 15:16:43",
+        "Waktu Scrapping": "4 Juli 2025 17:16:43",
         "Penulis": "Satria K Yudha"
     },
     {
         "Judul": "Disetujui Prabowo, Khofifah Percepat Proyek KRL Gubeng-Sidoarjo",
         "Link": "https://news.republika.co.id/berita/syv8ti484/disetujui-prabowo-khofifah-percepat-proyek-krl-gubengsidoarjo",
         "Kategori": "News",
-        "Waktu Terbit": "4 Juli 2025 15:27:45",
-        "Waktu Scrapping": "4 Juli 2025 16:16:45",
+        "Waktu Terbit": "4 Juli 2025 15:16:44",
+        "Waktu Scrapping": "4 Juli 2025 17:16:44",
         "Penulis": "Erik Purnama Putra"
     },
     {
         "Judul": "Bandung Jadi Kota Termacet di Indonesia, Ini Alasannya Menurut Wali Kota Farhan",
         "Link": "https://news.republika.co.id/berita/syv8mm377/bandung-jadi-kota-termacet-di-indonesia-ini-alasannya-menurut-wali-kota-farhan",
         "Kategori": "News",
-        "Waktu Terbit": "4 Juli 2025 15:23:45",
-        "Waktu Scrapping": "4 Juli 2025 16:16:45",
+        "Waktu Terbit": "4 Juli 2025 15:16:44",
+        "Waktu Scrapping": "4 Juli 2025 17:16:44",
         "Penulis": "Teguh Firmansyah"
     },
     {
         "Judul": "Bandung Urutan Pertama Kota Termacet di Indonesia, Ini Reaksi Wali Kota Bandung",
         "Link": "https://rejabar.republika.co.id/berita/syv8l2512/bandung-urutan-pertama-kota-termacet-di-indonesia-ini-reaksi-wali-kota-bandung",
         "Kategori": "Rejabar",
-        "Waktu Terbit": "4 Juli 2025 15:22:46",
-        "Waktu Scrapping": "4 Juli 2025 16:16:46",
+        "Waktu Terbit": "4 Juli 2025 15:16:45",
+        "Waktu Scrapping": "4 Juli 2025 17:16:45",
         "Penulis": "Arie Lukihardianti"
     },
     {
         "Judul": "DLH Tangerang Klaim Insinerator di TPS3R Cipondoh Penuhi Standar Mutu",
         "Link": "https://esgnow.republika.co.id/berita/syv8ij416/dlh-tangerang-klaim-insinerator-di-tps3r-cipondoh-penuhi-standar-mutu",
         "Kategori": "Esgnow",
-        "Waktu Terbit": "4 Juli 2025 15:20:47",
-        "Waktu Scrapping": "4 Juli 2025 16:16:47",
+        "Waktu Terbit": "4 Juli 2025 15:16:45",
+        "Waktu Scrapping": "4 Juli 2025 17:16:45",
         "Penulis": "Satria K Yudha"
     },
     {
         "Judul": "Mendag: Lewat E-Commerce, UMKM Bisa Langsung Jangkau Pasar Luar Negeri",
         "Link": "https://ekonomi.republika.co.id/berita/syv8i1349/mendag-lewat-ecommerce-umkm-bisa-langsung-jangkau-pasar-luar-negeri",
         "Kategori": "Ekonomi",
-        "Waktu Terbit": "4 Juli 2025 15:20:48",
-        "Waktu Scrapping": "4 Juli 2025 16:16:48",
+        "Waktu Terbit": "4 Juli 2025 15:16:47",
+        "Waktu Scrapping": "4 Juli 2025 17:16:47",
         "Penulis": "Ichsan Emrald Alamsyah"
     },
     {
         "Judul": "Resmi Tanpa Wakil Indonesia, Ini Pembagian Grup ASEAN Club Championship 2025-2026",
         "Link": "https://skor.republika.co.id/posts/690661/resmi-tanpa-wakil-indonesia-ini-pembagian-grup-asean-club-championship-2025-2026",
         "Kategori": "Network",
-        "Waktu Terbit": "4 Juli 2025 15:20:48",
-        "Waktu Scrapping": "4 Juli 2025 16:16:48",
+        "Waktu Terbit": "4 Juli 2025 15:16:47",
+        "Waktu Scrapping": "4 Juli 2025 17:16:47",
         "Penulis": "Muhamad Rais Adnan"
     },
     {
         "Judul": "30 Orang Belum Ditemukan, Tim Perluas Penyisiran Pencarian Korban Kapal Tunu di Selat Bali",
         "Link": "https://news.republika.co.id/berita/syv8hb487/30-orang-belum-ditemukan-tim-perluas-penyisiran-pencarian-korban-kapal-tunu-di-selat-bali",
         "Kategori": "News",
-        "Waktu Terbit": "4 Juli 2025 15:19:49",
-        "Waktu Scrapping": "4 Juli 2025 16:16:49",
+        "Waktu Terbit": "4 Juli 2025 15:16:49",
+        "Waktu Scrapping": "4 Juli 2025 17:16:49",
         "Penulis": "Mas Alamil Huda"
     },
     {
         "Judul": "Gen Z yang Putuskan Childfree: Alasan Rasional atau Ikut-ikutan Tren?",
         "Link": "https://ameera.republika.co.id/berita/syv8ft425/gen-z-yang-putuskan-childfree-alasan-rasional-atau-ikutikutan-tren",
         "Kategori": "Ameera",
-        "Waktu Terbit": "4 Juli 2025 15:19:50",
-        "Waktu Scrapping": "4 Juli 2025 16:16:50",
+        "Waktu Terbit": "4 Juli 2025 15:16:49",
+        "Waktu Scrapping": "4 Juli 2025 17:16:49",
         "Penulis": "Qommarria Rostanti"
     },
     {
         "Judul": "Risiko Gagal Diatasi? Mungkin karena Pikiran Kita Sendiri",
         "Link": "https://analisis.republika.co.id/berita/syv8ak502/risiko-gagal-diatasi-mungkin-karena-pikiran-kita-sendiri",
         "Kategori": "Kolom",
-        "Waktu Terbit": "4 Juli 2025 15:16:51",
-        "Waktu Scrapping": "4 Juli 2025 16:16:51",
+        "Waktu Terbit": "4 Juli 2025 15:16:50",
+        "Waktu Scrapping": "4 Juli 2025 17:16:50",
         "Penulis": "Lida Puspaningtyas"
     },
     {
         "Judul": "Hipnoterapi Bisa Bantu Jaga Kesehatan Mental, Ini Kata Ahlinya",
         "Link": "https://inforemaja.id/posts/690575/hipnoterapi-bisa-bantu-jaga-kesehatan-mental-ini-kata-ahlinya",
         "Kategori": "Network",
-        "Waktu Terbit": "4 Juli 2025 15:16:52",
-        "Waktu Scrapping": "4 Juli 2025 16:16:52",
+        "Waktu Terbit": "4 Juli 2025 15:16:51",
+        "Waktu Scrapping": "4 Juli 2025 17:16:51",
         "Penulis": "-"
     },
     {
         "Judul": "Catatan Cak AT: Bukan Cuma Halal, Tapi Juga Thayyib",
         "Link": "https://ruzkaindonesia.id/posts/690587/catatan-cak-at-bukan-cuma-halal-tapi-juga-thayyib",
         "Kategori": "Network",
-        "Waktu Terbit": "4 Juli 2025 15:16:54",
-        "Waktu Scrapping": "4 Juli 2025 16:16:54",
+        "Waktu Terbit": "4 Juli 2025 15:16:53",
+        "Waktu Scrapping": "4 Juli 2025 17:16:53",
         "Penulis": "-"
     },
     {
         "Judul": "Menerima Bintang di Hollywood Walk of Fame, Miley Cyrus: Rasanya Seperti Mimpi",
         "Link": "https://impresiupdate.id/posts/690606/menerima-bintang-di-hollywood-walk-of-fame-miley-cyrus-rasanya-seperti-mimpi",
         "Kategori": "Network",
-        "Waktu Terbit": "4 Juli 2025 15:16:59",
-        "Waktu Scrapping": "4 Juli 2025 16:16:59",
+        "Waktu Terbit": "4 Juli 2025 15:16:55",
+        "Waktu Scrapping": "4 Juli 2025 17:16:55",
         "Penulis": "-"
     },
     {
@@ -204,31 +356,31 @@
         "Link": "https://sekitarsurabaya.com/posts/690618/penyebab-kecelakaan-laut-pakar-hampir-90-persen-karena-kelalaian-manusia",
         "Kategori": "Network",
         "Waktu Terbit": "4 Juli 2025 15:17:01",
-        "Waktu Scrapping": "4 Juli 2025 16:17:01",
+        "Waktu Scrapping": "4 Juli 2025 17:17:01",
         "Penulis": "-"
     },
     {
         "Judul": "KMP Tunu Pratama Jaya Tenggelam di Selat Bali",
         "Link": "https://shippingcargo.co.id/posts/690404/kmp-tunu-pratama-jaya-tenggelam-di-selat-bali",
         "Kategori": "Network",
-        "Waktu Terbit": "4 Juli 2025 15:17:03",
-        "Waktu Scrapping": "4 Juli 2025 16:17:03",
+        "Waktu Terbit": "4 Juli 2025 15:17:02",
+        "Waktu Scrapping": "4 Juli 2025 17:17:02",
         "Penulis": "-"
     },
     {
         "Judul": "Intip Spesifikasi Lamborghini yang Dikendarai Diogo Jota",
         "Link": "https://motoresto.id/posts/690629/intip-spesifikasi-lamborghini-yang-dikendarai-diogo-jota",
         "Kategori": "Network",
-        "Waktu Terbit": "4 Juli 2025 15:17:05",
-        "Waktu Scrapping": "4 Juli 2025 16:17:05",
+        "Waktu Terbit": "4 Juli 2025 15:17:04",
+        "Waktu Scrapping": "4 Juli 2025 17:17:04",
         "Penulis": "-"
     },
     {
         "Judul": "Sebuah Peradaban Berawal dari Ide Kecil Orang-orang Cerdas",
         "Link": "https://sajada.id/posts/690642/sebuah-peradaban-berawal-dari-ide-kecil-orang-orang-cerdas",
         "Kategori": "Network",
-        "Waktu Terbit": "4 Juli 2025 15:17:07",
-        "Waktu Scrapping": "4 Juli 2025 16:17:07",
+        "Waktu Terbit": "4 Juli 2025 15:17:06",
+        "Waktu Scrapping": "4 Juli 2025 17:17:06",
         "Penulis": "-"
     },
     {
@@ -236,167 +388,15 @@
         "Link": "https://sekitarsurabaya.com/posts/690652/helikopter-drone-hingga-tim-penyelam-dikerahkan-cari-30-korban-tenggelamnya-kmp-tunu-pratama-jaya",
         "Kategori": "Network",
         "Waktu Terbit": "4 Juli 2025 15:17:08",
-        "Waktu Scrapping": "4 Juli 2025 16:17:08",
+        "Waktu Scrapping": "4 Juli 2025 17:17:08",
         "Penulis": "-"
     },
     {
         "Judul": "Menag Puji Ketepatan Waktu Lion Air Selama Musim Haji 2025",
         "Link": "https://khazanah.republika.co.id/berita/syv4zd366/menag-puji-ketepatan-waktu-lion-air-selama-musim-haji-2025",
         "Kategori": "Khazanah",
-        "Waktu Terbit": "4 Juli 2025 15:17:10",
-        "Waktu Scrapping": "4 Juli 2025 16:17:10",
+        "Waktu Terbit": "4 Juli 2025 15:17:09",
+        "Waktu Scrapping": "4 Juli 2025 17:17:09",
         "Penulis": "Ani Nursalikah"
-    },
-    {
-        "Judul": "Peran LPH dari IDSurvey, Mitra Strategis untuk Sertifikasi Halal Produk Impor",
-        "Link": "https://news.republika.co.id/berita/syv7nm456/peran-lph-dari-idsurvey-mitra-strategis-untuk-sertifikasi-halal-produk-impor",
-        "Kategori": "News",
-        "Waktu Terbit": "4 Juli 2025 15:17:10",
-        "Waktu Scrapping": "4 Juli 2025 16:17:10",
-        "Penulis": "Gilang Akbar Prambadi"
-    },
-    {
-        "Judul": "Beredar Video Kontraktor AS Bersorak Usai Tembaki Warga Gaza Kelaparan",
-        "Link": "https://news.republika.co.id/berita/syv7h8377/beredar-video-kontraktor-as-bersorak-usai-tembaki-warga-gaza-kelaparan",
-        "Kategori": "News",
-        "Waktu Terbit": "4 Juli 2025 15:17:11",
-        "Waktu Scrapping": "4 Juli 2025 16:17:11",
-        "Penulis": "Teguh Firmansyah"
-    },
-    {
-        "Judul": "KPK Benarkan Menteri UMKM akan Datang Jelaskan Surat Istrinya",
-        "Link": "https://news.republika.co.id/berita/syv7h7484/kpk-benarkan-menteri-umkm-akan-datang-jelaskan-surat-istrinya",
-        "Kategori": "News",
-        "Waktu Terbit": "4 Juli 2025 15:17:11",
-        "Waktu Scrapping": "4 Juli 2025 16:17:11",
-        "Penulis": "Erik Purnama Putra"
-    },
-    {
-        "Judul": "Bank Syariah Muhammadiyah Jawab Kebutuhan Umat",
-        "Link": "https://sharia.republika.co.id/berita/syv7h2370/bank-syariah-muhammadiyah-jawab-kebutuhan-umat",
-        "Kategori": "Ekonomi Syariah",
-        "Waktu Terbit": "4 Juli 2025 15:17:12",
-        "Waktu Scrapping": "4 Juli 2025 16:17:12",
-        "Penulis": "Friska Yolandha"
-    },
-    {
-        "Judul": "Lucky Hakim Ajak Warganya Ikut Car Free Night dan Car Free Day, Ini Hari dan Jamnya",
-        "Link": "https://rejabar.republika.co.id/berita/syv7du512/lucky-hakim-ajak-warganya-ikut-car-free-night-dan-car-free-day-ini-hari-dan-jamnya",
-        "Kategori": "Rejabar",
-        "Waktu Terbit": "4 Juli 2025 15:17:14",
-        "Waktu Scrapping": "4 Juli 2025 16:17:14",
-        "Penulis": "Arie Lukihardianti"
-    },
-    {
-        "Judul": "Pendaftaran Audisi Umum PB Djarum Telah Dibuka, Begini Caranya",
-        "Link": "https://news.republika.co.id/berita/syv79z456/pendaftaran-audisi-umum-pb-djarum-telah-dibuka-begini-caranya",
-        "Kategori": "News",
-        "Waktu Terbit": "4 Juli 2025 15:17:15",
-        "Waktu Scrapping": "4 Juli 2025 16:17:15",
-        "Penulis": "Gilang Akbar Prambadi"
-    },
-    {
-        "Judul": "Kembali Digelar, Salonpas Sport 10K Rayakan Semangat The Unstoppable Spirit dengan Strategi TRIPL3S",
-        "Link": "https://skor.republika.co.id/posts/690656/kembali-digelar-salonpas-sport-10-k-rayakan-semangat-the-unstoppable-spirit-dengan-strategi-tripl-3-s",
-        "Kategori": "Network",
-        "Waktu Terbit": "4 Juli 2025 15:17:15",
-        "Waktu Scrapping": "4 Juli 2025 16:17:15",
-        "Penulis": "Muhamad Rais Adnan"
-    },
-    {
-        "Judul": "Priyanka Chopra Blak-blakan! Ternyata Ada Film Nick Jonas yang Enggak Disukainya",
-        "Link": "https://ameera.republika.co.id/berita/syv73d425/priyanka-chopra-blakblakan-ternyata-ada-film-nick-jonas-yang-enggak-disukainya",
-        "Kategori": "Ameera",
-        "Waktu Terbit": "4 Juli 2025 15:17:17",
-        "Waktu Scrapping": "4 Juli 2025 16:17:17",
-        "Penulis": "Qommarria Rostanti"
-    },
-    {
-        "Judul": "Polemik Tarif Ojol, IDEAS Usul Pembentukan Dewan Tripartit",
-        "Link": "https://ekonomi.republika.co.id/berita/syv6z1416/polemik-tarif-ojol-ideas-usul-pembentukan-dewan-tripartit",
-        "Kategori": "Ekonomi",
-        "Waktu Terbit": "4 Juli 2025 15:17:18",
-        "Waktu Scrapping": "4 Juli 2025 16:17:18",
-        "Penulis": "Satria K Yudha"
-    },
-    {
-        "Judul": "Jenderal Iran Ungkap Baru Pakai Seperempat Kekuatan Serang Israel",
-        "Link": "https://news.republika.co.id/berita/syv6yq393/jenderal-iran-ungkap-baru-pakai-seperempat-kekuatan-serang-israel",
-        "Kategori": "News",
-        "Waktu Terbit": "4 Juli 2025 15:17:18",
-        "Waktu Scrapping": "4 Juli 2025 16:17:18",
-        "Penulis": "Fitriyan Zamzami"
-    },
-    {
-        "Judul": "Kinerja Manufaktur Indonesia Melemah, Kemenperin Ungkap Pengusaha Tunggu Kebijakan Ini",
-        "Link": "https://ekonomi.republika.co.id/berita/syv6pt490/kinerja-manufaktur-indonesia-melemah-kemenperin-ungkap-pengusaha-tunggu-kebijakan-ini",
-        "Kategori": "Ekonomi",
-        "Waktu Terbit": "4 Juli 2025 14:17:19",
-        "Waktu Scrapping": "4 Juli 2025 16:17:19",
-        "Penulis": "Ahmad Fikri Noor"
-    },
-    {
-        "Judul": "Rumah Zakat Rayakan Milad ke-27 dengan Aksi Kemanusiaan dan Solidaritas untuk Palestina",
-        "Link": "https://khazanah.republika.co.id/berita/syv6ne472/rumah-zakat-rayakan-milad-ke27-dengan-aksi-kemanusiaan-dan-solidaritas-untuk-palestina",
-        "Kategori": "Khazanah",
-        "Waktu Terbit": "4 Juli 2025 14:17:20",
-        "Waktu Scrapping": "4 Juli 2025 16:17:20",
-        "Penulis": "Ferry Kisihandi"
-    },
-    {
-        "Judul": "Mengenang Gol Terakhir Diogo Jota untuk Liverpool di Laga dan Tempat yang Spesial",
-        "Link": "https://skor.republika.co.id/posts/690651/mengenang-gol-terakhir-diogo-jota-untuk-liverpool-di-laga-dan-tempat-yang-spesial",
-        "Kategori": "Network",
-        "Waktu Terbit": "4 Juli 2025 14:17:20",
-        "Waktu Scrapping": "4 Juli 2025 16:17:20",
-        "Penulis": "Pradipta Indra Kumara"
-    },
-    {
-        "Judul": "Kenaikan Tarif Ojol Dinilai tak Berdampak Signifikan pada Pendapatan Pengemudi, Ini Penyebabnya",
-        "Link": "https://ekonomi.republika.co.id/berita/syv5uu490/kenaikan-tarif-ojol-dinilai-tak-berdampak-signifikan-pada-pendapatan-pengemudi-ini-penyebabnya",
-        "Kategori": "Ekonomi",
-        "Waktu Terbit": "4 Juli 2025 14:17:21",
-        "Waktu Scrapping": "4 Juli 2025 16:17:21",
-        "Penulis": "Ahmad Fikri Noor"
-    },
-    {
-        "Judul": "Miris, Sekdes di Majalengka Korupsi Dana Desa Rp 513 Juta untuk Judi Online dan Diamond Game",
-        "Link": "https://rejabar.republika.co.id/berita/syv6mm512/miris-sekdes-di-majalengka-korupsi-dana-desa-rp-513-juta-untuk-judi-online-dan-diamond-game",
-        "Kategori": "Rejabar",
-        "Waktu Terbit": "4 Juli 2025 14:17:22",
-        "Waktu Scrapping": "4 Juli 2025 16:17:22",
-        "Penulis": "Arie Lukihardianti"
-    },
-    {
-        "Judul": "Upacara HUT RI ke-80 di Istana Garuda IKN Belum Pasti, Otorita Tunggu Arahan Pusat",
-        "Link": "https://news.republika.co.id/berita/syv6h9377/upacara-hut-ri-ke80-di-istana-garuda-ikn-belum-pasti-otorita-tunggu-arahan-pusat",
-        "Kategori": "News",
-        "Waktu Terbit": "4 Juli 2025 14:17:23",
-        "Waktu Scrapping": "4 Juli 2025 16:17:23",
-        "Penulis": "Teguh Firmansyah"
-    },
-    {
-        "Judul": "Jakarta Muharram Festival Dibatalkan, Uji Coba Car Free Night tak Dilaksanakan",
-        "Link": "https://news.republika.co.id/berita/syv6go487/jakarta-muharram-festival-dibatalkan-uji-coba-car-free-night-tak-dilaksanakan",
-        "Kategori": "News",
-        "Waktu Terbit": "4 Juli 2025 14:17:23",
-        "Waktu Scrapping": "4 Juli 2025 16:17:23",
-        "Penulis": "Mas Alamil Huda"
-    },
-    {
-        "Judul": "Tumpukah Sampah di Pasar Gedebage Akhirnya Diangkut",
-        "Link": "https://esgnow.republika.co.id/berita/syv34m416/tumpukah-sampah-di-pasar-gedebage-akhirnya-diangkut",
-        "Kategori": "Esgnow",
-        "Waktu Terbit": "4 Juli 2025 14:17:24",
-        "Waktu Scrapping": "4 Juli 2025 16:17:24",
-        "Penulis": "Satria K Yudha"
-    },
-    {
-        "Judul": "Permudah Akses Pelaku Usaha, BSI dan Mekari Integrasikan Layanan Digital Syariah",
-        "Link": "https://sharia.republika.co.id/berita/syv5yo416/permudah-akses-pelaku-usaha-bsi-dan-mekari-integrasikan-layanan-digital-syariah",
-        "Kategori": "Ekonomi Syariah",
-        "Waktu Terbit": "4 Juli 2025 14:17:25",
-        "Waktu Scrapping": "4 Juli 2025 16:17:25",
-        "Penulis": "Satria K Yudha"
     }
 ]
