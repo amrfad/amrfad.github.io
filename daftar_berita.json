@@ -1,1 +1,402 @@
-[]
+[
+    {
+        "Judul": "PIS Salurkan 5 Juta Liter Air Bersih Lewat Pompa Tenaga Surya di Labuan Bajo",
+        "Link": "https://esgnow.republika.co.id/berita/t118cc349/pis-salurkan-5-juta-liter-air-bersih-lewat-pompa-tenaga-surya-di-labuan-bajo",
+        "Kategori": "Esgnow",
+        "Waktu Terbit": "15 Agustus 2025 18:10:07",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:07",
+        "Penulis": "Ichsan Emrald Alamsyah"
+    },
+    {
+        "Judul": "Padukan Standar Militer dan Fitur Berbasis AI, Asus Luncurkan EkspertBook Series di Yogyakarta",
+        "Link": "https://rejogja.republika.co.id/berita/t115wp291/padukan-standar-militer-dan-fitur-berbasis-ai-asus-luncurkan-ekspertbook-series-di-yogyakarta",
+        "Kategori": "Rejogja",
+        "Waktu Terbit": "15 Agustus 2025 18:08:08",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:08",
+        "Penulis": "Fernan Rahadi"
+    },
+    {
+        "Judul": "Komisi IV DPR Bakal Bahas Program Beras Satu Harga, Ini Bocorannya",
+        "Link": "https://ekonomi.republika.co.id/berita/t1182z490/komisi-iv-dpr-bakal-bahas-program-beras-satu-harga-ini-bocorannya",
+        "Kategori": "Ekonomi",
+        "Waktu Terbit": "15 Agustus 2025 18:04:09",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:09",
+        "Penulis": "Ahmad Fikri Noor"
+    },
+    {
+        "Judul": "Indonesia Kecam Visi Netanyahu Soal Israel Raya, Tolak Segala Bentuk Aneksasi",
+        "Link": "https://rejogja.republika.co.id/berita/t117zr282/indonesia-kecam-visi-netanyahu-soal-israel-raya-tolak-segala-bentuk-aneksasi",
+        "Kategori": "Rejogja",
+        "Waktu Terbit": "15 Agustus 2025 18:02:10",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:10",
+        "Penulis": "Karta Raharja Ucu"
+    },
+    {
+        "Judul": "Lima Atlet Panjat Tebing Berlomba di 16 Besar World Games 2025 Petang Ini",
+        "Link": "https://news.republika.co.id/berita/t117y8348/lima-atlet-panjat-tebing-berlomba-di-16-besar-world-games-2025-petang-ini",
+        "Kategori": "News",
+        "Waktu Terbit": "15 Agustus 2025 18:01:11",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:11",
+        "Penulis": "Israr Itah"
+    },
+    {
+        "Judul": "Usai Klarifikasi, MUI Bekasi: Rumor Pengajian Umi Cinta 'Bayar Rp 1 Juta Masuk Surga' Hanya Katanya",
+        "Link": "https://khazanah.republika.co.id/berita/t117u3483/usai-klarifikasi-mui-bekasi-rumor-pengajian-umi-cinta-bayar-rp-1-juta-masuk-surga-hanya-katanya",
+        "Kategori": "Khazanah",
+        "Waktu Terbit": "15 Agustus 2025 17:59:12",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:12",
+        "Penulis": "A.Syalaby Ichsan"
+    },
+    {
+        "Judul": "AHY: Indonesia Harus Punya Peran Strategis di Kancah Global",
+        "Link": "https://tv.republika.co.id/berita/t117oa418/ahy-indonesia-harus-punya-peran-strategis-di-kancah-global",
+        "Kategori": "Video",
+        "Waktu Terbit": "15 Agustus 2025 17:55:13",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:13",
+        "Penulis": "Fian Firatmaja"
+    },
+    {
+        "Judul": "Nah Lho... Kentang Goreng Bisa Tingkatkan Risiko Diabetes Tipe 2",
+        "Link": "https://impresiupdate.id/posts/698928/nah-lho-kentang-goreng-bisa-tingkatkan-risiko-diabetes-tipe-2",
+        "Kategori": "Network",
+        "Waktu Terbit": "15 Agustus 2025 17:54:14",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:14",
+        "Penulis": "-"
+    },
+    {
+        "Judul": "Prabowo Targetkan Indonesia Jadi Pelopor Energi Bersih Dunia",
+        "Link": "https://esgnow.republika.co.id/berita/t115hr370/prabowo-targetkan-indonesia-jadi-pelopor-energi-bersih-dunia",
+        "Kategori": "Esgnow",
+        "Waktu Terbit": "15 Agustus 2025 17:35:15",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:15",
+        "Penulis": "Friska Yolandha"
+    },
+    {
+        "Judul": "Indonesian Joining Forces: 51,3 Persen Kekerasan Anak dengan Disabilitas Terjadi di Ruang Publik",
+        "Link": "https://rejogja.republika.co.id/berita/t114ag291/indonesian-joining-forces-513-persen-kekerasan-anak-dengan-disabilitas-terjadi-di-ruang-publik",
+        "Kategori": "Rejogja",
+        "Waktu Terbit": "15 Agustus 2025 17:34:16",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:16",
+        "Penulis": "Fernan Rahadi"
+    },
+    {
+        "Judul": "Ketua Hanura Jateng Tersangka Karaoke Striptis Diserahkan ke Kejari Semarang",
+        "Link": "https://rejogja.republika.co.id/berita/t116k7282/ketua-hanura-jateng-tersangka-karaoke-striptis-diserahkan-ke-kejari-semarang",
+        "Kategori": "Rejogja",
+        "Waktu Terbit": "15 Agustus 2025 17:31:16",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:16",
+        "Penulis": "Karta Raharja Ucu"
+    },
+    {
+        "Judul": "bank bjb Luncurkan Tabungan Kurban ASN, Perkuat Literasi Keuangan dan Ekonomi Lokal",
+        "Link": "https://ekonomi.republika.co.id/berita/t116dq368/bank-bjb-luncurkan-tabungan-kurban-asn-perkuat-literasi-keuangan-dan-ekonomi-lokal",
+        "Kategori": "Ekonomi",
+        "Waktu Terbit": "15 Agustus 2025 17:27:17",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:17",
+        "Penulis": "Dwi Murdaningsih"
+    },
+    {
+        "Judul": "Hapus Tantiem untuk Direksi BUMN, Prabowo: Tak Setuju Mundur!",
+        "Link": "https://ekonomi.republika.co.id/berita/t116cv484/hapus-tantiem-untuk-direksi-bumn-prabowo-tak-setuju-mundur",
+        "Kategori": "Ekonomi",
+        "Waktu Terbit": "15 Agustus 2025 17:27:18",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:18",
+        "Penulis": "Erik Purnama Putra"
+    },
+    {
+        "Judul": "KPK Lelang Barang Non Eksekusi BMN, Ada Yaris sampai Strada Triton",
+        "Link": "https://sekitarkaltim.id/posts/698897/kpk-lelang-barang-non-eksekusi-bmn-ada-yaris-sampai-strada-triton",
+        "Kategori": "Network",
+        "Waktu Terbit": "15 Agustus 2025 17:21:19",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:19",
+        "Penulis": "-"
+    },
+    {
+        "Judul": "Prabowo Ceritakan Capaian 7 Bulan MBG dan Dampak Positifnya",
+        "Link": "https://pemantiknews.id/posts/698899/prabowo-ceritakan-capaian-7-bulan-mbg-dan-dampak-positifnya",
+        "Kategori": "Network",
+        "Waktu Terbit": "15 Agustus 2025 17:20:20",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:20",
+        "Penulis": "-"
+    },
+    {
+        "Judul": "Ingat, Malam Perayaan HUT ke-80 RI, Lalin 31 Ruas Jalan di Jakarta Dialihkan",
+        "Link": "https://pemantiknews.id/posts/698900/ingat-malam-perayaan-hut-ke-80-ri-lalin-31-ruas-jalan-di-jakarta-dialihkan",
+        "Kategori": "Network",
+        "Waktu Terbit": "15 Agustus 2025 17:20:21",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:21",
+        "Penulis": "-"
+    },
+    {
+        "Judul": "Prediksi dan Link Live Streaming Wolves vs Manchester City di Liga Inggris 2025-2026",
+        "Link": "https://skor.republika.co.id/posts/698926/prediksi-dan-link-live-streaming-wolves-vs-manchester-city-di-liga-inggris-2025-2026",
+        "Kategori": "Network",
+        "Waktu Terbit": "15 Agustus 2025 17:20:22",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:22",
+        "Penulis": "Pradipta Indra Kumara"
+    },
+    {
+        "Judul": "Pasar Otomotif Indonesia 2025 Masih Lesu, Mobil Listrik Jadi Pengecualian",
+        "Link": "https://motoresto.id/posts/698903/pasar-otomotif-indonesia-2025-masih-lesu-mobil-listrik-jadi-pengecualian",
+        "Kategori": "Network",
+        "Waktu Terbit": "15 Agustus 2025 17:20:23",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:23",
+        "Penulis": "-"
+    },
+    {
+        "Judul": "Merawat Komitmen Peningkatan Literasi dari BRI Peduli untuk Negeri",
+        "Link": "https://pemantiknews.id/posts/698916/merawat-komitmen-peningkatan-literasi-dari-bri-peduli-untuk-negeri",
+        "Kategori": "Network",
+        "Waktu Terbit": "15 Agustus 2025 17:20:24",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:24",
+        "Penulis": "-"
+    },
+    {
+        "Judul": "Aipda Robig Resmi Dipecat, Keluarga Gamma: Ini Pelajaran Agar Polisi tak Mudah Tembak Rakyat",
+        "Link": "https://news.republika.co.id/berita/t11606487/aipda-robig-resmi-dipecat-keluarga-gamma-ini-pelajaran-agar-polisi-tak-mudah-tembak-rakyat",
+        "Kategori": "News",
+        "Waktu Terbit": "15 Agustus 2025 17:19:25",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:25",
+        "Penulis": "Mas Alamil Huda"
+    },
+    {
+        "Judul": "Satgas Pangan Polresta Samarinda Pastikan Stok Beras Aman, Harga Stabil",
+        "Link": "https://sekitarkaltim.id/posts/698924/satgas-pangan-polresta-samarinda-pastikan-stok-beras-aman-harga-stabil",
+        "Kategori": "Network",
+        "Waktu Terbit": "15 Agustus 2025 17:19:26",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:26",
+        "Penulis": "-"
+    },
+    {
+        "Judul": "10 Pegawai RSUD Terbesar di Sukabumi Terindikasi Gunakan Narkoba",
+        "Link": "https://sukabumikini.com/posts/698925/10-pegawai-rsud-terbesar-di-sukabumi-terindikasi-gunakan-narkoba",
+        "Kategori": "Network",
+        "Waktu Terbit": "15 Agustus 2025 17:19:27",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:27",
+        "Penulis": "-"
+    },
+    {
+        "Judul": "Begini Strategi Telkom Tingkatkan Market Share B2B ICT di Indonesia",
+        "Link": "https://ekonomi.republika.co.id/berita/t115r6368/begini-strategi-telkom-tingkatkan-market-share-b2b-ict-di-indonesia",
+        "Kategori": "Ekonomi",
+        "Waktu Terbit": "15 Agustus 2025 17:14:28",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:28",
+        "Penulis": "Dwi Murdaningsih"
+    },
+    {
+        "Judul": "Pernah Gagal, Saren tak Menyerah Dapatkan Beasiswa LPDP di NUS Business School",
+        "Link": "https://news.republika.co.id/berita/t115hi487/pernah-gagal-saren-tak-menyerah-dapatkan-beasiswa-lpdp-di-nus-business-school",
+        "Kategori": "News",
+        "Waktu Terbit": "15 Agustus 2025 17:13:29",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:29",
+        "Penulis": "Mas Alamil Huda"
+    },
+    {
+        "Judul": "Swasembada Pangan di HUT ke-80 RI: Rekam Jejak 7 Bulan Pemerintahan Prabowo",
+        "Link": "https://analisis.republika.co.id/berita/t115e6483/swasembada-pangan-di-hut-ke80-ri-rekam-jejak-7-bulan-pemerintahan-prabowo",
+        "Kategori": "Kolom",
+        "Waktu Terbit": "15 Agustus 2025 17:13:30",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:30",
+        "Penulis": "A.Syalaby Ichsan"
+    },
+    {
+        "Judul": "Disambut Gemuruh Standing Applause, Prabowo Targetkan APBN 2027 Bebas Utang",
+        "Link": "https://ekonomi.republika.co.id/berita/t1154d490/disambut-gemuruh-standing-applause-prabowo-targetkan-apbn-2027-bebas-utang",
+        "Kategori": "Ekonomi",
+        "Waktu Terbit": "15 Agustus 2025 17:13:30",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:30",
+        "Penulis": "Ahmad Fikri Noor"
+    },
+    {
+        "Judul": "Anggaran Pendidikan 2026 Capai Rp757,8 Triliun, Prabowo: Terbesar Sepanjang Sejarah",
+        "Link": "https://ekonomi.republika.co.id/berita/t1153o416/anggaran-pendidikan-2026-capai-rp7578-triliun-prabowo-terbesar-sepanjang-sejarah",
+        "Kategori": "Ekonomi",
+        "Waktu Terbit": "15 Agustus 2025 17:13:31",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:31",
+        "Penulis": "Satria K Yudha"
+    },
+    {
+        "Judul": "Mortir Seberat 350 Kg Bekas Perang Dunia II Diledakkan di Yogya, 13 Rumah Rusak",
+        "Link": "https://rejogja.republika.co.id/berita/t1152s282/mortir-seberat-350-kg-bekas-perang-dunia-ii-diledakkan-di-yogya-13-rumah-rusak",
+        "Kategori": "Rejogja",
+        "Waktu Terbit": "15 Agustus 2025 17:13:32",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:32",
+        "Penulis": "Karta Raharja Ucu"
+    },
+    {
+        "Judul": "Program Makan Bergizi Gratis 2026 Sasar 82,9 Juta Penerima Manfaat, Anggarannya Segini",
+        "Link": "https://ekonomi.republika.co.id/berita/t114m3370/program-makan-bergizi-gratis-2026-sasar-829-juta-penerima-manfaat-anggarannya-segini",
+        "Kategori": "Ekonomi",
+        "Waktu Terbit": "15 Agustus 2025 17:13:33",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:33",
+        "Penulis": "Friska Yolandha"
+    },
+    {
+        "Judul": "Kado HUT RI, Kang DS Siapkan Rp 1 Triliun untuk Bangun Jalan",
+        "Link": "https://rejabar.republika.co.id/berita/t114ms368/kado-hut-ri-kang-ds-siapkan-rp-1-triliun-untuk-bangun-jalan",
+        "Kategori": "Rejabar",
+        "Waktu Terbit": "15 Agustus 2025 17:13:33",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:33",
+        "Penulis": "Dwi Murdaningsih"
+    },
+    {
+        "Judul": "Prabowo Pastikan Pembangunan IKN Lanjut, Ini Penjelasan Mensesneg",
+        "Link": "https://ekonomi.republika.co.id/berita/t114bg490/prabowo-pastikan-pembangunan-ikn-lanjut-ini-penjelasan-mensesneg",
+        "Kategori": "Ekonomi",
+        "Waktu Terbit": "15 Agustus 2025 16:13:34",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:34",
+        "Penulis": "Ahmad Fikri Noor"
+    },
+    {
+        "Judul": "Perkuat Efisiensi Logistik Nasional, Bea Cukai Gelar Sosialisasi Kajian Standardisasi Data NLE",
+        "Link": "https://republika.co.id/berita//t1149m368/perkuat-efisiensi-logistik-nasional-bea-cukai-gelar-sosialisasi-kajian-standardisasi-data-nle",
+        "Kategori": "Beacukai",
+        "Waktu Terbit": "15 Agustus 2025 16:13:35",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:35",
+        "Penulis": "-"
+    },
+    {
+        "Judul": "Puluhan Bangunan Diduga Objek Cagar Budaya Warisan Belanda Teridentifikasi di Kota Cimahi",
+        "Link": "https://rejabar.republika.co.id/berita/t1146f512/puluhan-bangunan-diduga-objek-cagar-budaya-warisan-belanda-teridentifikasi-di-kota-cimahi",
+        "Kategori": "Rejabar",
+        "Waktu Terbit": "15 Agustus 2025 16:13:36",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:36",
+        "Penulis": "Arie Lukihardianti"
+    },
+    {
+        "Judul": "Modi Ancam Serang Pakistan di Hari Kemerdekaan, Sharif Umumkan Komando Pasukan Roket",
+        "Link": "https://khazanah.republika.co.id/berita/t11428483/modi-ancam-serang-pakistan-di-hari-kemerdekaan-sharif-umumkan-komando-pasukan-roket",
+        "Kategori": "Khazanah",
+        "Waktu Terbit": "15 Agustus 2025 16:13:37",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:37",
+        "Penulis": "A.Syalaby Ichsan"
+    },
+    {
+        "Judul": "Sengketa dengan Negara Tetangga, Prabowo: Itu Warisan Penjajah, Kita Mau Diadu Domba dengan Malaysia",
+        "Link": "https://news.republika.co.id/berita/t1140p377/sengketa-dengan-negara-tetangga-prabowo-itu-warisan-penjajah-kita-mau-diadu-domba-dengan-malaysia",
+        "Kategori": "News",
+        "Waktu Terbit": "15 Agustus 2025 16:13:38",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:38",
+        "Penulis": "Teguh Firmansyah"
+    },
+    {
+        "Judul": "QRIS Digunakan 39,7 Juta Merchant, 93 Persen UMKM",
+        "Link": "https://ekonomi.republika.co.id/berita/t113x5370/qris-digunakan-397-juta-merchant-93-persen-umkm",
+        "Kategori": "Ekonomi",
+        "Waktu Terbit": "15 Agustus 2025 16:13:39",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:39",
+        "Penulis": "Friska Yolandha"
+    },
+    {
+        "Judul": "BI Catat ULN Indonesia Capai Rp 6.980 Triliun pada Kuartal II 2025",
+        "Link": "https://ekonomi.republika.co.id/berita/t113ry490/bi-catat-uln-indonesia-capai-rp-6980-triliun-pada-kuartal-ii-2025",
+        "Kategori": "Ekonomi",
+        "Waktu Terbit": "15 Agustus 2025 16:13:39",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:39",
+        "Penulis": "Ahmad Fikri Noor"
+    },
+    {
+        "Judul": "Hadirkan 5 Cabor, OMIA 2025 Perkuat Semangat Olimpiade di Tanah Air",
+        "Link": "https://skor.republika.co.id/posts/698907/hadirkan-5-cabor-omia-2025-perkuat-semangat-olimpiade-di-tanah-air",
+        "Kategori": "Network",
+        "Waktu Terbit": "15 Agustus 2025 16:13:40",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:40",
+        "Penulis": "Sumargo Pangestu"
+    },
+    {
+        "Judul": "Prediksi dan Link Live Streaming PSIM vs Arema FC di Super League 2025-2026",
+        "Link": "https://skor.republika.co.id/posts/698906/prediksi-dan-link-live-streaming-psim-vs-arema-fc-di-super-league-2025-2026",
+        "Kategori": "Network",
+        "Waktu Terbit": "15 Agustus 2025 16:13:42",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:42",
+        "Penulis": "Taufani Rahmanda"
+    },
+    {
+        "Judul": "Sempat Cetak Rekor ke Level 8.000, IHSG Ditutup Anjlok 0,4 Persen",
+        "Link": "https://ekonomi.republika.co.id/berita/t113n7490/sempat-cetak-rekor-ke-level-8000-ihsg-ditutup-anjlok-04-persen",
+        "Kategori": "Ekonomi",
+        "Waktu Terbit": "15 Agustus 2025 16:13:42",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:42",
+        "Penulis": "Ahmad Fikri Noor"
+    },
+    {
+        "Judul": "New Balance Gandeng Pop Icon\u00a0Rosal\u00eda Jadi Brand Ambassador",
+        "Link": "https://ameera.republika.co.id/berita/t113i2349/new-balance-gandeng-pop-iconrosala-jadi-brand-ambassador",
+        "Kategori": "Ameera",
+        "Waktu Terbit": "15 Agustus 2025 16:13:43",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:43",
+        "Penulis": "Ichsan Emrald Alamsyah"
+    },
+    {
+        "Judul": "Gubernur Jateng: Keputusan Bupati Pati Sudewo Naikkan PBB 250 Persen Dilakukan Tanpa Kajian",
+        "Link": "https://rejogja.republika.co.id/berita/t113g4282/gubernur-jateng-keputusan-bupati-pati-sudewo-naikkan-pbb-250-persen-dilakukan-tanpa-kajian",
+        "Kategori": "Rejogja",
+        "Waktu Terbit": "15 Agustus 2025 16:13:44",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:44",
+        "Penulis": "Karta Raharja Ucu"
+    },
+    {
+        "Judul": "Dibekap Kekasih Gelap yang Cemburu, Seorang Wanita Ditemukan Tewas di Hotel Yogyakarta",
+        "Link": "https://rejogja.republika.co.id/berita/t113c8291/dibekap-kekasih-gelap-yang-cemburu-seorang-wanita-ditemukan-tewas-di-hotel-yogyakarta",
+        "Kategori": "Rejogja",
+        "Waktu Terbit": "15 Agustus 2025 16:13:45",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:45",
+        "Penulis": "Fernan Rahadi"
+    },
+    {
+        "Judul": "Prabowo Ingin Kemiskinan Ekstrem 0 Persen, Ketua DPRD Jateng: Tantangannya Berat, tapi...",
+        "Link": "https://rejogja.republika.co.id/berita/t1132f282/prabowo-ingin-kemiskinan-ekstrem-0-persen-ketua-dprd-jateng-tantangannya-berat-tapi",
+        "Kategori": "Rejogja",
+        "Waktu Terbit": "15 Agustus 2025 16:13:46",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:46",
+        "Penulis": "Karta Raharja Ucu"
+    },
+    {
+        "Judul": "Pengamat: Koperasi Desa/Kelurahan Merah Putih Harapan Baru Ekonomi Desa",
+        "Link": "https://ekonomi.republika.co.id/berita/t1131o370/pengamat-koperasi-desakelurahan-merah-putih-harapan-baru-ekonomi-desa",
+        "Kategori": "Ekonomi",
+        "Waktu Terbit": "15 Agustus 2025 16:13:47",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:47",
+        "Penulis": "Friska Yolandha"
+    },
+    {
+        "Judul": "Gerindra Tegur Keras Bupati Sudewo",
+        "Link": "https://news.republika.co.id/berita/t112ya377/gerindra-tegur-keras-bupati-sudewo",
+        "Kategori": "News",
+        "Waktu Terbit": "15 Agustus 2025 16:13:47",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:47",
+        "Penulis": "Teguh Firmansyah"
+    },
+    {
+        "Judul": "Presiden Prabowo Ungkap Situasi Geopolitik Dunia dan Sikap Indonesia",
+        "Link": "https://tv.republika.co.id/berita/t112y1313/presiden-prabowo-ungkap-situasi-geopolitik-dunia-dan-sikap-indonesia",
+        "Kategori": "Video",
+        "Waktu Terbit": "15 Agustus 2025 16:13:48",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:48",
+        "Penulis": "Agung Sasongko"
+    },
+    {
+        "Judul": "Pesan Untuk Israel dan Amerika: Jurnalistik Bukan Kejahatan, Jangan Dibunuh",
+        "Link": "https://khazanah.republika.co.id/berita/t112sd430/pesan-untuk-israel-dan-amerika-jurnalistik-bukan-kejahatan-jangan-dibunuh",
+        "Kategori": "Khazanah",
+        "Waktu Terbit": "15 Agustus 2025 16:13:50",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:50",
+        "Penulis": "Muhammad Hafil"
+    },
+    {
+        "Judul": "Banding Ditolak, Aipda Robig Resmi Dipecat Sebagai Anggota Polri",
+        "Link": "https://rejogja.republika.co.id/berita/t112nj282/banding-ditolak-aipda-robig-resmi-dipecat-sebagai-anggota-polri",
+        "Kategori": "Rejogja",
+        "Waktu Terbit": "15 Agustus 2025 16:13:50",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:50",
+        "Penulis": "Karta Raharja Ucu"
+    },
+    {
+        "Judul": "Prabowo Kembali Banggakan Pertumbuhan Ekonomi 5,12 Persen di Pidato Nota Keuangan",
+        "Link": "https://ekonomi.republika.co.id/berita/t112f9490/prabowo-kembali-banggakan-pertumbuhan-ekonomi-512-persen-di-pidato-nota-keuangan",
+        "Kategori": "Ekonomi",
+        "Waktu Terbit": "15 Agustus 2025 16:13:51",
+        "Waktu Scrapping": "15 Agustus 2025 18:13:51",
+        "Penulis": "Ahmad Fikri Noor"
+    }
+]
