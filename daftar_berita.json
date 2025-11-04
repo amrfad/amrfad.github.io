@@ -1,58 +1,138 @@
 [
     {
+        "Judul": "Nova Arianto Apresiasi Permainan Timnas U-17 Indonesia, Bersiap Hadapi Brasil",
+        "Link": "https://skor.republika.co.id/posts/716046/nova-arianto-apresiasi-permainan-timnas-u-17-indonesia-bersiap-hadapi-brasil",
+        "Kategori": "Network",
+        "Waktu Terbit": "5 November 2025 06:09:40",
+        "Waktu Scrapping": "5 November 2025 06:13:40",
+        "Penulis": "Pradipta Indra Kumara"
+    },
+    {
+        "Judul": "Sita Rp1,6 M, KPK Sebut Gubernur Riau Abdul Wahid Telah Beberapa Kali Terima Penyerahan Uang",
+        "Link": "https://news.republika.co.id/berita/t585fk409/sita-rp16-m-kpk-sebut-gubernur-riau-abdul-wahid-telah-beberapa-kali-terima-penyerahan-uang",
+        "Kategori": "News",
+        "Waktu Terbit": "5 November 2025 06:04:41",
+        "Waktu Scrapping": "5 November 2025 06:13:41",
+        "Penulis": "Andri Saubani"
+    },
+    {
+        "Judul": "Dua Gol dan Satu Kartu Merah, Luis Diaz Tetap Jadi Pahlawan Bayern Munchen Saat Bekuk PSG di Paris",
+        "Link": "https://news.republika.co.id/berita/t5859h348/dua-gol-dan-satu-kartu-merah-luis-diaz-tetap-jadi-pahlawan-bayern-munchen-saat-bekuk-psg-di-paris",
+        "Kategori": "News",
+        "Waktu Terbit": "5 November 2025 06:00:42",
+        "Waktu Scrapping": "5 November 2025 06:13:42",
+        "Penulis": "Israr Itah"
+    },
+    {
+        "Judul": "Muhaimin: Pemerintah Siapkan Rp 12 Triliun Pelatihan Bahasa Lulusan SMA/SMK",
+        "Link": "https://news.republika.co.id/berita/t58542484/muhaimin-pemerintah-siapkan-rp-12-triliun-pelatihan-bahasa-lulusan-smasmk",
+        "Kategori": "News",
+        "Waktu Terbit": "5 November 2025 05:57:42",
+        "Waktu Scrapping": "5 November 2025 06:13:42",
+        "Penulis": "Erik Purnama Putra"
+    },
+    {
+        "Judul": "Liverpool Beri Kekalahan Pertama untuk Madrid di Liga Champions, Tandukan Mac Allister Jadi Penentu",
+        "Link": "https://news.republika.co.id/berita/t584ra348/liverpool-beri-kekalahan-pertama-untuk-madrid-di-liga-champions-tandukan-mac-allister-jadi-penentu",
+        "Kategori": "News",
+        "Waktu Terbit": "5 November 2025 05:49:43",
+        "Waktu Scrapping": "5 November 2025 06:13:43",
+        "Penulis": "Israr Itah"
+    },
+    {
+        "Judul": "Pemerintah Rencanakan Pembagian Tanah untuk Petani Miskin",
+        "Link": "https://news.republika.co.id/berita/t584jb6930000/pemerintah-rencanakan-pembagian-tanah-untuk-petani-miskin",
+        "Kategori": "News",
+        "Waktu Terbit": "5 November 2025 05:45:43",
+        "Waktu Scrapping": "5 November 2025 06:13:43",
+        "Penulis": "Antara"
+    },
+    {
+        "Judul": "5 Fakta Liverpool vs Real Madrid, Los Blancos Kembali Tumbang di Anfield",
+        "Link": "https://news.republika.co.id/berita/t584at40020296826001/5-fakta-liverpool-vs-real-madrid-los-blancos-kembali-tumbang-di-anfield",
+        "Kategori": "News",
+        "Waktu Terbit": "5 November 2025 05:39:44",
+        "Waktu Scrapping": "5 November 2025 06:13:44",
+        "Penulis": "Partner"
+    },
+    {
+        "Judul": "Tanda Orang Beriman yang Takut kepada Allah",
+        "Link": "https://khazanah.republika.co.id/berita/t58499430/tanda-orang-beriman-yang-takut-kepada-allah",
+        "Kategori": "Khazanah",
+        "Waktu Terbit": "5 November 2025 05:38:44",
+        "Waktu Scrapping": "5 November 2025 06:13:44",
+        "Penulis": "Muhammad Hafil"
+    },
+    {
+        "Judul": "Arsenal Bungkam Slavia Praha, Napoli Ditahan Eintracht Frankfurt",
+        "Link": "https://news.republika.co.id/berita/t5848r348/arsenal-bungkam-slavia-praha-napoli-ditahan-eintracht-frankfurt",
+        "Kategori": "News",
+        "Waktu Terbit": "5 November 2025 05:38:45",
+        "Waktu Scrapping": "5 November 2025 06:13:45",
+        "Penulis": "Israr Itah"
+    },
+    {
+        "Judul": "Pemkab Badung Pertimbangkan Masukan DPRD dalam Kebijakan Daerah",
+        "Link": "https://news.republika.co.id/berita/t583704530000/pemkab-badung-pertimbangkan-masukan-dprd-dalam-kebijakan-daerah",
+        "Kategori": "News",
+        "Waktu Terbit": "5 November 2025 05:16:46",
+        "Waktu Scrapping": "5 November 2025 06:13:46",
+        "Penulis": "Antara"
+    },
+    {
         "Judul": "Survei: 60 Persen Keluarga Khawatir Warisan tak Bertahan ke Anak",
         "Link": "https://ekonomi.republika.co.id/berita/t57cbu349/survei-60-persen-keluarga-khawatir-warisan-tak-bertahan-ke-anak",
         "Kategori": "Ekonomi",
-        "Waktu Terbit": "5 November 2025 05:04:44",
-        "Waktu Scrapping": "5 November 2025 05:13:44",
+        "Waktu Terbit": "5 November 2025 05:13:46",
+        "Waktu Scrapping": "5 November 2025 06:13:46",
         "Penulis": "Ichsan Emrald Alamsyah"
     },
     {
         "Judul": "Pengumuman Daftar Pembagian Tahap II PT Mimikids Garmindo, dkk",
         "Link": "https://republika.co.id/berita//t57g4j325/pengumuman-daftar-pembagian-tahap-ii-pt-mimikids-garmindo-dkk",
         "Kategori": "Native",
-        "Waktu Terbit": "5 November 2025 04:59:45",
-        "Waktu Scrapping": "5 November 2025 05:13:45",
+        "Waktu Terbit": "5 November 2025 05:13:47",
+        "Waktu Scrapping": "5 November 2025 06:13:47",
         "Penulis": "-"
     },
     {
         "Judul": "Pemerintah Perkuat Pemberdayaan Masyarakat agar Tak Bergantung Bansos",
         "Link": "https://news.republika.co.id/berita/t581r92630000/pemerintah-perkuat-pemberdayaan-masyarakat-agar-tak-bergantung-bansos",
         "Kategori": "News",
-        "Waktu Terbit": "5 November 2025 04:44:46",
-        "Waktu Scrapping": "5 November 2025 05:13:46",
+        "Waktu Terbit": "5 November 2025 05:13:48",
+        "Waktu Scrapping": "5 November 2025 06:13:48",
         "Penulis": "Antara"
     },
     {
         "Judul": "Mensos Usul MBG untuk Lansia dan Difabel di 2026",
         "Link": "https://news.republika.co.id/berita/t5812h10030000/mensos-usul-mbg-untuk-lansia-dan-difabel-di-2026",
         "Kategori": "News",
-        "Waktu Terbit": "5 November 2025 04:30:47",
-        "Waktu Scrapping": "5 November 2025 05:13:47",
+        "Waktu Terbit": "5 November 2025 04:13:48",
+        "Waktu Scrapping": "5 November 2025 06:13:48",
         "Penulis": "Antara"
     },
     {
         "Judul": "Presiden Prabowo Perintahkan Trayek Whoosh Diperpanjang Sampai Banyuwangi, Ini Keuntungannya",
         "Link": "https://rejogja.republika.co.id/berita/t57tpo282/presiden-prabowo-perintahkan-trayek-whoosh-diperpanjang-sampai-banyuwangi-ini-keuntungannya",
         "Kategori": "Rejogja",
-        "Waktu Terbit": "5 November 2025 04:16:48",
-        "Waktu Scrapping": "5 November 2025 05:13:48",
+        "Waktu Terbit": "5 November 2025 04:13:49",
+        "Waktu Scrapping": "5 November 2025 06:13:49",
         "Penulis": "Karta Raharja Ucu"
     },
     {
         "Judul": "Bupati Sudewo Gagal Dimakzulkan, Koordinator Demo Ditangkap, Warga Tuntut Bebaskan Tahanan Aksi Pati",
         "Link": "https://rejogja.republika.co.id/berita/t57wel282/bupati-sudewo-gagal-dimakzulkan-koordinator-demo-ditangkap-warga-tuntut-bebaskan-tahanan-aksi-pati",
         "Kategori": "Rejogja",
-        "Waktu Terbit": "5 November 2025 04:14:49",
-        "Waktu Scrapping": "5 November 2025 05:13:49",
+        "Waktu Terbit": "5 November 2025 04:13:49",
+        "Waktu Scrapping": "5 November 2025 06:13:49",
         "Penulis": "Karta Raharja Ucu"
     },
     {
         "Judul": "Gubernur Banten Dukung Rakernas BEM SI di Untirta",
         "Link": "https://news.republika.co.id/berita/t57zrs5030000/gubernur-banten-dukung-rakernas-bem-si-di-untirta",
         "Kategori": "News",
-        "Waktu Terbit": "5 November 2025 04:13:49",
-        "Waktu Scrapping": "5 November 2025 05:13:49",
+        "Waktu Terbit": "5 November 2025 04:13:50",
+        "Waktu Scrapping": "5 November 2025 06:13:50",
         "Penulis": "Antara"
     },
     {
@@ -60,7 +140,7 @@
         "Link": "https://rejogja.republika.co.id/berita/t57utr282/sebelum-dibawa-ke-imogiri-jenazah-pakubuwono-xiii-akan-dibawa-ke-lodji-gandrung",
         "Kategori": "Rejogja",
         "Waktu Terbit": "5 November 2025 04:13:50",
-        "Waktu Scrapping": "5 November 2025 05:13:50",
+        "Waktu Scrapping": "5 November 2025 06:13:50",
         "Penulis": "Karta Raharja Ucu"
     },
     {
@@ -68,15 +148,15 @@
         "Link": "https://khazanah.republika.co.id/berita/t57yr41658755160/jadwal-sholat-hari-ini-di-palembang-5-november-2025-temukan-waktu-terbaik-untuk-beribadah",
         "Kategori": "Khazanah",
         "Waktu Terbit": "5 November 2025 03:13:51",
-        "Waktu Scrapping": "5 November 2025 05:13:51",
+        "Waktu Scrapping": "5 November 2025 06:13:51",
         "Penulis": "Rebot"
     },
     {
         "Judul": "Bank Banten Gandeng Media untuk Bangun Kepercayaan Publik",
         "Link": "https://news.republika.co.id/berita/t57yac830000/bank-banten-gandeng-media-untuk-bangun-kepercayaan-publik",
         "Kategori": "News",
-        "Waktu Terbit": "5 November 2025 03:13:51",
-        "Waktu Scrapping": "5 November 2025 05:13:51",
+        "Waktu Terbit": "5 November 2025 03:13:52",
+        "Waktu Scrapping": "5 November 2025 06:13:52",
         "Penulis": "Antara"
     },
     {
@@ -84,7 +164,7 @@
         "Link": "https://news.republika.co.id/berita/t57xlb2730000/timnas-indonesia-u17-tetap-dengan-formasi-utama-hadapi-brasil-di-piala-dunia",
         "Kategori": "News",
         "Waktu Terbit": "5 November 2025 03:13:52",
-        "Waktu Scrapping": "5 November 2025 05:13:52",
+        "Waktu Scrapping": "5 November 2025 06:13:52",
         "Penulis": "Antara"
     },
     {
@@ -92,23 +172,23 @@
         "Link": "https://rejogja.republika.co.id/berita/t57vz4282/sultan-hb-x-dan-paku-alam-x-beri-penghormatan-terakhir-kepada-pakubuwono-xiii-di-keraton-solo",
         "Kategori": "Rejogja",
         "Waktu Terbit": "5 November 2025 03:13:53",
-        "Waktu Scrapping": "5 November 2025 05:13:53",
+        "Waktu Scrapping": "5 November 2025 06:13:53",
         "Penulis": "Karta Raharja Ucu"
     },
     {
         "Judul": "Jadwal Sholat Hari Ini 5 November 2025 di Yogyakarta: Jadwal Lengkap dan Pentingnya Sholat",
         "Link": "https://khazanah.republika.co.id/berita/t57xd2207797183/jadwal-sholat-hari-ini-5-november-2025-di-yogyakarta-jadwal-lengkap-dan-pentingnya-sholat",
         "Kategori": "Khazanah",
-        "Waktu Terbit": "5 November 2025 03:13:53",
-        "Waktu Scrapping": "5 November 2025 05:13:53",
+        "Waktu Terbit": "5 November 2025 03:13:54",
+        "Waktu Scrapping": "5 November 2025 06:13:54",
         "Penulis": "Rebot"
     },
     {
         "Judul": "Kirab Adat akan Iringi Jenazah Pakubuwono XIII dari Keraton Surakarta Sebelum Dimakamkan di Imogiri",
         "Link": "https://rejogja.republika.co.id/berita/t57u8d282/kirab-adat-akan-iringi-jenazah-pakubuwono-xiii-dari-keraton-surakarta-sebelum-dimakamkan-di-imogiri",
         "Kategori": "Rejogja",
-        "Waktu Terbit": "5 November 2025 03:13:54",
-        "Waktu Scrapping": "5 November 2025 05:13:54",
+        "Waktu Terbit": "5 November 2025 03:13:55",
+        "Waktu Scrapping": "5 November 2025 06:13:55",
         "Penulis": "Karta Raharja Ucu"
     },
     {
@@ -116,15 +196,15 @@
         "Link": "https://khazanah.republika.co.id/berita/t57vuc325773054/jadwal-sholat-hari-ini-di-jakarta-5-november-2025",
         "Kategori": "Khazanah",
         "Waktu Terbit": "5 November 2025 02:13:55",
-        "Waktu Scrapping": "5 November 2025 05:13:55",
+        "Waktu Scrapping": "5 November 2025 06:13:55",
         "Penulis": "Rebot"
     },
     {
         "Judul": "Perempuan Ditemukan Tewas Bersimbah Darah di Rumah Kontrakan Gamping Sleman",
         "Link": "https://rejogja.republika.co.id/berita/t57vd7282/perempuan-ditemukan-tewas-bersimbah-darah-di-rumah-kontrakan-gamping-sleman",
         "Kategori": "Rejogja",
-        "Waktu Terbit": "5 November 2025 02:13:55",
-        "Waktu Scrapping": "5 November 2025 05:13:55",
+        "Waktu Terbit": "5 November 2025 02:13:56",
+        "Waktu Scrapping": "5 November 2025 06:13:56",
         "Penulis": "Karta Raharja Ucu"
     },
     {
@@ -132,79 +212,79 @@
         "Link": "https://rejogja.republika.co.id/berita/t57thz282/jenazah-pakubuwono-xiii-dipakaikan-busana-raja-keraton-surakarta-sebelum-dibungkus-kain-kafan",
         "Kategori": "Rejogja",
         "Waktu Terbit": "5 November 2025 02:13:56",
-        "Waktu Scrapping": "5 November 2025 05:13:56",
+        "Waktu Scrapping": "5 November 2025 06:13:56",
         "Penulis": "Karta Raharja Ucu"
     },
     {
         "Judul": "Jadwal Sholat Hari Ini: Medan 5 November 2025",
         "Link": "https://khazanah.republika.co.id/berita/t57uea149329217/jadwal-sholat-hari-ini-medan-5-november-2025",
         "Kategori": "Khazanah",
-        "Waktu Terbit": "5 November 2025 02:13:57",
-        "Waktu Scrapping": "5 November 2025 05:13:57",
+        "Waktu Terbit": "5 November 2025 02:13:58",
+        "Waktu Scrapping": "5 November 2025 06:13:58",
         "Penulis": "Rebot"
     },
     {
         "Judul": "Keraton Yogya Hentikan Bunyi Gamelan Sampai Raja Surakarta Pakubuwono XIII Dikebumikan",
         "Link": "https://rejogja.republika.co.id/berita/t57tx7282/keraton-yogya-hentikan-bunyi-gamelan-sampai-raja-surakarta-pakubuwono-xiii-dikebumikan",
         "Kategori": "Rejogja",
-        "Waktu Terbit": "5 November 2025 02:13:58",
-        "Waktu Scrapping": "5 November 2025 05:13:58",
+        "Waktu Terbit": "5 November 2025 02:13:59",
+        "Waktu Scrapping": "5 November 2025 06:13:59",
         "Penulis": "Karta Raharja Ucu"
     },
     {
         "Judul": "KPK Sita Mata Uang Asing dari Rumah Gubernur Riau Abdul Wahid",
         "Link": "https://news.republika.co.id/berita/t57tof1130000/kpk-sita-mata-uang-asing-dari-rumah-gubernur-riau-abdul-wahid",
         "Kategori": "News",
-        "Waktu Terbit": "5 November 2025 02:13:58",
-        "Waktu Scrapping": "5 November 2025 05:13:58",
+        "Waktu Terbit": "5 November 2025 02:13:59",
+        "Waktu Scrapping": "5 November 2025 06:13:59",
         "Penulis": "Antara"
     },
     {
         "Judul": "Pembangunan Sekolah Rakyat di Nagan Raya Dimulai Akhir November",
         "Link": "https://news.republika.co.id/berita/t57tnp2630000/pembangunan-sekolah-rakyat-di-nagan-raya-dimulai-akhir-november",
         "Kategori": "News",
-        "Waktu Terbit": "5 November 2025 02:13:59",
-        "Waktu Scrapping": "5 November 2025 05:13:59",
+        "Waktu Terbit": "5 November 2025 02:14:00",
+        "Waktu Scrapping": "5 November 2025 06:14:00",
         "Penulis": "Antara"
     },
     {
         "Judul": "KPK Prihatin Abdul Wahid Jadi Gubernur Riau Keempat Tersangkut Kasus Korupsi",
         "Link": "https://news.republika.co.id/berita/t57tlx8530000/kpk-prihatin-abdul-wahid-jadi-gubernur-riau-keempat-tersangkut-kasus-korupsi",
         "Kategori": "News",
-        "Waktu Terbit": "5 November 2025 02:13:59",
-        "Waktu Scrapping": "5 November 2025 05:13:59",
+        "Waktu Terbit": "5 November 2025 02:14:00",
+        "Waktu Scrapping": "5 November 2025 06:14:00",
         "Penulis": "Antara"
     },
     {
         "Judul": "LPSK Terima 12.243 Permohonan Perlindungan hingga Awal November",
         "Link": "https://news.republika.co.id/berita/t57tli7630000/lpsk-terima-12243-permohonan-perlindungan-hingga-awal-november",
         "Kategori": "News",
-        "Waktu Terbit": "5 November 2025 02:14:00",
-        "Waktu Scrapping": "5 November 2025 05:14:00",
+        "Waktu Terbit": "5 November 2025 02:14:01",
+        "Waktu Scrapping": "5 November 2025 06:14:01",
         "Penulis": "Antara"
     },
     {
         "Judul": "DPRA Dorong Pembangunan Pelabuhan Ekspor CPO di Barat Aceh",
         "Link": "https://news.republika.co.id/berita/t57tjt4630000/dpra-dorong-pembangunan-pelabuhan-ekspor-cpo-di-barat-aceh",
         "Kategori": "News",
-        "Waktu Terbit": "5 November 2025 02:14:01",
-        "Waktu Scrapping": "5 November 2025 05:14:01",
+        "Waktu Terbit": "5 November 2025 02:14:02",
+        "Waktu Scrapping": "5 November 2025 06:14:02",
         "Penulis": "Antara"
     },
     {
         "Judul": "Jasa Marga Lanjutkan Pemeliharaan Tol Cipularang dan Padaleunyi",
         "Link": "https://news.republika.co.id/berita/t57tj21830000/jasa-marga-lanjutkan-pemeliharaan-tol-cipularang-dan-padaleunyi",
         "Kategori": "News",
-        "Waktu Terbit": "5 November 2025 02:14:01",
-        "Waktu Scrapping": "5 November 2025 05:14:01",
+        "Waktu Terbit": "5 November 2025 02:14:02",
+        "Waktu Scrapping": "5 November 2025 06:14:02",
         "Penulis": "Antara"
     },
     {
         "Judul": "Polres Tapin Olah Lahan Tidur untuk Tanam Jagung Hibrida",
         "Link": "https://news.republika.co.id/berita/t57th08930000/polres-tapin-olah-lahan-tidur-untuk-tanam-jagung-hibrida",
         "Kategori": "News",
-        "Waktu Terbit": "5 November 2025 02:14:02",
-        "Waktu Scrapping": "5 November 2025 05:14:02",
+        "Waktu Terbit": "5 November 2025 02:14:03",
+        "Waktu Scrapping": "5 November 2025 06:14:03",
         "Penulis": "Antara"
     },
     {
@@ -212,23 +292,23 @@
         "Link": "https://khazanah.republika.co.id/berita/t57tfd1069365568/artikel-sholat-yang-menguatkan-iman-dan-jadwal-sholat-hari-ini-di-depok-5-november-2025",
         "Kategori": "Khazanah",
         "Waktu Terbit": "5 November 2025 02:14:03",
-        "Waktu Scrapping": "5 November 2025 05:14:03",
+        "Waktu Scrapping": "5 November 2025 06:14:03",
         "Penulis": "Rebot"
     },
     {
         "Judul": "DPR Aceh Dukung Pembangunan Terowongan Geurutee di Aceh Jaya",
         "Link": "https://news.republika.co.id/berita/t57sqi9330000/dpr-aceh-dukung-pembangunan-terowongan-geurutee-di-aceh-jaya",
         "Kategori": "News",
-        "Waktu Terbit": "5 November 2025 01:14:03",
-        "Waktu Scrapping": "5 November 2025 05:14:03",
+        "Waktu Terbit": "5 November 2025 01:14:04",
+        "Waktu Scrapping": "5 November 2025 06:14:04",
         "Penulis": "Antara"
     },
     {
         "Judul": "Ini Jalan yang akan Dilewati Rombongan Pengantar Jenazah Pakubuwono XIII Hingga Pemakaman Imogiri",
         "Link": "https://rejogja.republika.co.id/berita/t57sif282/ini-jalan-yang-akan-dilewati-rombongan-pengantar-jenazah-pakubuwono-xiii-hingga-pemakaman-imogiri",
         "Kategori": "Rejogja",
-        "Waktu Terbit": "5 November 2025 01:14:04",
-        "Waktu Scrapping": "5 November 2025 05:14:04",
+        "Waktu Terbit": "5 November 2025 01:14:05",
+        "Waktu Scrapping": "5 November 2025 06:14:05",
         "Penulis": "Karta Raharja Ucu"
     },
     {
@@ -236,15 +316,15 @@
         "Link": "https://news.republika.co.id/berita/t57s1l230000/tabalong-luncurkan-mobil-reaksi-cepat-untuk-perbaikan-infrastruktur",
         "Kategori": "News",
         "Waktu Terbit": "5 November 2025 01:14:05",
-        "Waktu Scrapping": "5 November 2025 05:14:05",
+        "Waktu Scrapping": "5 November 2025 06:14:05",
         "Penulis": "Antara"
     },
     {
         "Judul": "Astra Property Ekspansi ke Pusat Perkantoran Modern dan Kawasan Logistik",
         "Link": "https://ekonomi.republika.co.id/berita/t57s0s483/astra-property-ekspansi-ke-pusat-perkantoran-modern-dan-kawasan-logistik",
         "Kategori": "Ekonomi",
-        "Waktu Terbit": "5 November 2025 01:14:05",
-        "Waktu Scrapping": "5 November 2025 05:14:05",
+        "Waktu Terbit": "5 November 2025 01:14:06",
+        "Waktu Scrapping": "5 November 2025 06:14:06",
         "Penulis": "A.Syalaby Ichsan"
     },
     {
@@ -252,7 +332,7 @@
         "Link": "https://news.republika.co.id/berita/t57rc97230000/korban-hanyut-di-sungai-panpan-ditemukan-meninggal-di-nduga",
         "Kategori": "News",
         "Waktu Terbit": "5 November 2025 01:14:06",
-        "Waktu Scrapping": "5 November 2025 05:14:06",
+        "Waktu Scrapping": "5 November 2025 06:14:06",
         "Penulis": "Antara"
     },
     {
@@ -260,39 +340,39 @@
         "Link": "https://khazanah.republika.co.id/berita/t57r93315498671/jadwal-sholat-hari-ini-5-november-2025-untuk-bandung-ketentuan-waktu-dan-hikmah",
         "Kategori": "Khazanah",
         "Waktu Terbit": "5 November 2025 01:14:07",
-        "Waktu Scrapping": "5 November 2025 05:14:07",
+        "Waktu Scrapping": "5 November 2025 06:14:07",
         "Penulis": "Rebot"
     },
     {
         "Judul": "Kena Comeback, Timnas U-17 Indonesia Awali Piala Dunia U-17 2025 dengan Kekalahan",
         "Link": "https://skor.republika.co.id/posts/716035/kena-comeback-timnas-u-17-indonesia-awali-piala-dunia-u-17-2025-dengan-kekalahan",
         "Kategori": "Network",
-        "Waktu Terbit": "5 November 2025 01:14:07",
-        "Waktu Scrapping": "5 November 2025 05:14:07",
+        "Waktu Terbit": "5 November 2025 01:14:08",
+        "Waktu Scrapping": "5 November 2025 06:14:08",
         "Penulis": "Taufani Rahmanda"
     },
     {
         "Judul": "Indonesia Tersandung pada Laga Pertama Piala Dunia U-17 2025, Dijegal Zambia 1-3",
         "Link": "https://news.republika.co.id/berita/t57qp6348/indonesia-tersandung-pada-laga-pertama-piala-dunia-u17-2025-dijegal-zambia-13",
         "Kategori": "News",
-        "Waktu Terbit": "5 November 2025 01:14:08",
-        "Waktu Scrapping": "5 November 2025 05:14:08",
+        "Waktu Terbit": "5 November 2025 01:14:09",
+        "Waktu Scrapping": "5 November 2025 06:14:09",
         "Penulis": "Israr Itah"
     },
     {
         "Judul": "Polres Jombang Tangkap Terduga Pelaku Pembunuhan Nenek",
         "Link": "https://news.republika.co.id/berita/t57qn96730000/polres-jombang-tangkap-terduga-pelaku-pembunuhan-nenek",
         "Kategori": "News",
-        "Waktu Terbit": "5 November 2025 01:14:09",
-        "Waktu Scrapping": "5 November 2025 05:14:09",
+        "Waktu Terbit": "5 November 2025 01:14:10",
+        "Waktu Scrapping": "5 November 2025 06:14:10",
         "Penulis": "Antara"
     },
     {
         "Judul": "KPK: OTT Gubernur Riau Diwarnai Pengejaran, Tertangkap di Kafe",
         "Link": "https://tv.republika.co.id/berita/t57qki418/kpk-ott-gubernur-riau-diwarnai-pengejaran-tertangkap-di-kafe",
         "Kategori": "Video",
-        "Waktu Terbit": "5 November 2025 00:14:09",
-        "Waktu Scrapping": "5 November 2025 05:14:09",
+        "Waktu Terbit": "5 November 2025 00:14:10",
+        "Waktu Scrapping": "5 November 2025 06:14:10",
         "Penulis": "Fian Firatmaja"
     },
     {
@@ -300,15 +380,15 @@
         "Link": "https://news.republika.co.id/berita/t57pyv8730000/bps-kedai-kopi-jadi-penggerak-utama-ekonomi-kota-tanjungpinang",
         "Kategori": "News",
         "Waktu Terbit": "5 November 2025 00:14:11",
-        "Waktu Scrapping": "5 November 2025 05:14:11",
+        "Waktu Scrapping": "5 November 2025 06:14:11",
         "Penulis": "Antara"
     },
     {
         "Judul": "Jadwal Sholat Hari Ini di Surabaya, 5 November 2025: Ketahui Waktu Tepat Beribadah",
         "Link": "https://khazanah.republika.co.id/berita/t57pyd869315533/jadwal-sholat-hari-ini-di-surabaya-5-november-2025-ketahui-waktu-tepat-beribadah",
         "Kategori": "Khazanah",
-        "Waktu Terbit": "5 November 2025 00:14:11",
-        "Waktu Scrapping": "5 November 2025 05:14:11",
+        "Waktu Terbit": "5 November 2025 00:14:12",
+        "Waktu Scrapping": "5 November 2025 06:14:12",
         "Penulis": "Rebot"
     },
     {
@@ -316,87 +396,7 @@
         "Link": "https://news.republika.co.id/berita/t57p9v430000/kejari-bandung-periksa-enam-saksi-kasus-dugaan-penyalahgunaan-wewenang",
         "Kategori": "News",
         "Waktu Terbit": "5 November 2025 00:14:12",
-        "Waktu Scrapping": "5 November 2025 05:14:12",
+        "Waktu Scrapping": "5 November 2025 06:14:12",
         "Penulis": "Antara"
-    },
-    {
-        "Judul": "Jejak Sayyidina Ali di Masjid Sederhana Madinah yang Menyimpan Kedamaian",
-        "Link": "https://khazanah.republika.co.id/berita/t57ers366/jejak-sayyidina-ali-di-masjid-sederhana-madinah-yang-menyimpan-kedamaian",
-        "Kategori": "Khazanah",
-        "Waktu Terbit": "5 November 2025 00:14:13",
-        "Waktu Scrapping": "5 November 2025 05:14:13",
-        "Penulis": "Ani Nursalikah"
-    },
-    {
-        "Judul": "Keutamaan Shalat dalam Kehidupan Sehari-Hari: Jadwal Sholat Hari Ini 5 November 2025 di Makassar",
-        "Link": "https://khazanah.republika.co.id/berita/t57ons322977586/keutamaan-shalat-dalam-kehidupan-seharihari-jadwal-sholat-hari-ini-5-november-2025-di-makassar",
-        "Kategori": "Khazanah",
-        "Waktu Terbit": "5 November 2025 00:14:13",
-        "Waktu Scrapping": "5 November 2025 05:14:13",
-        "Penulis": "Rebot"
-    },
-    {
-        "Judul": "Delapan Pengendara Motor Jatuh Akibat Tumpahan Oli di Jakarta Utara",
-        "Link": "https://news.republika.co.id/berita/t57ok85930000/delapan-pengendara-motor-jatuh-akibat-tumpahan-oli-di-jakarta-utara",
-        "Kategori": "News",
-        "Waktu Terbit": "5 November 2025 00:14:14",
-        "Waktu Scrapping": "5 November 2025 05:14:14",
-        "Penulis": "Antara"
-    },
-    {
-        "Judul": "Kodim Kota Bandung Periksa Danramil Arcamanik Imbas Surat Izin",
-        "Link": "https://seputarmiliter.id/posts/716004/kodim-kota-bandung-periksa-danramil-arcamanik-imbas-surat-izin",
-        "Kategori": "Network",
-        "Waktu Terbit": "5 November 2025 00:14:15",
-        "Waktu Scrapping": "5 November 2025 05:14:15",
-        "Penulis": "-"
-    },
-    {
-        "Judul": "Brigadir AK Dituntut 14 Tahun Penjara, Terjerat Kasus Apa?",
-        "Link": "https://sekitarkaltim.id/posts/716006/brigadir-ak-dituntut-14-tahun-penjara-terjerat-kasus-apa-",
-        "Kategori": "Network",
-        "Waktu Terbit": "5 November 2025 00:14:16",
-        "Waktu Scrapping": "5 November 2025 05:14:16",
-        "Penulis": "-"
-    },
-    {
-        "Judul": "Ketua MUI: Bangsa yang Besar Adalah yang Menghargai Pahlawannya",
-        "Link": "https://rublikasi.com/posts/716023/ketua-mui-bangsa-yang-besar-adalah-yang-menghargai-pahlawannya",
-        "Kategori": "Network",
-        "Waktu Terbit": "5 November 2025 00:14:17",
-        "Waktu Scrapping": "5 November 2025 05:14:17",
-        "Penulis": "-"
-    },
-    {
-        "Judul": "Selamatan di Bledug Kuwu, Meninggal karena Potong Babi",
-        "Link": "https://oohya.republika.co.id/posts/715974/selamatan-di-bledug-kuwu-meninggal-karena-potong-babi",
-        "Kategori": "Network",
-        "Waktu Terbit": "5 November 2025 00:14:19",
-        "Waktu Scrapping": "5 November 2025 05:14:19",
-        "Penulis": "Oohya!  I  Demi Indonesia"
-    },
-    {
-        "Judul": "KPK: Gubernur Riau Sempat Kabur ke Kafe Saat OTT, tapi Berhasil Ditangkap",
-        "Link": "https://news.republika.co.id/berita/t57nw0348/kpk-gubernur-riau-sempat-kabur-ke-kafe-saat-ott-tapi-berhasil-ditangkap",
-        "Kategori": "News",
-        "Waktu Terbit": "5 November 2025 00:14:20",
-        "Waktu Scrapping": "5 November 2025 05:14:20",
-        "Penulis": "Israr Itah"
-    },
-    {
-        "Judul": "Ratusan Polisi akan Amankan Pemakaman Raja Solo PB XIII di Imogiri",
-        "Link": "https://rejogja.republika.co.id/berita/t57nsh282/ratusan-polisi-akan-amankan-pemakaman-raja-solo-pb-xiii-di-imogiri",
-        "Kategori": "Rejogja",
-        "Waktu Terbit": "4 November 2025 23:14:20",
-        "Waktu Scrapping": "5 November 2025 05:14:20",
-        "Penulis": "Karta Raharja Ucu"
-    },
-    {
-        "Judul": "Calon Jamaah Haji Diimbau Jaga Kesehatan dan Rutin Berolahraga",
-        "Link": "https://khazanah.republika.co.id/berita/t577c2366/calon-jamaah-haji-diimbau-jaga-kesehatan-dan-rutin-berolahraga",
-        "Kategori": "Khazanah",
-        "Waktu Terbit": "4 November 2025 23:14:21",
-        "Waktu Scrapping": "5 November 2025 05:14:21",
-        "Penulis": "Ani Nursalikah"
     }
 ]
