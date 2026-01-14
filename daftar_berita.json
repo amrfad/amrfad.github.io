@@ -1,106 +1,186 @@
 [
     {
+        "Judul": "BYD Perkenalkan Fasilitas Komplet Sirkuit All-Terrain NEV Canggih di Zhengzhou",
+        "Link": "https://ekonomi.republika.co.id/berita/t8v14d348/byd-perkenalkan-fasilitas-komplet-sirkuit-allterrain-nev-canggih-di-zhengzhou",
+        "Kategori": "Ekonomi",
+        "Waktu Terbit": "14 Januari 2026 22:16:39",
+        "Waktu Scrapping": "14 Januari 2026 22:20:39",
+        "Penulis": "Israr Itah"
+    },
+    {
+        "Judul": "Realisasi Penerimaan Pajak Pariwisata Bandung Barat pada 2025 Naik, Segini Besarannya!",
+        "Link": "https://rejabar.republika.co.id/berita/t8uzut282/realisasi-penerimaan-pajak-pariwisata-bandung-barat-pada-2025-naik-segini-besarannya",
+        "Kategori": "Rejabar",
+        "Waktu Terbit": "14 Januari 2026 22:04:40",
+        "Waktu Scrapping": "14 Januari 2026 22:20:40",
+        "Penulis": "Karta Raharja Ucu"
+    },
+    {
+        "Judul": "Angga Yunanda dan Dodit Mulyanto Jadi Saudara Kembar di Film Sebelum Dijemput Nenek",
+        "Link": "https://ameera.republika.co.id/berita/t8v0i0425/angga-yunanda-dan-dodit-mulyanto-jadi-saudara-kembar-di-film-sebelum-dijemput-nenek",
+        "Kategori": "Ameera",
+        "Waktu Terbit": "14 Januari 2026 22:03:41",
+        "Waktu Scrapping": "14 Januari 2026 22:20:41",
+        "Penulis": "Qommarria Rostanti"
+    },
+    {
+        "Judul": "Hindari Tabrakan, Bus Rombongan Pelajar Nganjuk Nyusruk ke Bahu Jalan Gunungkidul",
+        "Link": "https://rejogja.republika.co.id/berita/t8v07q282/hindari-tabrakan-bus-rombongan-pelajar-nganjuk-nyusruk-ke-bahu-jalan-gunungkidul",
+        "Kategori": "Rejogja",
+        "Waktu Terbit": "14 Januari 2026 21:57:42",
+        "Waktu Scrapping": "14 Januari 2026 22:20:42",
+        "Penulis": "Karta Raharja Ucu"
+    },
+    {
+        "Judul": "Viral Kabar Purbaya Temukan Data Uang Jokowi Ribuan Triliun di Bank China, Kemenkeu Beri Klarifikasi",
+        "Link": "https://ekonomi.republika.co.id/berita/t8uzzn502/viral-kabar-purbaya-temukan-data-uang-jokowi-ribuan-triliun-di-bank-china-kemenkeu-beri-klarifikasi",
+        "Kategori": "Ekonomi",
+        "Waktu Terbit": "14 Januari 2026 21:52:43",
+        "Waktu Scrapping": "14 Januari 2026 22:20:43",
+        "Penulis": "Lida Puspaningtyas"
+    },
+    {
+        "Judul": "KPK Tegaskan Punya Bukti Atas Dugaan Ketua PBNU Terima Aliran Dana Terkait Kasus Yaqut",
+        "Link": "https://news.republika.co.id/berita/t8ux3k409/kpk-tegaskan-punya-bukti-atas-dugaan-ketua-pbnu-terima-aliran-dana-terkait-kasus-yaqut",
+        "Kategori": "News",
+        "Waktu Terbit": "14 Januari 2026 21:39:43",
+        "Waktu Scrapping": "14 Januari 2026 22:20:43",
+        "Penulis": "Andri Saubani"
+    },
+    {
+        "Judul": "Halal Jadi Gaya Hidup Global, RI Dinilai Belum Maksimal Ambil Peluang",
+        "Link": "https://sharia.republika.co.id/berita/t8uz6k483/halal-jadi-gaya-hidup-global-ri-dinilai-belum-maksimal-ambil-peluang",
+        "Kategori": "Ekonomi Syariah",
+        "Waktu Terbit": "14 Januari 2026 21:34:44",
+        "Waktu Scrapping": "14 Januari 2026 22:20:44",
+        "Penulis": "A.Syalaby Ichsan"
+    },
+    {
+        "Judul": "Sempat Dirawat di RS, Pejalan Kaki Tewas Ditabrak Pemotor di Jalan M Toha Bandung",
+        "Link": "https://rejabar.republika.co.id/berita/t8uyqr282/sempat-dirawat-di-rs-pejalan-kaki-tewas-ditabrak-pemotor-di-jalan-m-toha-bandung",
+        "Kategori": "Rejabar",
+        "Waktu Terbit": "14 Januari 2026 21:33:46",
+        "Waktu Scrapping": "14 Januari 2026 22:20:46",
+        "Penulis": "Karta Raharja Ucu"
+    },
+    {
+        "Judul": "Waspada Child Grooming! Ini Kiat Melindungi Anak dari Jerat Manipulasi",
+        "Link": "https://ameera.republika.co.id/berita/t8uysd425/waspada-child-grooming-ini-kiat-melindungi-anak-dari-jerat-manipulasi",
+        "Kategori": "Ameera",
+        "Waktu Terbit": "14 Januari 2026 21:26:46",
+        "Waktu Scrapping": "14 Januari 2026 22:20:46",
+        "Penulis": "Qommarria Rostanti"
+    },
+    {
+        "Judul": "KAI Luncurkan Dua Lokomotif Langsir dengan Livery Ikonik di Era 90-an",
+        "Link": "https://visual.republika.co.id/berita/t8uyml375/kai-luncurkan-dua-lokomotif-langsir-dengan-livery-ikonik-di-era-90an",
+        "Kategori": "Visual",
+        "Waktu Terbit": "14 Januari 2026 21:22:47",
+        "Waktu Scrapping": "14 Januari 2026 22:20:47",
+        "Penulis": "Edwin Dwi Putranto"
+    },
+    {
         "Judul": "Bantuan untuk Korban Banjir Kabupaten Banjar Terus Disalurkan",
         "Link": "https://republika.co.id/berita//t8uacm456/bantuan-untuk-korban-banjir-kabupaten-banjar-terus-disalurkan",
         "Kategori": "Rekalimantan",
-        "Waktu Terbit": "14 Januari 2026 21:19:50",
-        "Waktu Scrapping": "14 Januari 2026 21:20:50",
+        "Waktu Terbit": "14 Januari 2026 21:20:48",
+        "Waktu Scrapping": "14 Januari 2026 22:20:48",
         "Penulis": "Gilang Akbar Prambadi"
     },
     {
         "Judul": "Pejalan Kaki Tewas Ditabrak Pelajar Pengendara Motor di Bandung",
         "Link": "https://rejabar.republika.co.id/berita/t8uyes483/pejalan-kaki-tewas-ditabrak-pelajar-pengendara-motor-di-bandung",
         "Kategori": "Rejabar",
-        "Waktu Terbit": "14 Januari 2026 21:18:51",
-        "Waktu Scrapping": "14 Januari 2026 21:20:51",
+        "Waktu Terbit": "14 Januari 2026 21:20:49",
+        "Waktu Scrapping": "14 Januari 2026 22:20:49",
         "Penulis": "A.Syalaby Ichsan"
     },
     {
         "Judul": "Pojok Jalan dan Taman di Bandung Dipenuhi Kotoran Manusia, Bau tak Sedap Merebak",
         "Link": "https://rejabar.republika.co.id/berita/t8uy97282/pojok-jalan-dan-taman-di-bandung-dipenuhi-kotoran-manusia-bau-tak-sedap-merebak",
         "Kategori": "Rejabar",
-        "Waktu Terbit": "14 Januari 2026 21:14:51",
-        "Waktu Scrapping": "14 Januari 2026 21:20:51",
+        "Waktu Terbit": "14 Januari 2026 21:20:51",
+        "Waktu Scrapping": "14 Januari 2026 22:20:51",
         "Penulis": "Karta Raharja Ucu"
     },
     {
         "Judul": "Sesmendukbangga Minta Daerah Serius Kelola Bonus Demografi",
         "Link": "https://ekonomi.republika.co.id/berita/t8uy2x416/sesmendukbangga-minta-daerah-serius-kelola-bonus-demografi",
         "Kategori": "Ekonomi",
-        "Waktu Terbit": "14 Januari 2026 21:11:52",
-        "Waktu Scrapping": "14 Januari 2026 21:20:52",
+        "Waktu Terbit": "14 Januari 2026 21:20:51",
+        "Waktu Scrapping": "14 Januari 2026 22:20:51",
         "Penulis": "Satria K Yudha"
     },
     {
         "Judul": "Menko Yusril Berharap UU Pemilu Segera Dibahas",
         "Link": "https://news.republika.co.id/berita/t8uxl5377/menko-yusril-berharap-uu-pemilu-segera-dibahas",
         "Kategori": "News",
-        "Waktu Terbit": "14 Januari 2026 21:00:52",
-        "Waktu Scrapping": "14 Januari 2026 21:20:52",
+        "Waktu Terbit": "14 Januari 2026 21:20:52",
+        "Waktu Scrapping": "14 Januari 2026 22:20:52",
         "Penulis": "Teguh Firmansyah"
     },
     {
         "Judul": "Berkunjung ke Layanan Digital Ruang Baru Literasi Publik di Kota Surakarta",
         "Link": "https://rejogja.republika.co.id/berita/t8uwi1320/berkunjung-ke-layanan-digital-ruang-baru-literasi-publik-di-kota-surakarta",
         "Kategori": "Rejogja",
-        "Waktu Terbit": "14 Januari 2026 20:59:53",
-        "Waktu Scrapping": "14 Januari 2026 21:20:53",
+        "Waktu Terbit": "14 Januari 2026 21:20:52",
+        "Waktu Scrapping": "14 Januari 2026 22:20:52",
         "Penulis": "Nashih Nashrullah"
     },
     {
         "Judul": "Pramono: Komunikasi dengan Adhi Karya Tetap Kami Lakukan",
         "Link": "https://news.republika.co.id/berita/t8uxaz409/pramono-komunikasi-dengan-adhi-karya-tetap-kami-lakukan",
         "Kategori": "News",
-        "Waktu Terbit": "14 Januari 2026 20:54:54",
-        "Waktu Scrapping": "14 Januari 2026 21:20:54",
+        "Waktu Terbit": "14 Januari 2026 21:20:53",
+        "Waktu Scrapping": "14 Januari 2026 22:20:53",
         "Penulis": "Andri Saubani"
     },
     {
         "Judul": "Film Sebelum Dijemput Nenek Tawarkan Horor-Komedi Segar dan Menghibur",
         "Link": "https://ameera.republika.co.id/berita/t8ux6l425/film-sebelum-dijemput-nenek-tawarkan-hororkomedi-segar-dan-menghibur",
         "Kategori": "Ameera",
-        "Waktu Terbit": "14 Januari 2026 20:51:55",
-        "Waktu Scrapping": "14 Januari 2026 21:20:55",
+        "Waktu Terbit": "14 Januari 2026 21:20:54",
+        "Waktu Scrapping": "14 Januari 2026 22:20:54",
         "Penulis": "Qommarria Rostanti"
     },
     {
         "Judul": "Kasus Kuota Haji, KPK akan Panggil Lagi Bos Maktour",
         "Link": "https://news.republika.co.id/berita/t8ux2l377/kasus-kuota-haji-kpk-akan-panggil-lagi-bos-maktour",
         "Kategori": "News",
-        "Waktu Terbit": "14 Januari 2026 20:49:55",
-        "Waktu Scrapping": "14 Januari 2026 21:20:55",
+        "Waktu Terbit": "14 Januari 2026 20:20:55",
+        "Waktu Scrapping": "14 Januari 2026 22:20:55",
         "Penulis": "Teguh Firmansyah"
     },
     {
         "Judul": "DLH Hentikan Sementara Proyek Perumahan di Lereng Bukit di Soreang Bandung",
         "Link": "https://rejabar.republika.co.id/berita/t8uwho282/dlh-hentikan-sementara-proyek-perumahan-di-lereng-bukit-di-soreang-bandung",
         "Kategori": "Rejabar",
-        "Waktu Terbit": "14 Januari 2026 20:36:56",
-        "Waktu Scrapping": "14 Januari 2026 21:20:56",
+        "Waktu Terbit": "14 Januari 2026 20:20:55",
+        "Waktu Scrapping": "14 Januari 2026 22:20:55",
         "Penulis": "Karta Raharja Ucu"
     },
     {
         "Judul": "Pansus XII DPRD Jabar Dorong Sejarah Lokal Masuk Ranperda Pemajuan Kebudayaan",
         "Link": "https://rejabar.republika.co.id/berita/t8uvy9368/pansus-xii-dprd-jabar-dorong-sejarah-lokal-masuk-ranperda-pemajuan-kebudayaan",
         "Kategori": "Rejabar",
-        "Waktu Terbit": "14 Januari 2026 20:25:57",
-        "Waktu Scrapping": "14 Januari 2026 21:20:57",
+        "Waktu Terbit": "14 Januari 2026 20:20:56",
+        "Waktu Scrapping": "14 Januari 2026 22:20:56",
         "Penulis": "Dwi Murdaningsih"
     },
     {
         "Judul": "3 Negara Islam Ini Riang Gembira dengan Keputusan Amerika tentang Ikhwanul Muslimin",
         "Link": "https://khazanah.republika.co.id/berita/t8uvve320/3-negara-islam-ini-riang-gembira-dengan-keputusan-amerika-tentang-ikhwanul-muslimin",
         "Kategori": "Khazanah",
-        "Waktu Terbit": "14 Januari 2026 20:23:57",
-        "Waktu Scrapping": "14 Januari 2026 21:20:57",
+        "Waktu Terbit": "14 Januari 2026 20:20:57",
+        "Waktu Scrapping": "14 Januari 2026 22:20:57",
         "Penulis": "Nashih Nashrullah"
     },
     {
         "Judul": "Tunggu Status Aset Dihapuskan, Pemprov Jabar Segera Bongkar Teras Cihampelas",
         "Link": "https://rejabar.republika.co.id/berita/t8uvui282/tunggu-status-aset-dihapuskan-pemprov-jabar-segera-bongkar-teras-cihampelas",
         "Kategori": "Rejabar",
-        "Waktu Terbit": "14 Januari 2026 20:22:58",
-        "Waktu Scrapping": "14 Januari 2026 21:20:58",
+        "Waktu Terbit": "14 Januari 2026 20:20:58",
+        "Waktu Scrapping": "14 Januari 2026 22:20:58",
         "Penulis": "Karta Raharja Ucu"
     },
     {
@@ -108,23 +188,23 @@
         "Link": "https://ekonomi.republika.co.id/berita/t8uv42368/bni-bersihkan-masjid-darul-aman-pascabanjir-di-agam",
         "Kategori": "Ekonomi",
         "Waktu Terbit": "14 Januari 2026 20:20:59",
-        "Waktu Scrapping": "14 Januari 2026 21:20:59",
+        "Waktu Scrapping": "14 Januari 2026 22:20:59",
         "Penulis": "Dwi Murdaningsih"
     },
     {
         "Judul": "RI Pantau Kondisi WNI di Iran, Belum Putuskan Evakuasi",
         "Link": "https://news.republika.co.id/berita/t8uuy5377/ri-pantau-kondisi-wni-di-iran-belum-putuskan-evakuasi",
         "Kategori": "News",
-        "Waktu Terbit": "14 Januari 2026 20:20:59",
-        "Waktu Scrapping": "14 Januari 2026 21:20:59",
+        "Waktu Terbit": "14 Januari 2026 20:21:00",
+        "Waktu Scrapping": "14 Januari 2026 22:21:00",
         "Penulis": "Teguh Firmansyah"
     },
     {
         "Judul": "Mencari Solusi Terbaik Antara Koperasi Merah Putih dengan SMPN 1 Sindangkerta",
         "Link": "https://rejabar.republika.co.id/berita/t8uuht282/mencari-solusi-terbaik-antara-koperasi-merah-putih-dengan-smpn-1-sindangkerta",
         "Kategori": "Rejabar",
-        "Waktu Terbit": "14 Januari 2026 20:21:00",
-        "Waktu Scrapping": "14 Januari 2026 21:21:00",
+        "Waktu Terbit": "14 Januari 2026 20:21:01",
+        "Waktu Scrapping": "14 Januari 2026 22:21:01",
         "Penulis": "Karta Raharja Ucu"
     },
     {
@@ -132,7 +212,7 @@
         "Link": "https://news.republika.co.id/berita/t8uugw522/kapolri-resmikan-19-jembatan-merah-putih-presisi-komitmen-tindaklanjuti-arahan-presiden-prabowo",
         "Kategori": "News",
         "Waktu Terbit": "14 Januari 2026 20:21:01",
-        "Waktu Scrapping": "14 Januari 2026 21:21:01",
+        "Waktu Scrapping": "14 Januari 2026 22:21:01",
         "Penulis": "Intan Pratiwi"
     },
     {
@@ -140,7 +220,7 @@
         "Link": "https://news.republika.co.id/berita/t8uucb522/polri-bangun-jembatan-untuk-permudah-akses-masyarakat-desa-ke-sekolah-dan-pertanian",
         "Kategori": "News",
         "Waktu Terbit": "14 Januari 2026 19:21:02",
-        "Waktu Scrapping": "14 Januari 2026 21:21:02",
+        "Waktu Scrapping": "14 Januari 2026 22:21:02",
         "Penulis": "Intan Pratiwi"
     },
     {
@@ -148,7 +228,7 @@
         "Link": "https://news.republika.co.id/berita/t8uu51522/hashim-djojohadikusumo-bahas-penguatan-kerukunan-umat-dan-persatuan-bangsa",
         "Kategori": "News",
         "Waktu Terbit": "14 Januari 2026 19:21:03",
-        "Waktu Scrapping": "14 Januari 2026 21:21:03",
+        "Waktu Scrapping": "14 Januari 2026 22:21:03",
         "Penulis": "Intan Pratiwi"
     },
     {
@@ -156,7 +236,7 @@
         "Link": "https://news.republika.co.id/berita/t8utrh409/gagal-bayar-jabar-capai-rp621-miliar-pengamat-akibat-sifat-berbahaya-para-kadis-ke-kdm",
         "Kategori": "News",
         "Waktu Terbit": "14 Januari 2026 19:21:03",
-        "Waktu Scrapping": "14 Januari 2026 21:21:03",
+        "Waktu Scrapping": "14 Januari 2026 22:21:03",
         "Penulis": "Andri Saubani"
     },
     {
@@ -164,7 +244,7 @@
         "Link": "https://news.republika.co.id/berita/t8utfd393/pangkalan-militer-as-di-qatar-sibuk-siap-serang-iran",
         "Kategori": "News",
         "Waktu Terbit": "14 Januari 2026 19:21:04",
-        "Waktu Scrapping": "14 Januari 2026 21:21:04",
+        "Waktu Scrapping": "14 Januari 2026 22:21:04",
         "Penulis": "Fitriyan Zamzami"
     },
     {
@@ -172,7 +252,7 @@
         "Link": "https://news.republika.co.id/berita/t8utdk409/negaranegara-arab-lobi-trump-agar-as-tak-serang-iran",
         "Kategori": "News",
         "Waktu Terbit": "14 Januari 2026 19:21:04",
-        "Waktu Scrapping": "14 Januari 2026 21:21:04",
+        "Waktu Scrapping": "14 Januari 2026 22:21:04",
         "Penulis": "Andri Saubani"
     },
     {
@@ -180,7 +260,7 @@
         "Link": "https://news.republika.co.id/berita/t8ut76377/kpk-klaim-punya-bukti-dugaan-kucuran-dana-perkara-kuota-haji-ke-ketua-pbnu",
         "Kategori": "News",
         "Waktu Terbit": "14 Januari 2026 19:21:05",
-        "Waktu Scrapping": "14 Januari 2026 21:21:05",
+        "Waktu Scrapping": "14 Januari 2026 22:21:05",
         "Penulis": "Teguh Firmansyah"
     },
     {
@@ -188,7 +268,7 @@
         "Link": "https://news.republika.co.id/berita/t8ut6d409/ini-harapan-john-herdman-untuk-masa-depan-rizky-ridho",
         "Kategori": "News",
         "Waktu Terbit": "14 Januari 2026 19:21:06",
-        "Waktu Scrapping": "14 Januari 2026 21:21:06",
+        "Waktu Scrapping": "14 Januari 2026 22:21:06",
         "Penulis": "Andri Saubani"
     },
     {
@@ -196,7 +276,7 @@
         "Link": "https://khazanah.republika.co.id/berita/t8ut4q483/jejak-hidayah-choi-daehwan-mahasiswa-korea-yang-menemukan-islam-di-bekasi",
         "Kategori": "Khazanah",
         "Waktu Terbit": "14 Januari 2026 19:21:06",
-        "Waktu Scrapping": "14 Januari 2026 21:21:06",
+        "Waktu Scrapping": "14 Januari 2026 22:21:06",
         "Penulis": "A.Syalaby Ichsan"
     },
     {
@@ -204,15 +284,15 @@
         "Link": "https://rejabar.republika.co.id/berita/t8ut46282/puluhan-calon-jamaah-haji-asal-cimahi-belum-lunasi-pembayaran-kemenhaj-ungkap-kendalanya",
         "Kategori": "Rejabar",
         "Waktu Terbit": "14 Januari 2026 19:21:07",
-        "Waktu Scrapping": "14 Januari 2026 21:21:07",
+        "Waktu Scrapping": "14 Januari 2026 22:21:07",
         "Penulis": "Karta Raharja Ucu"
     },
     {
         "Judul": "Trump Ngotot Caplok Greenland, Remehkan Kekuatan NATO",
         "Link": "https://news.republika.co.id/berita/t8uswy393/trump-ngotot-caplok-greenland-remehkan-kekuatan-nato",
         "Kategori": "News",
-        "Waktu Terbit": "14 Januari 2026 19:21:07",
-        "Waktu Scrapping": "14 Januari 2026 21:21:07",
+        "Waktu Terbit": "14 Januari 2026 19:21:08",
+        "Waktu Scrapping": "14 Januari 2026 22:21:08",
         "Penulis": "Fitriyan Zamzami"
     },
     {
@@ -220,183 +300,103 @@
         "Link": "https://ekonomi.republika.co.id/berita/t8usu7370/ihsg-tembus-level-9000-cetak-rekor-tertinggi-sepanjang-sejarah",
         "Kategori": "Ekonomi",
         "Waktu Terbit": "14 Januari 2026 19:21:08",
-        "Waktu Scrapping": "14 Januari 2026 21:21:08",
+        "Waktu Scrapping": "14 Januari 2026 22:21:08",
         "Penulis": "Friska Yolandha"
     },
     {
         "Judul": "bank bjb dan TNI AU Perluas Akses Layanan Keuangan",
         "Link": "https://ekonomi.republika.co.id/berita/t8usk9368/bank-bjb-dan-tni-au-perluas-akses-layanan-keuangan",
         "Kategori": "Ekonomi",
-        "Waktu Terbit": "14 Januari 2026 19:21:08",
-        "Waktu Scrapping": "14 Januari 2026 21:21:08",
+        "Waktu Terbit": "14 Januari 2026 19:21:09",
+        "Waktu Scrapping": "14 Januari 2026 22:21:09",
         "Penulis": "Dwi Murdaningsih"
     },
     {
         "Judul": "Intelijen Iran Bergerak, Pimpinan Perusuh Ditangkap, AS-Israel Terlibat",
         "Link": "https://khazanah.republika.co.id/berita/t8usdy483/intelijen-iran-bergerak-pimpinan-perusuh-ditangkap-asisrael-terlibat",
         "Kategori": "Khazanah",
-        "Waktu Terbit": "14 Januari 2026 19:21:09",
-        "Waktu Scrapping": "14 Januari 2026 21:21:09",
+        "Waktu Terbit": "14 Januari 2026 19:21:10",
+        "Waktu Scrapping": "14 Januari 2026 22:21:10",
         "Penulis": "A.Syalaby Ichsan"
     },
     {
         "Judul": "UNICEF: Seratus Anak Gaza Syahid Sejak 'Gencatan Senjata'",
         "Link": "https://news.republika.co.id/berita/t8us0q393/unicef-seratus-anak-gaza-syahid-sejak-gencatan-senjata",
         "Kategori": "News",
-        "Waktu Terbit": "14 Januari 2026 19:21:09",
-        "Waktu Scrapping": "14 Januari 2026 21:21:09",
+        "Waktu Terbit": "14 Januari 2026 19:21:10",
+        "Waktu Scrapping": "14 Januari 2026 22:21:10",
         "Penulis": "Fitriyan Zamzami"
     },
     {
         "Judul": "Anwar Ibrahim: Pemerintah Malaysia akan Turun Langsung ke Misi Global Sumud Flotilla Selanjutnya",
         "Link": "https://khazanah.republika.co.id/berita/t8urll483/anwar-ibrahim-pemerintah-malaysia-akan-turun-langsung-ke-misi-global-sumud-flotilla-selanjutnya",
         "Kategori": "Khazanah",
-        "Waktu Terbit": "14 Januari 2026 19:21:10",
-        "Waktu Scrapping": "14 Januari 2026 21:21:10",
+        "Waktu Terbit": "14 Januari 2026 19:21:11",
+        "Waktu Scrapping": "14 Januari 2026 22:21:11",
         "Penulis": "A.Syalaby Ichsan"
     },
     {
         "Judul": "Penjualan Emas BSI Tembus 2,18 Ton hingga Akhir 2025",
         "Link": "https://sharia.republika.co.id/berita/t8urch370/penjualan-emas-bsi-tembus-218-ton-hingga-akhir-2025",
         "Kategori": "Ekonomi Syariah",
-        "Waktu Terbit": "14 Januari 2026 18:21:10",
-        "Waktu Scrapping": "14 Januari 2026 21:21:10",
+        "Waktu Terbit": "14 Januari 2026 18:21:12",
+        "Waktu Scrapping": "14 Januari 2026 22:21:12",
         "Penulis": "Friska Yolandha"
     },
     {
         "Judul": "Kapolri Resmikan 19 Jembatan Merah Putih Presisi, Komitmen Tindaklanjuti Arahan Prabowo",
         "Link": "https://news.republika.co.id/berita/t8uqdg368/kapolri-resmikan-19-jembatan-merah-putih-presisi-komitmen-tindaklanjuti-arahan-prabowo",
         "Kategori": "News",
-        "Waktu Terbit": "14 Januari 2026 18:21:12",
-        "Waktu Scrapping": "14 Januari 2026 21:21:12",
+        "Waktu Terbit": "14 Januari 2026 18:21:13",
+        "Waktu Scrapping": "14 Januari 2026 22:21:13",
         "Penulis": "Dwi Murdaningsih"
     },
     {
         "Judul": "Puji Program MBG, Kadin Jepang Lakukan Studi Banding ke Indonesia",
         "Link": "https://news.republika.co.id/berita/t8uq4w368/puji-program-mbg-kadin-jepang-lakukan-studi-banding-ke-indonesia",
         "Kategori": "News",
-        "Waktu Terbit": "14 Januari 2026 18:21:13",
-        "Waktu Scrapping": "14 Januari 2026 21:21:13",
+        "Waktu Terbit": "14 Januari 2026 18:21:14",
+        "Waktu Scrapping": "14 Januari 2026 22:21:14",
         "Penulis": "Dwi Murdaningsih"
     },
     {
         "Judul": "Bukan Sekadar Camilan, Ini yang Bikin Spesial dari Donat Artisan",
         "Link": "https://ameera.republika.co.id/berita/t8uq1n425/bukan-sekadar-camilan-ini-yang-bikin-spesial-dari-donat-artisan",
         "Kategori": "Ameera",
-        "Waktu Terbit": "14 Januari 2026 18:21:13",
-        "Waktu Scrapping": "14 Januari 2026 21:21:13",
+        "Waktu Terbit": "14 Januari 2026 18:21:15",
+        "Waktu Scrapping": "14 Januari 2026 22:21:15",
         "Penulis": "Qommarria Rostanti"
     },
     {
         "Judul": "Ledakan Area Tambang Emas Pongkor, ANTAM Sebut Hoaks",
         "Link": "https://ekonomi.republika.co.id/berita/t8upx7522/ledakan-area-tambang-emas-pongkor-antam-sebut-hoaks",
         "Kategori": "Ekonomi",
-        "Waktu Terbit": "14 Januari 2026 18:21:14",
-        "Waktu Scrapping": "14 Januari 2026 21:21:14",
+        "Waktu Terbit": "14 Januari 2026 18:21:15",
+        "Waktu Scrapping": "14 Januari 2026 22:21:15",
         "Penulis": "Intan Pratiwi"
     },
     {
         "Judul": "Konsultasi ke KPK, Airlangga Bahas Pembelian Energi dan Pesawat dari AS",
         "Link": "https://news.republika.co.id/berita/t8upsj484/konsultasi-ke-kpk-airlangga-bahas-pembelian-energi-dan-pesawat-dari-as",
         "Kategori": "News",
-        "Waktu Terbit": "14 Januari 2026 18:21:14",
-        "Waktu Scrapping": "14 Januari 2026 21:21:14",
+        "Waktu Terbit": "14 Januari 2026 18:21:16",
+        "Waktu Scrapping": "14 Januari 2026 22:21:16",
         "Penulis": "Erik Purnama Putra"
     },
     {
         "Judul": "Anak Indonesia Hadapi Tekanan Digital",
         "Link": "https://news.republika.co.id/berita/t8upqu371/anak-indonesia-hadapi-tekanan-digital",
         "Kategori": "News",
-        "Waktu Terbit": "14 Januari 2026 18:21:15",
-        "Waktu Scrapping": "14 Januari 2026 21:21:15",
+        "Waktu Terbit": "14 Januari 2026 18:21:17",
+        "Waktu Scrapping": "14 Januari 2026 22:21:17",
         "Penulis": "Sandy Ferdiana"
     },
     {
         "Judul": "Situasi di Iran Mereda",
         "Link": "https://news.republika.co.id/berita/t8upke393/situasi-di-iran-mereda",
         "Kategori": "News",
-        "Waktu Terbit": "14 Januari 2026 18:21:16",
-        "Waktu Scrapping": "14 Januari 2026 21:21:16",
+        "Waktu Terbit": "14 Januari 2026 18:21:18",
+        "Waktu Scrapping": "14 Januari 2026 22:21:18",
         "Penulis": "Fitriyan Zamzami"
-    },
-    {
-        "Judul": "Apa yang Sebenarnya Terjadi di Iran? Berikut Penjelasan Resmi Kedutaannya di Jakarta",
-        "Link": "https://news.republika.co.id/berita/t8up8y409/apa-yang-sebenarnya-terjadi-di-iran-berikut-penjelasan-resmi-kedutaannya-di-jakarta",
-        "Kategori": "News",
-        "Waktu Terbit": "14 Januari 2026 18:21:16",
-        "Waktu Scrapping": "14 Januari 2026 21:21:16",
-        "Penulis": "Andri Saubani"
-    },
-    {
-        "Judul": "JPU Hadirkan Barang Bukti Kasus Korupsi CPO di Persidangan, Ada Ferarri dan Motor Harley",
-        "Link": "https://visual.republika.co.id/berita/t8ul8e375/jpu-hadirkan-barang-bukti-kasus-korupsi-cpo-di-persidangan-ada-ferarri-dan-motor-harley",
-        "Kategori": "Visual",
-        "Waktu Terbit": "14 Januari 2026 18:21:17",
-        "Waktu Scrapping": "14 Januari 2026 21:21:17",
-        "Penulis": "Edwin Dwi Putranto"
-    },
-    {
-        "Judul": "Kisah Malaikat Pencabut Nyawa Saat Bertugas",
-        "Link": "https://khazanah.republika.co.id/berita/t8uonf483/kisah-malaikat-pencabut-nyawa-saat-bertugas",
-        "Kategori": "Khazanah",
-        "Waktu Terbit": "14 Januari 2026 17:21:17",
-        "Waktu Scrapping": "14 Januari 2026 21:21:17",
-        "Penulis": "A.Syalaby Ichsan"
-    },
-    {
-        "Judul": "Akibat Konflik Lahan dan Krisis Pakan, Peternak Sapi di Indramayu Merana",
-        "Link": "https://rejabar.republika.co.id/berita/t8uom3487/akibat-konflik-lahan-dan-krisis-pakan-peternak-sapi-di-indramayu-merana",
-        "Kategori": "Rejabar",
-        "Waktu Terbit": "14 Januari 2026 17:21:18",
-        "Waktu Scrapping": "14 Januari 2026 21:21:18",
-        "Penulis": "Mas Alamil Huda"
-    },
-    {
-        "Judul": "911 Ribu Calon Jamaah Haji Antre, Masa Tunggu Berangkat ke Tanah Suci Hingga 26 Tahun",
-        "Link": "https://rejogja.republika.co.id/berita/t8uodr282/911-ribu-calon-jamaah-haji-antre-masa-tunggu-berangkat-ke-tanah-suci-hingga-26-tahun",
-        "Kategori": "Rejogja",
-        "Waktu Terbit": "14 Januari 2026 17:21:19",
-        "Waktu Scrapping": "14 Januari 2026 21:21:19",
-        "Penulis": "Karta Raharja Ucu"
-    },
-    {
-        "Judul": "Dorong Kemandirian Ekonomi Ibu-Ibu, Digelar Workshop Baking Wingko Singkong",
-        "Link": "https://news.republika.co.id/berita/t8uo2u484/dorong-kemandirian-ekonomi-ibuibu-digelar-workshop-baking-wingko-singkong",
-        "Kategori": "News",
-        "Waktu Terbit": "14 Januari 2026 17:21:20",
-        "Waktu Scrapping": "14 Januari 2026 21:21:20",
-        "Penulis": "Erik Purnama Putra"
-    },
-    {
-        "Judul": "Menimbang Kembali Hari Zakat Nasional",
-        "Link": "https://analisis.republika.co.id/berita/t8uo2r483/menimbang-kembali-hari-zakat-nasional",
-        "Kategori": "Kolom",
-        "Waktu Terbit": "14 Januari 2026 17:21:21",
-        "Waktu Scrapping": "14 Januari 2026 21:21:21",
-        "Penulis": "A.Syalaby Ichsan"
-    },
-    {
-        "Judul": "Sopir Taksi Online Dibegal Penumpangnya, Duel Berdarah Terjadi dalam Mobil",
-        "Link": "https://rejabar.republika.co.id/berita/t8uo25487/sopir-taksi-online-dibegal-penumpangnya-duel-berdarah-terjadi-dalam-mobil",
-        "Kategori": "Rejabar",
-        "Waktu Terbit": "14 Januari 2026 17:21:21",
-        "Waktu Scrapping": "14 Januari 2026 21:21:21",
-        "Penulis": "Mas Alamil Huda"
-    },
-    {
-        "Judul": "UMP Jakarta 2026: Kenaikan yang Perlu Diperkuat Kebijakan Penopang",
-        "Link": "https://analisis.republika.co.id/berita/t8uo1b318/ump-jakarta-2026-kenaikan-yang-perlu-diperkuat-kebijakan-penopang",
-        "Kategori": "Kolom",
-        "Waktu Terbit": "14 Januari 2026 17:21:22",
-        "Waktu Scrapping": "14 Januari 2026 21:21:22",
-        "Penulis": "Joko Sadewo"
-    },
-    {
-        "Judul": "Omar Halawa Si Bocah Gaza: Kakiku Pergi Lebih Dulu ke Surga",
-        "Link": "https://khazanah.republika.co.id/berita/t8unkc483/omar-halawa-si-bocah-gaza-kakiku-pergi-lebih-dulu-ke-surga",
-        "Kategori": "Khazanah",
-        "Waktu Terbit": "14 Januari 2026 17:21:23",
-        "Waktu Scrapping": "14 Januari 2026 21:21:23",
-        "Penulis": "A.Syalaby Ichsan"
     }
 ]
