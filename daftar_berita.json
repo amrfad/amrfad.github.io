@@ -1,66 +1,330 @@
 [
     {
+        "Judul": "Jonatan Teruskan Langkah ke Semifinal Indonesia Open",
+        "Link": "https://news.republika.co.id/berita/tg5xtw348/jonatan-teruskan-langkah-ke-semifinal-indonesia-open",
+        "Kategori": "News",
+        "Waktu Terbit": "5 Juni 2026 21:34:43",
+        "Waktu Scrapping": "5 Juni 2026 21:37:43",
+        "Penulis": "-"
+    },
+    {
+        "Judul": "Tangani Karhutla Aceh, BNPB dan BMKG Lakukan Operasi Modifikasi Cuaca",
+        "Link": "https://visual.republika.co.id/berita/tg5ot8375/tangani-karhutla-aceh-bnpb-dan-bmkg-lakukan-operasi-modifikasi-cuaca",
+        "Kategori": "Visual",
+        "Waktu Terbit": "5 Juni 2026 21:29:44",
+        "Waktu Scrapping": "5 Juni 2026 21:37:44",
+        "Penulis": "Edwin Dwi Putranto"
+    },
+    {
+        "Judul": "KEK Batang tak Hanya Kejar Investasi, Ekosistem Pesisir Ikut Dipulihkan",
+        "Link": "https://esgnow.republika.co.id/berita/tg5xfg416/kek-batang-tak-hanya-kejar-investasi-ekosistem-pesisir-ikut-dipulihkan",
+        "Kategori": "Esgnow",
+        "Waktu Terbit": "5 Juni 2026 21:26:45",
+        "Waktu Scrapping": "5 Juni 2026 21:37:45",
+        "Penulis": "Satria K Yudha"
+    },
+    {
+        "Judul": "Materi Koperasi Disisipkan ke Kurikulum Sekolah, Menkop: Supaya Jangan Ekonomi Liberal Kapitalistik",
+        "Link": "https://rejogja.republika.co.id/berita/tg5wyg282/materi-koperasi-disisipkan-ke-kurikulum-sekolah-menkop-supaya-jangan-ekonomi-liberal-kapitalistik",
+        "Kategori": "Rejogja",
+        "Waktu Terbit": "5 Juni 2026 21:24:46",
+        "Waktu Scrapping": "5 Juni 2026 21:37:46",
+        "Penulis": "Karta Raharja Ucu"
+    },
+    {
+        "Judul": "Disebut Mau Mundur, Menkeu Purbaya: Cuma Gosip Mau Guncang Pasar",
+        "Link": "https://news.republika.co.id/berita/tg5ww3377/disebut-mau-mundur-menkeu-purbaya-cuma-gosip-mau-guncang-pasar",
+        "Kategori": "News",
+        "Waktu Terbit": "5 Juni 2026 21:14:47",
+        "Waktu Scrapping": "5 Juni 2026 21:37:47",
+        "Penulis": "-"
+    },
+    {
+        "Judul": "PNM Excellence Awards 2026 Kuatkan Budaya Apresiatif bagi 70 Ribu Insan PNM",
+        "Link": "https://ekonomi.republika.co.id/berita/tg5wnz368/pnm-excellence-awards-2026-kuatkan-budaya-apresiatif-bagi-70-ribu-insan-pnm",
+        "Kategori": "Ekonomi",
+        "Waktu Terbit": "5 Juni 2026 21:09:47",
+        "Waktu Scrapping": "5 Juni 2026 21:37:47",
+        "Penulis": "Dwi Murdaningsih"
+    },
+    {
+        "Judul": "Geledah Rumah Silmy Karim, KPK Sita Dolar AS, Dua Mobil Porsche Hingga Moge Harley Davidson",
+        "Link": "https://news.republika.co.id/berita/tg5w7v377/geledah-rumah-silmy-karim-kpk-sita-dolar-as-dua-mobil-porsche-hingga-moge-harley-davidson",
+        "Kategori": "News",
+        "Waktu Terbit": "5 Juni 2026 20:59:48",
+        "Waktu Scrapping": "5 Juni 2026 21:37:48",
+        "Penulis": "-"
+    },
+    {
+        "Judul": "Ekstraksi Air Tanah oleh Industri Perparah Penurunan Muka Tanah Pantura Semarang",
+        "Link": "https://rejogja.republika.co.id/berita/tg5w7v282/ekstraksi-air-tanah-oleh-industri-perparah-penurunan-muka-tanah-pantura-semarang",
+        "Kategori": "Rejogja",
+        "Waktu Terbit": "5 Juni 2026 20:59:48",
+        "Waktu Scrapping": "5 Juni 2026 21:37:48",
+        "Penulis": "Karta Raharja Ucu"
+    },
+    {
+        "Judul": "JAZIRAH x CCE 2026 Dibuka di Ciamis, BI Resmikan Zona KHAS Pertama di Rest Area Non Tol",
+        "Link": "https://sharia.republika.co.id/berita/tg5w3i368/jazirah-x-cce-2026-dibuka-di-ciamis-bi-resmikan-zona-khas-pertama-di-rest-area-non-tol",
+        "Kategori": "Ekonomi Syariah",
+        "Waktu Terbit": "5 Juni 2026 20:57:49",
+        "Waktu Scrapping": "5 Juni 2026 21:37:49",
+        "Penulis": "Dwi Murdaningsih"
+    },
+    {
+        "Judul": "Ekonom: Kondisi Ekonomi Saat Ini Bukan Sinyal Krisis",
+        "Link": "https://ekonomi.republika.co.id/berita/tg5vt3416/ekonom-kondisi-ekonomi-saat-ini-bukan-sinyal-krisis",
+        "Kategori": "Ekonomi",
+        "Waktu Terbit": "5 Juni 2026 20:55:50",
+        "Waktu Scrapping": "5 Juni 2026 21:37:50",
+        "Penulis": "Satria K Yudha"
+    },
+    {
+        "Judul": "\u2018Raja OTT KPK\u2019: Imigrasi dan Lapas Perlu Pembenahan Menyeluruh",
+        "Link": "https://news.republika.co.id/berita/tg5w1k393/raja-ott-kpk-imigrasi-dan-lapas-perlu-pembenahan-menyeluruh",
+        "Kategori": "News",
+        "Waktu Terbit": "5 Juni 2026 20:55:50",
+        "Waktu Scrapping": "5 Juni 2026 21:37:50",
+        "Penulis": "-"
+    },
+    {
+        "Judul": "PNM Tanam 27 Ribu Pohon untuk Dukung Lingkungan yang Lebih Sehat",
+        "Link": "https://esgnow.republika.co.id/berita/tg5vww522/pnm-tanam-27-ribu-pohon-untuk-dukung-lingkungan-yang-lebih-sehat",
+        "Kategori": "Esgnow",
+        "Waktu Terbit": "5 Juni 2026 20:53:50",
+        "Waktu Scrapping": "5 Juni 2026 21:37:50",
+        "Penulis": "Intan Pratiwi"
+    },
+    {
+        "Judul": "Bisnis Sewa Kendaraan dan Kantor Moncer, Anak Usaha Tugu Insurance Cetak Laba Rp95,1 Miliar",
+        "Link": "https://ekonomi.republika.co.id/berita/tg5vsk522/bisnis-sewa-kendaraan-dan-kantor-moncer-anak-usaha-tugu-insurance-cetak-laba-rp951-miliar",
+        "Kategori": "Ekonomi",
+        "Waktu Terbit": "5 Juni 2026 20:50:51",
+        "Waktu Scrapping": "5 Juni 2026 21:37:51",
+        "Penulis": "Intan Pratiwi"
+    },
+    {
+        "Judul": "Sasar Turis Malaysia dan Singapura, Warga Bukit Peramun Kenalkan Ekowisata Berbasis Komunitas",
+        "Link": "https://esgnow.republika.co.id/berita/tg5vpd522/sasar-turis-malaysia-dan-singapura-warga-bukit-peramun-kenalkan-ekowisata-berbasis-komunitas",
+        "Kategori": "Esgnow",
+        "Waktu Terbit": "5 Juni 2026 20:48:52",
+        "Waktu Scrapping": "5 Juni 2026 21:37:52",
+        "Penulis": "Intan Pratiwi"
+    },
+    {
+        "Judul": "Ruang Belajar di SMAN 1 Ciwaringin Terbakar, Diduga dari Sisa Pembakaran Sampah",
+        "Link": "https://rejabar.republika.co.id/berita/tg5vmf282/ruang-belajar-di-sman-1-ciwaringin-terbakar-diduga-dari-sisa-pembakaran-sampah",
+        "Kategori": "Rejabar",
+        "Waktu Terbit": "5 Juni 2026 20:46:53",
+        "Waktu Scrapping": "5 Juni 2026 21:37:53",
+        "Penulis": "Karta Raharja Ucu"
+    },
+    {
+        "Judul": "Pemberdayaan Jadi Kunci, PNM Dorong Nasabah Naik Kelas dan Terhindar dari Rentenir",
+        "Link": "https://ekonomi.republika.co.id/berita/tg5v57368/pemberdayaan-jadi-kunci-pnm-dorong-nasabah-naik-kelas-dan-terhindar-dari-rentenir",
+        "Kategori": "Ekonomi",
+        "Waktu Terbit": "5 Juni 2026 20:37:54",
+        "Waktu Scrapping": "5 Juni 2026 21:37:54",
+        "Penulis": "Dwi Murdaningsih"
+    },
+    {
+        "Judul": "Survei: Gen Z Paling Rendah Berkurban, Berwakaf, dan Bayar Zakat Maal",
+        "Link": "https://khazanah.republika.co.id/berita/tg5v0v430/survei-gen-z-paling-rendah-berkurban-berwakaf-dan-bayar-zakat-maal",
+        "Kategori": "Khazanah",
+        "Waktu Terbit": "5 Juni 2026 20:37:55",
+        "Waktu Scrapping": "5 Juni 2026 21:37:55",
+        "Penulis": "Muhammad Hafil"
+    },
+    {
+        "Judul": "BCA Cairkan Dividen Interim Rp20 per Saham Akhir Juni",
+        "Link": "https://ekonomi.republika.co.id/berita/tg5uui370/bca-cairkan-dividen-interim-rp20-per-saham-akhir-juni",
+        "Kategori": "Ekonomi",
+        "Waktu Terbit": "5 Juni 2026 20:37:55",
+        "Waktu Scrapping": "5 Juni 2026 21:37:55",
+        "Penulis": "Friska Yolandha"
+    },
+    {
+        "Judul": "Diduga Bekingi Peredaran Narkoba, Eks Anggota Brimob Polda Kaltim Diperiksa Bareskrim",
+        "Link": "https://visual.republika.co.id/berita/tg5oqp375/diduga-bekingi-peredaran-narkoba-eks-anggota-brimob-polda-kaltim-diperiksa-bareskrim",
+        "Kategori": "Visual",
+        "Waktu Terbit": "5 Juni 2026 20:37:56",
+        "Waktu Scrapping": "5 Juni 2026 21:37:56",
+        "Penulis": "Edwin Dwi Putranto"
+    },
+    {
+        "Judul": "Pertimbangkan Reaktivasi Zona Lama di Tengah Krisis TPA Sarimukti, Pemprov Jabar Butuh Rp24 Miliar",
+        "Link": "https://rejabar.republika.co.id/berita/tg5u8a282/pertimbangkan-reaktivasi-zona-lama-di-tengah-krisis-tpa-sarimukti-pemprov-jabar-butuh-rp24-miliar",
+        "Kategori": "Rejabar",
+        "Waktu Terbit": "5 Juni 2026 20:37:57",
+        "Waktu Scrapping": "5 Juni 2026 21:37:57",
+        "Penulis": "Karta Raharja Ucu"
+    },
+    {
+        "Judul": "Survei: Israel Makin Dibenci Dunia",
+        "Link": "https://news.republika.co.id/berita/tg5u6g393/survei-israel-makin-dibenci-dunia",
+        "Kategori": "News",
+        "Waktu Terbit": "5 Juni 2026 20:37:58",
+        "Waktu Scrapping": "5 Juni 2026 21:37:58",
+        "Penulis": "-"
+    },
+    {
+        "Judul": "Dr Hussam Abu Safiya Dipindahkan ke Sel Isolasi Israel",
+        "Link": "https://news.republika.co.id/berita/tg5txn393/dr-hussam-abu-safiya-dipindahkan-ke-sel-isolasi-israel",
+        "Kategori": "News",
+        "Waktu Terbit": "5 Juni 2026 20:37:58",
+        "Waktu Scrapping": "5 Juni 2026 21:37:58",
+        "Penulis": "-"
+    },
+    {
+        "Judul": "Menabung Bertahap dan Dana Kelolaan yang Aman, Dua Penopang Keberlanjutan Haji Indonesia",
+        "Link": "https://khazanah.republika.co.id/berita/tg5mya366/menabung-bertahap-dan-dana-kelolaan-yang-aman-dua-penopang-keberlanjutan-haji-indonesia",
+        "Kategori": "Khazanah",
+        "Waktu Terbit": "5 Juni 2026 19:37:59",
+        "Waktu Scrapping": "5 Juni 2026 21:37:59",
+        "Penulis": "Ani Nursalikah"
+    },
+    {
+        "Judul": "KPK Geledah Rumah Silmy Karim Terkait Kasus Korupsi Izin Tinggal WNA",
+        "Link": "https://visual.republika.co.id/berita/tg5o13375/kpk-geledah-rumah-silmy-karim-terkait-kasus-korupsi-izin-tinggal-wna",
+        "Kategori": "Visual",
+        "Waktu Terbit": "5 Juni 2026 19:37:59",
+        "Waktu Scrapping": "5 Juni 2026 21:37:59",
+        "Penulis": "Edwin Dwi Putranto"
+    },
+    {
+        "Judul": "Merasa Disepelekan Gubernur, Warga akan Kembali Tanam Pohon Pisang di Jalan Rusak Randulatung-Cepu",
+        "Link": "https://rejogja.republika.co.id/berita/tg5rty282/merasa-disepelekan-gubernur-warga-akan-kembali-tanam-pohon-pisang-di-jalan-rusak-randulatungcepu",
+        "Kategori": "Rejogja",
+        "Waktu Terbit": "5 Juni 2026 19:38:01",
+        "Waktu Scrapping": "5 Juni 2026 21:38:01",
+        "Penulis": "Karta Raharja Ucu"
+    },
+    {
+        "Judul": "Bela Gaza, Bos Klub Sepak Bola Polandia Ogah Berbisnis dengan Tim Bola Israel",
+        "Link": "https://news.republika.co.id/berita/tg5rea377/bela-gaza-bos-klub-sepak-bola-polandia-ogah-berbisnis-dengan-tim-bola-israel",
+        "Kategori": "News",
+        "Waktu Terbit": "5 Juni 2026 19:38:01",
+        "Waktu Scrapping": "5 Juni 2026 21:38:01",
+        "Penulis": "-"
+    },
+    {
+        "Judul": "Pemerintah Longgarkan Tenggat Pemda Setop TPA Open Dumping",
+        "Link": "https://rejogja.republika.co.id/berita/tg5qx7282/pemerintah-longgarkan-tenggat-pemda-setop-tpa-open-dumping",
+        "Kategori": "Rejogja",
+        "Waktu Terbit": "5 Juni 2026 18:38:01",
+        "Waktu Scrapping": "5 Juni 2026 21:38:01",
+        "Penulis": "Karta Raharja Ucu"
+    },
+    {
+        "Judul": "Rupiah Terus Terkoreksi, Adakah Potensi Bank Rush? Ini Kata OJK",
+        "Link": "https://ekonomi.republika.co.id/berita/tg5qpk370/rupiah-terus-terkoreksi-adakah-potensi-bank-rush-ini-kata-ojk",
+        "Kategori": "Ekonomi",
+        "Waktu Terbit": "5 Juni 2026 18:38:02",
+        "Waktu Scrapping": "5 Juni 2026 21:38:02",
+        "Penulis": "Friska Yolandha"
+    },
+    {
+        "Judul": "Defisit APBN Tembus Rp180,4 Triliun, Pemerintah Klaim Fiskal Tetap Aman",
+        "Link": "https://visual.republika.co.id/berita/tg5nt3375/defisit-apbn-tembus-rp1804-triliun-pemerintah-klaim-fiskal-tetap-aman",
+        "Kategori": "Visual",
+        "Waktu Terbit": "5 Juni 2026 18:38:03",
+        "Waktu Scrapping": "5 Juni 2026 21:38:03",
+        "Penulis": "Edwin Dwi Putranto"
+    },
+    {
+        "Judul": "Gerai Es Krim di Cimahi Dibobol Maling, Pelaku Gondol Belasan Juta Rupiah",
+        "Link": "https://rejabar.republika.co.id/berita/tg5qik282/gerai-es-krim-di-cimahi-dibobol-maling-pelaku-gondol-belasan-juta-rupiah",
+        "Kategori": "Rejabar",
+        "Waktu Terbit": "5 Juni 2026 18:38:03",
+        "Waktu Scrapping": "5 Juni 2026 21:38:03",
+        "Penulis": "Karta Raharja Ucu"
+    },
+    {
+        "Judul": "Ke Mana Silmy Karim Ketika Dicari KPK? Begini Klarifikasi Pihak Pengacara",
+        "Link": "https://news.republika.co.id/berita/tg5pix377/ke-mana-silmy-karim-ketika-dicari-kpk-begini-klarifikasi-pihak-pengacara",
+        "Kategori": "News",
+        "Waktu Terbit": "5 Juni 2026 18:38:04",
+        "Waktu Scrapping": "5 Juni 2026 21:38:04",
+        "Penulis": "-"
+    },
+    {
+        "Judul": "Regulasi Arab Saudi Berubah, Layanan Kesehatan Haji Indonesia Hadapi Tantangan",
+        "Link": "https://republika.co.id/page/shorts/yt-tg5pa1637826618/regulasi-arab-saudi-berubah-layanan-kesehatan-haji-indonesia-hadapi-tantangan",
+        "Kategori": "Video",
+        "Waktu Terbit": "5 Juni 2026 18:38:04",
+        "Waktu Scrapping": "5 Juni 2026 21:38:04",
+        "Penulis": "-"
+    },
+    {
+        "Judul": "Menhan Sjafrie ke Jepang Bertemu Koizumi, Incar Kapal Destroyer Kelas Asagiri",
+        "Link": "https://news.republika.co.id/berita/tg5oxh484/menhan-sjafrie-ke-jepang-bertemu-koizumi-incar-kapal-destroyer-kelas-asagiri",
+        "Kategori": "News",
+        "Waktu Terbit": "5 Juni 2026 18:38:04",
+        "Waktu Scrapping": "5 Juni 2026 21:38:04",
+        "Penulis": "-"
+    },
+    {
         "Judul": "Susu Formula Berbahan Dasar Susu Segar Diperkenalkan",
         "Link": "https://ameera.republika.co.id/berita/tg5orw328/susu-formula-berbahan-dasar-susu-segar-diperkenalkan",
         "Kategori": "Ameera",
-        "Waktu Terbit": "5 Juni 2026 18:19:05",
-        "Waktu Scrapping": "5 Juni 2026 18:22:05",
+        "Waktu Terbit": "5 Juni 2026 18:38:05",
+        "Waktu Scrapping": "5 Juni 2026 21:38:05",
         "Penulis": "Indira Rezkisari"
     },
     {
         "Judul": "7 Kepala SPPG Conggeang Sumedang Klarifikasi Terkait Isu Tata Kelola Program MBG",
         "Link": "https://rejabar.republika.co.id/berita/tg5od4368/7-kepala-sppg-conggeang-sumedang-klarifikasi-terkait-isu-tata-kelola-program-mbg",
         "Kategori": "Rejabar",
-        "Waktu Terbit": "5 Juni 2026 18:10:06",
-        "Waktu Scrapping": "5 Juni 2026 18:22:06",
+        "Waktu Terbit": "5 Juni 2026 18:38:06",
+        "Waktu Scrapping": "5 Juni 2026 21:38:06",
         "Penulis": "Dwi Murdaningsih"
     },
     {
         "Judul": "Yellow Run 2026 Diikuti 10 Ribu Pelari, Peserta Dapat Perlindungan Asuransi",
         "Link": "https://news.republika.co.id/berita/tg5mfw416/yellow-run-2026-diikuti-10-ribu-pelari-peserta-dapat-perlindungan-asuransi",
         "Kategori": "News",
-        "Waktu Terbit": "5 Juni 2026 18:00:07",
-        "Waktu Scrapping": "5 Juni 2026 18:22:07",
+        "Waktu Terbit": "5 Juni 2026 17:38:07",
+        "Waktu Scrapping": "5 Juni 2026 21:38:07",
         "Penulis": "-"
     },
     {
         "Judul": "Hari Lingkungan Hidup Sedunia, ITDC dan Warga Gelar KolaborAksi Jaga Pesisir Golo Mori",
         "Link": "https://esgnow.republika.co.id/berita/tg5npj368/hari-lingkungan-hidup-sedunia-itdc-dan-warga-gelar-kolaboraksi-jaga-pesisir-golo-mori",
         "Kategori": "Esgnow",
-        "Waktu Terbit": "5 Juni 2026 17:56:07",
-        "Waktu Scrapping": "5 Juni 2026 18:22:07",
+        "Waktu Terbit": "5 Juni 2026 17:38:07",
+        "Waktu Scrapping": "5 Juni 2026 21:38:07",
         "Penulis": "Dwi Murdaningsih"
     },
     {
         "Judul": "Menuju Panggung Dunia, Dukungan untuk Pegolf Junior Indonesia di MCGJWC 2026 Terus Mengalir",
         "Link": "https://news.republika.co.id/berita/tg5nnc456/menuju-panggung-dunia-dukungan-untuk-pegolf-junior-indonesia-di-mcgjwc-2026-terus-mengalir",
         "Kategori": "News",
-        "Waktu Terbit": "5 Juni 2026 17:55:07",
-        "Waktu Scrapping": "5 Juni 2026 18:22:07",
+        "Waktu Terbit": "5 Juni 2026 17:38:08",
+        "Waktu Scrapping": "5 Juni 2026 21:38:08",
         "Penulis": "-"
     },
     {
         "Judul": "Orang Tua Gendong Anak Seberangi Sungai Demi Mengikuti Ujian Kenaikan Kelas",
         "Link": "https://visual.republika.co.id/berita/tg5nmt375/orang-tua-gendong-anak-seberangi-sungai-demi-mengikuti-ujian-kenaikan-kelas",
         "Kategori": "Visual",
-        "Waktu Terbit": "5 Juni 2026 17:54:07",
-        "Waktu Scrapping": "5 Juni 2026 18:22:07",
+        "Waktu Terbit": "5 Juni 2026 17:38:08",
+        "Waktu Scrapping": "5 Juni 2026 21:38:08",
         "Penulis": "Edwin Dwi Putranto"
     },
     {
         "Judul": "Setelah Rusak Akibat Kerusuhan di Jakarta Agustus Lalu, JPO Senen Sentral Kembali Beroperasi",
         "Link": "https://news.republika.co.id/berita/tg5ngw487/setelah-rusak-akibat-kerusuhan-di-jakarta-agustus-lalu-jpo-senen-sentral-kembali-beroperasi",
         "Kategori": "News",
-        "Waktu Terbit": "5 Juni 2026 17:51:08",
-        "Waktu Scrapping": "5 Juni 2026 18:22:08",
+        "Waktu Terbit": "5 Juni 2026 17:38:09",
+        "Waktu Scrapping": "5 Juni 2026 21:38:09",
         "Penulis": "-"
     },
     {
         "Judul": "Shenina Cinnamon Perankan Generasi Sandwich yang Jadi Penggemar Berat K-Pop",
         "Link": "https://ameera.republika.co.id/berita/tg5n6x425/shenina-cinnamon-perankan-generasi-sandwich-yang-jadi-penggemar-berat-kpop",
         "Kategori": "Ameera",
-        "Waktu Terbit": "5 Juni 2026 17:45:08",
-        "Waktu Scrapping": "5 Juni 2026 18:22:08",
+        "Waktu Terbit": "5 Juni 2026 17:38:09",
+        "Waktu Scrapping": "5 Juni 2026 21:38:09",
         "Penulis": "Qommarria Rostanti"
     },
     {
@@ -68,335 +332,71 @@
         "Link": "https://ekonomi.republika.co.id/berita/tg5mup370/ihsg-tertekan-semua-sektor-saham-melemah-di-tengah-ketidakpastian-kebijakan-pemerintah",
         "Kategori": "Ekonomi",
         "Waktu Terbit": "5 Juni 2026 17:38:09",
-        "Waktu Scrapping": "5 Juni 2026 18:22:09",
+        "Waktu Scrapping": "5 Juni 2026 21:38:09",
         "Penulis": "Friska Yolandha"
     },
     {
-        "Judul": "Terungkap, Kapal induk USS Gerald R Ford Rusak Parah Akibat Terbakar Usai Perang dengan Iran",
+        "Judul": "Terungkap, Kapal Induk USS Gerald R Ford Rusak Parah Akibat Terbakar Usai Perang dengan Iran",
         "Link": "https://khazanah.republika.co.id/berita/tg5mop483/terungkap-kapal-induk-uss-gerald-r-ford-rusak-parah-akibat-terbakar-usai-perang-dengan-iran",
         "Kategori": "Khazanah",
-        "Waktu Terbit": "5 Juni 2026 17:34:09",
-        "Waktu Scrapping": "5 Juni 2026 18:22:09",
+        "Waktu Terbit": "5 Juni 2026 17:38:10",
+        "Waktu Scrapping": "5 Juni 2026 21:38:10",
         "Penulis": "A.Syalaby Ichsan"
     },
     {
         "Judul": "Koperasi Masuk Kurikulum, Menkop: Agar Generasi Muda Paham, Jangan Cuma Ekonomi Liberal Kapitalistik",
         "Link": "https://news.republika.co.id/berita/tg5mfu377/koperasi-masuk-kurikulum-menkop-agar-generasi-muda-paham-jangan-cuma-ekonomi-liberal-kapitalistik",
         "Kategori": "News",
-        "Waktu Terbit": "5 Juni 2026 17:29:10",
-        "Waktu Scrapping": "5 Juni 2026 18:22:10",
-        "Penulis": "Teguh Firmansyah"
+        "Waktu Terbit": "5 Juni 2026 17:38:11",
+        "Waktu Scrapping": "5 Juni 2026 21:38:11",
+        "Penulis": "-"
     },
     {
         "Judul": "Cetak Rekor MURI, Serial 'Love & 10 Million Dollars' Trending di 34 Negara",
         "Link": "https://ameera.republika.co.id/berita/tg5m1z425/cetak-rekor-muri-serial-love-10-million-dollars-trending-di-34-negara",
         "Kategori": "Ameera",
-        "Waktu Terbit": "5 Juni 2026 17:22:10",
-        "Waktu Scrapping": "5 Juni 2026 18:22:10",
+        "Waktu Terbit": "5 Juni 2026 17:38:11",
+        "Waktu Scrapping": "5 Juni 2026 21:38:11",
         "Penulis": "Qommarria Rostanti"
     },
     {
         "Judul": "Saatnya Punya Rumah Sendiri dengan BRI KPR Bunga Spesial 2,50%",
         "Link": "https://ekonomi.republika.co.id/berita/tg5lwf368/saatnya-punya-rumah-sendiri-dengan-bri-kpr-bunga-spesial-250",
         "Kategori": "Ekonomi",
-        "Waktu Terbit": "5 Juni 2026 17:22:11",
-        "Waktu Scrapping": "5 Juni 2026 18:22:11",
+        "Waktu Terbit": "5 Juni 2026 17:38:11",
+        "Waktu Scrapping": "5 Juni 2026 21:38:11",
         "Penulis": "Dwi Murdaningsih"
     },
     {
         "Judul": "APHI Buka Peluang Investasi Global untuk Pengelolaan Hutan Berkelanjutan",
         "Link": "https://esgnow.republika.co.id/berita/tg5li8522/aphi-buka-peluang-investasi-global-untuk-pengelolaan-hutan-berkelanjutan",
         "Kategori": "Esgnow",
-        "Waktu Terbit": "5 Juni 2026 17:22:11",
-        "Waktu Scrapping": "5 Juni 2026 18:22:11",
+        "Waktu Terbit": "5 Juni 2026 17:38:12",
+        "Waktu Scrapping": "5 Juni 2026 21:38:12",
         "Penulis": "Intan Pratiwi"
     },
     {
         "Judul": "ESDM Pacu Produksi Migas, Redam Dampak Pelemahan Rupiah",
         "Link": "https://ekonomi.republika.co.id/berita/tg5lee522/esdm-pacu-produksi-migas-redam-dampak-pelemahan-rupiah",
         "Kategori": "Ekonomi",
-        "Waktu Terbit": "5 Juni 2026 17:22:12",
-        "Waktu Scrapping": "5 Juni 2026 18:22:12",
+        "Waktu Terbit": "5 Juni 2026 16:38:13",
+        "Waktu Scrapping": "5 Juni 2026 21:38:13",
         "Penulis": "Intan Pratiwi"
     },
     {
         "Judul": "Ajukan Keberatan Berlanjutnya Penahanan, Israel Hukum Dr Abu Safiya di Sel Isolasi",
         "Link": "https://khazanah.republika.co.id/berita/tg5laj483/ajukan-keberatan-berlanjutnya-penahanan-israel-hukum-dr-abu-safiya-di-sel-isolasi",
         "Kategori": "Khazanah",
-        "Waktu Terbit": "5 Juni 2026 17:22:12",
-        "Waktu Scrapping": "5 Juni 2026 18:22:12",
+        "Waktu Terbit": "5 Juni 2026 16:38:13",
+        "Waktu Scrapping": "5 Juni 2026 21:38:13",
         "Penulis": "A.Syalaby Ichsan"
     },
     {
         "Judul": "Realisasi Anggaran MBG Capai Rp88,15 Triliun, Fokus pada Wilayah 3T dan Ibu Hamil",
         "Link": "https://ekonomi.republika.co.id/berita/tg5jrk370/realisasi-anggaran-mbg-capai-rp8815-triliun-fokus-pada-wilayah-3t-dan-ibu-hamil",
         "Kategori": "Ekonomi",
-        "Waktu Terbit": "5 Juni 2026 17:22:13",
-        "Waktu Scrapping": "5 Juni 2026 18:22:13",
+        "Waktu Terbit": "5 Juni 2026 16:38:14",
+        "Waktu Scrapping": "5 Juni 2026 21:38:14",
         "Penulis": "Friska Yolandha"
-    },
-    {
-        "Judul": "ESDM: Tarif Listrik Tidak Naik Sejak Januari 2017, Kecuali untuk Kelompok Ini",
-        "Link": "https://ekonomi.republika.co.id/berita/tg5kxb522/esdm-tarif-listrik-tidak-naik-sejak-januari-2017-kecuali-untuk-kelompok-ini",
-        "Kategori": "Ekonomi",
-        "Waktu Terbit": "5 Juni 2026 17:22:13",
-        "Waktu Scrapping": "5 Juni 2026 18:22:13",
-        "Penulis": "Intan Pratiwi"
-    },
-    {
-        "Judul": "IMA: Dugaan Underinvoicing Harus Diselesaikan Lewat Penegakan Hukum",
-        "Link": "https://ekonomi.republika.co.id/berita/tg5ksa522/ima-dugaan-underinvoicing-harus-diselesaikan-lewat-penegakan-hukum",
-        "Kategori": "Ekonomi",
-        "Waktu Terbit": "5 Juni 2026 17:22:14",
-        "Waktu Scrapping": "5 Juni 2026 18:22:14",
-        "Penulis": "Intan Pratiwi"
-    },
-    {
-        "Judul": "Perkuat Transformasi Digital,\u00a0BRI Life Raih Penghargaan di 'Health Insurance Ecosystem Forum 2026'",
-        "Link": "https://ekonomi.republika.co.id/berita/tg5kdt368/perkuat-transformasi-digitalbri-life-raih-penghargaan-di-health-insurance-ecosystem-forum-2026",
-        "Kategori": "Ekonomi",
-        "Waktu Terbit": "5 Juni 2026 16:22:14",
-        "Waktu Scrapping": "5 Juni 2026 18:22:14",
-        "Penulis": "Dwi Murdaningsih"
-    },
-    {
-        "Judul": "Resmikan Gedung FK UIN Suka, Menag Berharap Lahirnya Dokter-Dokter Islami",
-        "Link": "https://khazanah.republika.co.id/berita/tg5kju483/resmikan-gedung-fk-uin-suka-menag-berharap-lahirnya-dokterdokter-islami",
-        "Kategori": "Khazanah",
-        "Waktu Terbit": "5 Juni 2026 16:22:14",
-        "Waktu Scrapping": "5 Juni 2026 18:22:14",
-        "Penulis": "A.Syalaby Ichsan"
-    },
-    {
-        "Judul": "Kejagung tak Pilih Kasih, SPPG TNI-Polri Jika Tersangkut Korupsi MBG akan Diusut",
-        "Link": "https://news.republika.co.id/berita/tg5khv377/kejagung-tak-pilih-kasih-sppg-tnipolri-jika-tersangkut-korupsi-mbg-akan-diusut",
-        "Kategori": "News",
-        "Waktu Terbit": "5 Juni 2026 16:22:15",
-        "Waktu Scrapping": "5 Juni 2026 18:22:15",
-        "Penulis": "-"
-    },
-    {
-        "Judul": "Purbaya: Ekonomi Indonesia Jangan Dinilai Hanya dari Kurs Rupiah",
-        "Link": "https://ekonomi.republika.co.id/berita/tg5j1s370/purbaya-ekonomi-indonesia-jangan-dinilai-hanya-dari-kurs-rupiah",
-        "Kategori": "Ekonomi",
-        "Waktu Terbit": "5 Juni 2026 16:22:15",
-        "Waktu Scrapping": "5 Juni 2026 18:22:15",
-        "Penulis": "Friska Yolandha"
-    },
-    {
-        "Judul": "Kaji Pemanfaatan Gemini AI, Dosen UBSI Kampus Purwokerto Raih Hibah Penelitian Kemdiktisaintek",
-        "Link": "https://news.republika.co.id/berita/tg5jcm368/kaji-pemanfaatan-gemini-ai-dosen-ubsi-kampus-purwokerto-raih-hibah-penelitian-kemdiktisaintek",
-        "Kategori": "News",
-        "Waktu Terbit": "5 Juni 2026 16:22:15",
-        "Waktu Scrapping": "5 Juni 2026 18:22:15",
-        "Penulis": "-"
-    },
-    {
-        "Judul": "Pertamina Akselerasi Transisi Energi Lewat Program Dekarbonisasi dan Bisnis Rendah Karbon",
-        "Link": "https://ekonomi.republika.co.id/berita/tg5k4a368/pertamina-akselerasi-transisi-energi-lewat-program-dekarbonisasi-dan-bisnis-rendah-karbon",
-        "Kategori": "Ekonomi",
-        "Waktu Terbit": "5 Juni 2026 16:22:15",
-        "Waktu Scrapping": "5 Juni 2026 18:22:15",
-        "Penulis": "Dwi Murdaningsih"
-    },
-    {
-        "Judul": "Survei Indikator: Potensi Ziswaf dan Kurban di Indonesia Capai Rp343 Triliun",
-        "Link": "https://khazanah.republika.co.id/berita/tg5jza483/survei-indikator-potensi-ziswaf-dan-kurban-di-indonesia-capai-rp343-triliun",
-        "Kategori": "Khazanah",
-        "Waktu Terbit": "5 Juni 2026 16:22:16",
-        "Waktu Scrapping": "5 Juni 2026 18:22:16",
-        "Penulis": "A.Syalaby Ichsan"
-    },
-    {
-        "Judul": "Pengajian Keagamaan Warga Binaan Lapas Arga Makmur, Perkuat Pembinaan Kerohanian dan Akhlak",
-        "Link": "https://retizen.republika.co.id/posts/761396/pengajian-keagamaan-warga-binaan-lapas-arga-makmur-perkuat-pembinaan-kerohanian-dan-akhlak",
-        "Kategori": "Retizen",
-        "Waktu Terbit": "5 Juni 2026 16:22:16",
-        "Waktu Scrapping": "5 Juni 2026 18:22:17",
-        "Penulis": "-"
-    },
-    {
-        "Judul": "Bagaimana Sungai yang Dulunya Tercemar Sekarang Kembali Bersih",
-        "Link": "https://republika.co.id/page/shorts/yt-tg5jq11942595727/bagaimana-sungai-yang-dulunya-tercemar-sekarang-kembali-bersih",
-        "Kategori": "Video",
-        "Waktu Terbit": "5 Juni 2026 16:22:18",
-        "Waktu Scrapping": "5 Juni 2026 18:22:18",
-        "Penulis": "-"
-    },
-    {
-        "Judul": "Belajar Lintas Budaya, Siswa Sekolah Prestasi Global Kunjungi Acmar International School",
-        "Link": "https://news.republika.co.id/berita/tg5j2j368/belajar-lintas-budaya-siswa-sekolah-prestasi-global-kunjungi-acmar-international-school",
-        "Kategori": "News",
-        "Waktu Terbit": "5 Juni 2026 16:22:18",
-        "Waktu Scrapping": "5 Juni 2026 18:22:18",
-        "Penulis": "-"
-    },
-    {
-        "Judul": "Persib Masuk Grup Neraka, Jumpa JDT dan Cong An Ha Noi di Shopee Cup",
-        "Link": "https://news.republika.co.id/berita/tg5jdm348/persib-masuk-grup-neraka-jumpa-jdt-dan-cong-an-ha-noi-di-shopee-cup",
-        "Kategori": "News",
-        "Waktu Terbit": "5 Juni 2026 16:22:19",
-        "Waktu Scrapping": "5 Juni 2026 18:22:19",
-        "Penulis": "-"
-    },
-    {
-        "Judul": "Hasil Penelitian Tegaskan Nggak Ada Batas Aman Konsumsi Alkohol untuk Tubuh",
-        "Link": "https://ameera.republika.co.id/berita/tg5jc2425/hasil-penelitian-tegaskan-nggak-ada-batas-aman-konsumsi-alkohol-untuk-tubuh",
-        "Kategori": "Ameera",
-        "Waktu Terbit": "5 Juni 2026 16:22:19",
-        "Waktu Scrapping": "5 Juni 2026 18:22:19",
-        "Penulis": "Qommarria Rostanti"
-    },
-    {
-        "Judul": "Kuliah Jangan Cari Nilai, Ayo Bangun Portofolio Sejak Hari Pertama",
-        "Link": "https://news.republika.co.id/berita/tg5hzw368/kuliah-jangan-cari-nilai-ayo-bangun-portofolio-sejak-hari-pertama",
-        "Kategori": "News",
-        "Waktu Terbit": "5 Juni 2026 16:22:19",
-        "Waktu Scrapping": "5 Juni 2026 18:22:19",
-        "Penulis": "-"
-    },
-    {
-        "Judul": "Kisah Jonathan, Tentara IDF yang Memberi Kesaksian Jejak Kebrutalan Israel di Gaza",
-        "Link": "https://khazanah.republika.co.id/berita/tg5j4q483/kisah-jonathan-tentara-idf-yang-memberi-kesaksian-jejak-kebrutalan-israel-di-gaza",
-        "Kategori": "Khazanah",
-        "Waktu Terbit": "5 Juni 2026 16:22:19",
-        "Waktu Scrapping": "5 Juni 2026 18:22:19",
-        "Penulis": "A.Syalaby Ichsan"
-    },
-    {
-        "Judul": "Demi Sekolah Anak dan Rumah yang Lebih Layak, Ibu Ragaia Terus Melangkah dari Pesisir Sorong",
-        "Link": "https://ekonomi.republika.co.id/berita/tg5iz0368/demi-sekolah-anak-dan-rumah-yang-lebih-layak-ibu-ragaia-terus-melangkah-dari-pesisir-sorong",
-        "Kategori": "Ekonomi",
-        "Waktu Terbit": "5 Juni 2026 16:22:20",
-        "Waktu Scrapping": "5 Juni 2026 18:22:20",
-        "Penulis": "Dwi Murdaningsih"
-    },
-    {
-        "Judul": "BTS 'Pamer' Serangkaian Foto Rayakan Hari Jadi ke-13",
-        "Link": "https://ameera.republika.co.id/berita/tg5isb425/bts-pamer-serangkaian-foto-rayakan-hari-jadi-ke13",
-        "Kategori": "Ameera",
-        "Waktu Terbit": "5 Juni 2026 16:22:20",
-        "Waktu Scrapping": "5 Juni 2026 18:22:20",
-        "Penulis": "Qommarria Rostanti"
-    },
-    {
-        "Judul": "Mahasiswa UNM Ciptakan OOGIV, AI Canggis yang Bisa Ubah PDF dan Video Jadi Soal Otomatis",
-        "Link": "https://news.republika.co.id/berita/tg5hwv368/mahasiswa-unm-ciptakan-oogiv-ai-canggis-yang-bisa-ubah-pdf-dan-video-jadi-soal-otomatis",
-        "Kategori": "News",
-        "Waktu Terbit": "5 Juni 2026 16:22:20",
-        "Waktu Scrapping": "5 Juni 2026 18:22:20",
-        "Penulis": "-"
-    },
-    {
-        "Judul": "Indef: LCT dan Diversifikasi Rantai Pasok Jadi Kunci Hadapi Pelemahan Rupiah",
-        "Link": "https://ekonomi.republika.co.id/berita/tg5est370/indef-lct-dan-diversifikasi-rantai-pasok-jadi-kunci-hadapi-pelemahan-rupiah",
-        "Kategori": "Ekonomi",
-        "Waktu Terbit": "5 Juni 2026 16:22:20",
-        "Waktu Scrapping": "5 Juni 2026 18:22:20",
-        "Penulis": "Friska Yolandha"
-    },
-    {
-        "Judul": "Talkshow UMJ MemBumi 2026 Ajak Civitas Academica Jadi Pelopor Kampus Peduli Lingkungan",
-        "Link": "https://news.republika.co.id/berita/tg5ha9368/talkshow-umj-membumi-2026-ajak-civitas-academica-jadi-pelopor-kampus-peduli-lingkungan",
-        "Kategori": "News",
-        "Waktu Terbit": "5 Juni 2026 16:22:21",
-        "Waktu Scrapping": "5 Juni 2026 18:22:21",
-        "Penulis": "-"
-    },
-    {
-        "Judul": "Mengapa Kaum Quraisy Gagal Membuktikan Alquran Karangan Nabi Muhammad?",
-        "Link": "https://iqra.republika.co.id/berita/tg5ab8451/mengapa-kaum-quraisy-gagal-membuktikan-alquran-karangan-nabi-muhammad",
-        "Kategori": "Iqra",
-        "Waktu Terbit": "5 Juni 2026 16:22:21",
-        "Waktu Scrapping": "5 Juni 2026 18:22:21",
-        "Penulis": "Erdy Nasrul"
-    },
-    {
-        "Judul": "Perusahaan Dituntut Perkuat Keamanan Data di Era AI",
-        "Link": "https://ekonomi.republika.co.id/berita/tg5eyv416/perusahaan-dituntut-perkuat-keamanan-data-di-era-ai",
-        "Kategori": "Ekonomi",
-        "Waktu Terbit": "5 Juni 2026 16:22:21",
-        "Waktu Scrapping": "5 Juni 2026 18:22:21",
-        "Penulis": "Satria K Yudha"
-    },
-    {
-        "Judul": "Mahasiswa Asal Kebumen Tertangkap Basah Colong Motor Teman Kos di Karawang",
-        "Link": "https://rejabar.republika.co.id/berita/tg5i00282/mahasiswa-asal-kebumen-tertangkap-basah-colong-motor-teman-kos-di-karawang",
-        "Kategori": "Rejabar",
-        "Waktu Terbit": "5 Juni 2026 16:22:22",
-        "Waktu Scrapping": "5 Juni 2026 18:22:22",
-        "Penulis": "Karta Raharja Ucu"
-    },
-    {
-        "Judul": "Seluruh Petugas Haji 2027 akan Masuk Barak, dari Petugas Kloter hingga PPIH Pusat",
-        "Link": "https://khazanah.republika.co.id/berita/tg5hzl430/seluruh-petugas-haji-2027-akan-masuk-barak-dari-petugas-kloter-hingga-ppih-pusat",
-        "Kategori": "Khazanah",
-        "Waktu Terbit": "5 Juni 2026 15:22:22",
-        "Waktu Scrapping": "5 Juni 2026 18:22:22",
-        "Penulis": "Muhammad Hafil"
-    },
-    {
-        "Judul": "Bukan Tank versus Drone, tetapi Kedaulatan Teknologi Pertahanan",
-        "Link": "https://analisis.republika.co.id/berita/tg5hv1393/bukan-tank-versus-drone-tetapi-kedaulatan-teknologi-pertahanan",
-        "Kategori": "Kolom",
-        "Waktu Terbit": "5 Juni 2026 15:22:23",
-        "Waktu Scrapping": "5 Juni 2026 18:22:23",
-        "Penulis": "Fitriyan Zamzami"
-    },
-    {
-        "Judul": "Sehat Rasa,\u00a0Startup Mahasiswa UNM Dilirik Investor Internasional",
-        "Link": "https://news.republika.co.id/berita/tg5hs7368/sehat-rasastartup-mahasiswa-unm-dilirik-investor-internasional",
-        "Kategori": "News",
-        "Waktu Terbit": "5 Juni 2026 15:22:24",
-        "Waktu Scrapping": "5 Juni 2026 18:22:24",
-        "Penulis": "-"
-    },
-    {
-        "Judul": "Tren Rumah Pintar Menguat, Ariston Kenalkan Pemanas Air Terhubung Wi-Fi",
-        "Link": "https://ameera.republika.co.id/berita/tg5hqe349/tren-rumah-pintar-menguat-ariston-kenalkan-pemanas-air-terhubung-wifi",
-        "Kategori": "Ameera",
-        "Waktu Terbit": "5 Juni 2026 15:22:25",
-        "Waktu Scrapping": "5 Juni 2026 18:22:25",
-        "Penulis": "Ichsan Emrald Alamsyah"
-    },
-    {
-        "Judul": "Defisit APBN Capai Rp180,4 Triliun hingga Mei",
-        "Link": "https://ekonomi.republika.co.id/berita/tg5hpx370/defisit-apbn-capai-rp1804-triliun-hingga-mei",
-        "Kategori": "Ekonomi",
-        "Waktu Terbit": "5 Juni 2026 15:22:25",
-        "Waktu Scrapping": "5 Juni 2026 18:22:25",
-        "Penulis": "Friska Yolandha"
-    },
-    {
-        "Judul": "Menkop Ingin Gabungan Koperasi Urunan Kuasai Lagi Bukopin",
-        "Link": "https://news.republika.co.id/berita/tg5hpq487/menkop-ingin-gabungan-koperasi-urunan-kuasai-lagi-bukopin",
-        "Kategori": "News",
-        "Waktu Terbit": "5 Juni 2026 15:22:25",
-        "Waktu Scrapping": "5 Juni 2026 18:22:25",
-        "Penulis": "-"
-    },
-    {
-        "Judul": "UMJ Gaungkan Aksi Nyata Kampus Hijau Lewat Gerakan MemBumi",
-        "Link": "https://news.republika.co.id/berita/tg5h8f368/umj-gaungkan-aksi-nyata-kampus-hijau-lewat-gerakan-membumi",
-        "Kategori": "News",
-        "Waktu Terbit": "5 Juni 2026 15:22:25",
-        "Waktu Scrapping": "5 Juni 2026 18:22:25",
-        "Penulis": "-"
-    },
-    {
-        "Judul": "Kebutuhan Energi Nasional Terus Tumbuh, PGN Perkuat Infrastruktur dan Pasokan Gas",
-        "Link": "https://ekonomi.republika.co.id/berita/tg5h4j522/kebutuhan-energi-nasional-terus-tumbuh-pgn-perkuat-infrastruktur-dan-pasokan-gas",
-        "Kategori": "Ekonomi",
-        "Waktu Terbit": "5 Juni 2026 15:22:26",
-        "Waktu Scrapping": "5 Juni 2026 18:22:26",
-        "Penulis": "Intan Pratiwi"
-    },
-    {
-        "Judul": "Enggan 'Dikorbankan' Sendirian, Sony Sanjaya Siap Buka-bukaan Keterlibatan Petinggi dalam Kasus MBG",
-        "Link": "https://news.republika.co.id/berita/tg5h0j487/enggan-dikorbankan-sendirian-sony-sanjaya-siap-bukabukaan-keterlibatan-petinggi-dalam-kasus-mbg",
-        "Kategori": "News",
-        "Waktu Terbit": "5 Juni 2026 15:22:26",
-        "Waktu Scrapping": "5 Juni 2026 18:22:26",
-        "Penulis": "-"
     }
 ]
